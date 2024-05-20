@@ -10,9 +10,11 @@ Doctelligence is a pioneering initiative with two synergistic branches: **Doctel
 The non-profit arm of Doctelligence is committed to decentralizing health data, enhancing patient outcomes, and expanding global access to healthcare. Our efforts align with the WHO’s [Global Strategy on Digital Health 2020-2025](https://www.who.int/publications/i/item/9789240020924), promoting digital technologies to improve health worldwide and [advancing Universal Health Coverage](https://www.who.int/europe/health-topics/universal-health-coverage) by making healthcare more accessible and equitable.
 
 ### Our Work at the Labs:
-- 🛠️ Develop in-depth and domain-specific advanced open-source AI software technologies for clinical teams' products, including diagnostics, prognostics, treatment selection, decision support, medical imaging, patient monitoring, personalized medicine, telemedicine, EHR integration, medication management, surgical planning, rehabilitation, population health management, health behavior tracking, and genomic medicine.
-- 💼 Provide premium services, tailoring AI software, and supplying expertise for robust technology development.
-- 🤝 Collaborate with healthcare organizations to deliver cutting-edge solutions.
+🛠️ **Research and Development:** Drive deep-tech initiatives to develop sophisticated AI software tailored for modern clinical healthcare tools. Conduct R&D on open-source AI technologies for diagnostics, prognostics, treatment selection, decision support, medical imaging, patient monitoring, personalized medicine, telemedicine, and more.
+
+💼 **Premium Services:** Extend and direct R&D outcomes for commercial use, enabling organizations to leverage our suite of advanced AI technologies. Tailor AI solutions to specific industry needs, providing expertise in implementation and optimization.
+
+🤝 **Collaboration:** Forge strategic partnerships with healthcare organizations to deliver innovative AI-driven solutions. Collaborate closely to integrate cutting-edge technologies into existing healthcare systems and workflows.
 
 Operating as a for-profit subsidiary under Doctelligence, Doctelligence Labs develops innovative technologies for clinical healthcare and extends its expertise to offer premium services. Revenue generated supports the Foundation’s mission, providing a sustainable model for our non-profit objectives.
 
@@ -20,7 +22,7 @@ Operating as a for-profit subsidiary under Doctelligence, Doctelligence Labs dev
 Whether you're passionate about the democratization of health data or interested in the technical challenges of modern healthcare, we have a place for you.
 
 - **Contribute**: Join us in building the future of healthcare technology. Check our [contribution guidelines](CONTRIBUTING.md).
-- **Engage**: Find out how you can be part of this transformative journey on our [LinkedIn](https://www.linkedin.com/company/doctelligence/) and [website](https://www.doctelligence.org).
+- **Engage**: Find out how you can be part of this transformative journey on our [LinkedIn](https://www.linkedin.com/company/doctelligence/) and [website](https://www.doctelligence.com).
 - **Connect**: Reach out to us at [support@doctelligence.com](mailto:support@doctelligence.com) to learn more or discuss collaboration.
 
 ---
