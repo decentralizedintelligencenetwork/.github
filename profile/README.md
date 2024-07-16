@@ -20,14 +20,6 @@ Empower individuals with data sovereignty while enabling effective AI training f
 - **Smart Cities** 🏙️: Resident-managed data for optimized urban services
 - **Agriculture** 🌾: Farmer-controlled agricultural data for improved practices
 
-## Public Goods, Governance, and Tokenomics
-
-We emphasize social aspects and tangible value in our system architecture:
-
-- Public Goods Initiatives: Inspired by [Gitcoin](https://gitcoin.co/) funding and [Optimism](https://www.optimism.io/)'s vision
-- Governance Concepts: Exploring [Gov4Git](https://gov4git.org/), quadratic voting, and delegate mechanisms
-- Non-speculative Tokenomics: Utilizing Harberger taxation and partial-common ownership, influenced by [RadicalxChange](https://www.radicalxchange.org/)
-
 ## Get Involved
 
 Join us in shaping the future of decentralized technology:
