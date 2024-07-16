@@ -9,8 +9,6 @@ Empower individuals with data sovereignty while enabling effective AI training f
 - [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 - [EU General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
 - [OECD Guidelines on Privacy Protection](https://www.oecd.org/digital/ieconomy/privacy-guidelines.htm)
-- [APEC Privacy Framework](https://www.apec.org/Publications/2017/08/APEC-Privacy-Framework-(2015))
-- [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
 
 ## What We Do:
 
