@@ -1,4 +1,4 @@
-# Decentralized Intelligence Network (DIN) 🌐🧠
+# Decentralized Intelligence Network (DIN) 🧠 
 
 DIN is dedicated to creating a self-sovereign, decentralized data network across various sectors as a public good.
 
