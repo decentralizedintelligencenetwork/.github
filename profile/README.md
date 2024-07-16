@@ -1,21 +1,41 @@
-# Welcome to Doctelligence 🚀
+# Welcome to the Decentralized Intelligence Network (DIN) 🌐🧠
 
-**Doctelligence Foundation** is dedicated to creating a self-sovereign healthcare network as a public good.
+DIN is dedicated to creating a self-sovereign, decentralized data network across various sectors as a public good.
 
-### What We Do at the Foundation:
-- 📊 Create a self-sovereign, decentralized healthcare network.
-- 🧬 Employ blockchain and federated learning for secure AI model training.
-- 💡 Foster an ecosystem where patients are rewarded for their data contribution to fund health insurance.
+## Our Mission
 
-The non-profit arm of Doctelligence is committed to decentralizing health data, enhancing patient outcomes, and expanding global access to healthcare. Our efforts align with the WHO’s [Global Strategy on Digital Health 2020-2025](https://www.who.int/publications/i/item/9789240020924), promoting digital technologies to improve health worldwide and [advancing Universal Health Coverage](https://www.who.int/europe/health-topics/universal-health-coverage) by making healthcare more accessible and equitable.
+Empower individuals with data sovereignty while enabling effective AI training for societal benefit. We align with global initiatives promoting digital rights, privacy, and equitable technology access.
+
+## What We Do:
+
+- 🛡️ Ensure individual data control and benefit from AI advancements
+- 🔗 Implement scalable federated learning on public blockchains
+- 🎁 Design fair, trustless reward mechanisms for participation
+- 
+## Key Use Cases:
+
+- **Healthcare** 🏥: Patient-controlled health data for research and personalized care
+- **Finance** 💰: Individual financial data management for tailored advice
+- **Education** 📚: Student-owned academic records for customized learning
+- **Smart Cities** 🏙️: Resident-managed data for optimized urban services
+- **Agriculture** 🌾: Farmer-controlled agricultural data for improved practices
+
+## Public Goods, Governance, and Tokenomics
+
+We emphasize social aspects and tangible value in our system architecture:
+
+- Public Goods Initiatives: Inspired by [Gitcoin](https://gitcoin.co/) funding and [Optimism](https://www.optimism.io/)'s vision
+- Governance Concepts: Exploring [Gov4Git](https://gov4git.org/), quadratic voting, and delegate mechanisms
+- Non-speculative Tokenomics: Utilizing Harberger taxation and partial-common ownership, influenced by [RadicalxChange](https://www.radicalxchange.org/)
 
 ## Get Involved
-Whether you're passionate about the democratization of health data or interested in the technical challenges of modern healthcare, we have a place for you.
 
-- **Contribute**: Join us in building the future of healthcare technology. Check our [contribution guidelines](CONTRIBUTING.md).
-- **Engage**: Find out how you can be part of this transformative journey on our [website](https://www.doctelligence.org).
-- **Connect**: Reach out to us to learn more or discuss collaboration.
+Join us in shaping the future of decentralized technology:
 
----
+- **Contribute:** Check our [contribution guidelines](link-to-guidelines)
+- **Engage:** Explore opportunities on our [website](https://www.example.org)
+- **Connect:** Reach out to discuss collaboration
 
-© 2024 Doctelligence | Bridging gaps in healthcare through innovation.
+📄 Read our full [White Paper](https://decentralized-intelligence-network.github.io/white-paper)
+
+© 2024 DIN | Empowering global data sovereignty through innovation
