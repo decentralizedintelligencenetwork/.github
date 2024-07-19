@@ -7,7 +7,7 @@ DIN is dedicated to creating a self-sovereign, decentralized data network across
 - 🛡️ Ensure individual data control and benefit from AI advancements
 - 🔗 Implement scalable federated learning on public blockchains
 - 🎁 Design fair, trustless reward mechanisms for participation
-- 
+  
 ## Key Use Cases:
 
 - **Healthcare** 🏥: Patient-controlled health data for research and personalized care
