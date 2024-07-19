@@ -2,14 +2,6 @@
 
 DIN is dedicated to creating a self-sovereign, decentralized data network across various sectors as a public good.
 
-## Our Mission
-
-Empower individuals with data sovereignty while enabling effective AI training for societal benefit. We align with global initiatives promoting digital rights, privacy, and equitable technology access including:
-
-- [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
-- [EU General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
-- [OECD Guidelines on Privacy Protection](https://www.oecd.org/digital/ieconomy/privacy-guidelines.htm)
-
 ## What We Do:
 
 - 🛡️ Ensure individual data control and benefit from AI advancements
@@ -23,6 +15,14 @@ Empower individuals with data sovereignty while enabling effective AI training f
 - **Education** 📚: Student-owned academic records for customized learning
 - **Smart Cities** 🏙️: Resident-managed data for optimized urban services
 - **Agriculture** 🌾: Farmer-controlled agricultural data for improved practices
+
+## Our Mission
+
+Empower individuals with data sovereignty while enabling effective AI training for societal benefit. We align with global initiatives promoting digital rights, privacy, and equitable technology access including:
+
+- [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+- [EU General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
+- [OECD Guidelines on Privacy Protection](https://www.oecd.org/digital/ieconomy/privacy-guidelines.htm)
 
 ## Get Involved
 
