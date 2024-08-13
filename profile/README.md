@@ -1,37 +1,25 @@
-# Decentralized Intelligence Network (DIN) 
+# Welcome to Doctelligence 🚀
 
-DIN is dedicated to creating a self-sovereign, decentralized data network across various sectors as a public good.
+Doctelligence is a pioneering initiative with a focus on the **Doctelligence Foundation**, dedicated to creating a self-sovereign healthcare network as a public good. Our mission is to enhance patient outcomes and global healthcare access through innovative technologies and decentralization.
 
-## What We Do:
+### What We Do at the Foundation:
+- 📊 Create a self-sovereign, decentralized healthcare network.
+- 🧬 Employ blockchain and federated learning for secure AI model training.
+- 💡 Foster an ecosystem where patients are rewarded for their data contribution to fund health insurance.
 
-- 🛡️ Ensure individual data control and benefit from AI advancements
-- 🔗 Implement scalable federated learning on public blockchains
-- 🎁 Design fair, trustless reward mechanisms for participation
-  
-## Key Use Cases:
+The non-profit arm of Doctelligence is committed to decentralizing health data, enhancing patient outcomes, and expanding global access to healthcare. Our efforts align with the WHO’s [Global Strategy on Digital Health 2020-2025](https://www.who.int/publications/i/item/9789240020924), promoting digital technologies to improve health worldwide, and [advancing Universal Health Coverage](https://www.who.int/europe/health-topics/universal-health-coverage) by making healthcare more accessible and equitable.
 
-- **Healthcare** 🏥: Patient-controlled health data for research and personalized care
-- **Finance** 💰: Individual financial data management for tailored advice
-- **Education** 📚: Student-owned academic records for customized learning
-- **Smart Cities** 🏙️: Resident-managed data for optimized urban services
-- **Agriculture** 🌾: Farmer-controlled agricultural data for improved practices
-
-## Our Mission
-
-Empower individuals with data sovereignty while enabling effective AI training for societal benefit. We align with global initiatives promoting digital rights, privacy, and equitable technology access including:
-
-- [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
-- [EU General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
-- [OECD Guidelines on Privacy Protection](https://www.oecd.org/digital/ieconomy/privacy-guidelines.htm)
+This work springs forth from the paper on the **Decentralized Health Intelligence Network (DHIN)**, a derivative use case of the **Decentralized Intelligence Network (DIN)**. You can explore these papers here:
+- [DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)
+- [DHIN: Decentralized Health Intelligence Network](https://arxiv.org/abs/2408.06240)
 
 ## Get Involved
+Whether you're passionate about the democratization of health data or interested in supporting a transformative healthcare model, we have a place for you.
 
-Join us in shaping the future of decentralized technology:
+- **Contribute**: Join us in building the future of healthcare technology. Check our [contribution guidelines](CONTRIBUTING.md).
+- **Engage**: Find out how you can be part of this transformative journey on our [LinkedIn](https://www.linkedin.com/company/doctelligence/) and [website](https://www.doctelligence.org).
+- **Connect**: Reach out to us at [support@doctelligence.com](mailto:support@doctelligence.com) to learn more or discuss collaboration.
 
-- **Contribute:** Check our [contribution guidelines](link-to-guidelines)
-- **Engage:** Explore opportunities on our [website](https://www.example.org)
-- **Connect:** Reach out to discuss collaboration
+---
 
-📄 Read our full [White Paper](https://decentralized-intelligence-network.github.io/white-paper)
-
-© 2024 DIN | Empowering global data sovereignty through innovation
+© 2024 Doctelligence | Bridging gaps in healthcare through innovation.
