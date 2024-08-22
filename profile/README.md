@@ -1,6 +1,6 @@
 # Welcome to Doctelligence 🚀
 
-Doctelligence is a pioneering initiative with a focus on the **Doctelligence Foundation**, dedicated to creating a self-sovereign healthcare network as a public good. Our mission is to enhance patient outcomes and global healthcare access through innovative technologies and decentralization.
+Doctelligence is a pioneering initiative dedicated to creating a self-sovereign healthcare network as a public good. Our mission is to enhance patient outcomes and global healthcare access through innovative technologies and decentralization.
 
 ### What We Do at the Foundation:
 - 📊 Create a self-sovereign, decentralized healthcare network.
