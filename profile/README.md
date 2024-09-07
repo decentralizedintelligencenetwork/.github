@@ -33,7 +33,7 @@ As we expand the DIN network's capabilities, we explore various theoretical modu
 ## Get Involved:
 Whether you're passionate about the future of decentralized technologies or eager to support a transformative cross-sector model, there's a place for you at *Doctelligence*.
 
-- **Contribute:** Join us in building the future of decentralized intelligence. Check our [contribution guidelines](#).
+- **Contribute:** Join us in building the future of decentralized intelligence. Check our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
 - **Engage:** Discover how you can be part of this transformative journey on our [website](doctelligence.github.io), currently in development.
 - **Connect:** Reach out to us at [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com) to learn more or discuss collaboration.
 
