@@ -10,11 +10,13 @@
 *Doctelligence* is committed to decentralizing intelligence and enhancing outcomes across industries by aligning with global standards and frameworks. By ensuring that data never leaves its original store, *Doctelligence*'s approach naturally complies with regulations, preserving data sovereignty while facilitating scalable and innovative AI solutions. Our model aligns with key regulatory bodies, including:
 
 - **General Data Protection Regulation (GDPR)**: Ensuring data protection and privacy for individuals within the European Union.
+- **Health Insurance Portability and Accountability Act (HIPAA)**: Safeguarding sensitive patient information in the United States.
+- **California Consumer Privacy Act (CCPA)**: Providing data privacy rights to residents of California, USA.
 - **Personal Information Protection and Electronic Documents Act (PIPEDA)**: Governing the collection, use, and disclosure of personal data in Canada.
   
 ***Doctelligence* operates as a decentralized and open-source framework; no single entity owns or controls it.** This collaborative model ensures that it remains a truly community-driven initiative.
 
-## Vision & Beginnings:
+## Origins and Vision:
 *Decentralized Intelligence Network (DIN)* framework, on which *Doctelligence* is founded, is designed to address challenges in AI development, particularly focusing on data fragmentation and siloing issues. *DIN* facilitates effective AI training within sovereign networks by overcoming barriers to accessing diverse data sources. It leverages decentralized technologies to address key challenges in data fragmentation and siloing, enabling a more integrated and accessible AI ecosystem.
 
 ***DIN* was showcased at the Summit on Responsible Decentralized Intelligence - Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.** Explore our white paper here:
