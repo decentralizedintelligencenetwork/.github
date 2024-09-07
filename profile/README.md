@@ -23,9 +23,8 @@
 
 Other future modular extensions may include, for example:
 
-- **[DHIN: Decentralized Health Intelligence Network](https://arxiv.org/abs/2408.06240)** – A modular extension of *DIN*, DHIN specifically focuses on decentralized health applications, providing a tailored approach to health data management and intelligence.
+- **[DHIN (Decentralized Health Intelligence Network)](https://arxiv.org/abs/2408.06240)** – A modular extension of *DIN*, DHIN specifically focuses on decentralized health applications, providing a tailored approach to health data management and intelligence.
 - **DPIN** (Decentralized Physical Intelligence Network) for **DePIN** 
-- **DFIN** (Decentralized Financial Intelligence Network) for **DeFinance**, 
 - **DCIN** (Decentralized City Intelligence Network) for **IoTCities**.
 
 As we expand the DIN network's capabilities, we explore various theoretical modular extensions where the DIN toolkit can be deployed, including circular token economies. For the Doctelligence community, ensuring fair rewards and stable data valuation is crucial. Guidance includes exploring stablecoins for reliable compensation and to mitigate volatility, while also considering other mechanisms to maintain data value across network extensions.
