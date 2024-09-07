@@ -1,26 +1,46 @@
 # Welcome to Doctelligence 🚀
 
-Doctelligence is a pioneering initiative dedicated to creating a self-sovereign healthcare network as a public good. Our mission is to enhance patient outcomes and global healthcare access through innovative technologies and decentralization.
+*Doctelligence* is a pioneering decentralized framework designed to build a self-sovereign ecosystem that transcends sectors. Our mission is to empower individuals and organizations through data sovereignty, scalable AI, and decentralized technologies, driving innovation and accessibility across various industries.
 
-### What We Do at the Foundation:
-- 📊 Create a self-sovereign, decentralized healthcare network.
-- 🧬 Employ blockchain and federated learning for secure AI model training.
-- 💡 Foster an ecosystem where patients are rewarded for their data contribution to fund health insurance.
+## What We Do at *Doctelligence*:
+- 🛡️ **Create a self-sovereign, decentralized network** that fosters trust and autonomy across different sectors.
+- 📈 **Leverage blockchain and federated learning** to enable secure and privacy-preserving AI model training.
+- 🌍 **Promote an ecosystem where participants are rewarded** for contributing data, fueling innovation and equity in various fields.
 
-The non-profit arm of Doctelligence is committed to decentralizing health data, enhancing patient outcomes, and expanding global access to healthcare. Our efforts align with the WHO’s [Global Strategy on Digital Health 2020-2025](https://www.who.int/publications/i/item/9789240020924), promoting digital technologies to improve health worldwide, and [advancing Universal Health Coverage](https://www.who.int/europe/health-topics/universal-health-coverage) by making healthcare more accessible and equitable.
+*Doctelligence* is committed to decentralizing intelligence and enhancing outcomes across industries by aligning with global standards and frameworks. By ensuring that data never leaves its original store, *Doctelligence*'s approach naturally complies with regulations, preserving data sovereignty while facilitating scalable and innovative AI solutions. Our model aligns with key regulatory bodies, including:
+- **General Data Protection Regulation (GDPR)**: Ensuring data protection and privacy for individuals within the European Union.
+- **Health Insurance Portability and Accountability Act (HIPAA)**: Safeguarding sensitive patient information in the United States.
+- **California Consumer Privacy Act (CCPA)**: Providing data privacy rights to residents of California, USA.
+- **Personal Information Protection and Electronic Documents Act (PIPEDA)**: Governing the collection, use, and disclosure of personal data in Canada.
 
-This work springs forth from the paper on the **Decentralized Health Intelligence Network (DHIN)**, a derivative use case of the **Decentralized Intelligence Network (DIN)**. The DIN works were presented at the Summit on Responsible Decentralized Intelligence - Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC. You can explore these papers here:
+***Doctelligence* operates as a decentralized and open-source framework; no single entity owns or controls it.** This collaborative model ensures that it remains a truly community-driven initiative.
 
-- [DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)
-- [DHIN: Decentralized Health Intelligence Network](https://arxiv.org/abs/2408.06240)
+## Origins and Vision:
+The *Decentralized Intelligence Network (DIN)* framework, on which *Doctelligence* is founded, is designed to address challenges in AI development, particularly focusing on data fragmentation and siloing issues. *DIN* facilitates effective AI training within sovereign networks by overcoming barriers to accessing diverse data sources. It leverages decentralized technologies to address key challenges in data fragmentation and siloing, enabling a more integrated and accessible AI ecosystem.
 
-## Get Involved
-Whether you're passionate about the democratization of health data or interested in supporting a transformative healthcare model, we have a place for you.
+***DIN* was showcased at the Summit on Responsible Decentralized Intelligence - Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.** Explore our papers here:
 
-- **Contribute**: Join us in building the future of healthcare technology. Check our [contribution guidelines](CONTRIBUTING.md).
-- **Engage**: Find out how you can be part of this transformative journey on our [LinkedIn](https://www.linkedin.com/company/doctelligence/) and [website](https://www.doctelligence.org).
-- **Connect**: Reach out to us at [support@doctelligence.com](mailto:support@doctelligence.com) to learn more or discuss collaboration.
+- **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)** – This paper introduces the core *DIN* framework, laying the groundwork for decentralized intelligence across various sectors.
+- **[DHIN: Decentralized Health Intelligence Network](https://arxiv.org/abs/2408.06240)** – A modular extension of *DIN*, DHIN specifically focuses on decentralized health applications, providing a tailored approach to health data management and intelligence.
+
+Other future modular extensions may include, for example:
+- **DPIN** (Decentralized Physical Intelligence Network) for **DePIN** (decentralized physical infrastructure),
+- **DGIN** (Decentralized Green Intelligence Network) for **agriculture**, 
+- **DFIN** for **DeFinance**, 
+- **DEIN** (Decentralized Education Intelligence Network) for **education**, 
+- **DCIN** (Decentralized City Intelligence Network) for **smart cities**.
+
+These are theoretical modular extensions where the *DIN* toolkit can be deployed, expanding the network's capabilities.
+
+These extensions can potentially facilitate circular token economies, although stablecoins will serve as the primary reward mechanism. Stablecoins mitigate volatility and enable fair reward valuations for data contributions, ensuring consistency and reliability in participant compensation.
+
+## Get Involved:
+Whether you're passionate about the future of decentralized technologies or eager to support a transformative cross-sector model, there's a place for you at *Doctelligence*.
+
+- **Contribute:** Join us in building the future of decentralized intelligence. Check our [contribution guidelines](#).
+- **Engage:** Discover how you can be part of this transformative journey on our [website](#), currently in development.
+- **Connect:** Reach out to us at [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com) to learn more or discuss collaboration.
 
 ---
 
-© 2024 Doctelligence | Bridging gaps in healthcare through innovation.
+© 2024 Doctelligence | Empowering data sovereignty, driving scalable AI, and fostering decentralized innovation. Join us in building the future of a self-sovereign, decentralized ecosystem.
