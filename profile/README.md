@@ -16,7 +16,7 @@
 ***Doctelligence* operates as a decentralized and open-source framework; no single entity owns or controls it.** This collaborative model ensures that it remains a truly community-driven initiative.
 
 ## Origins and Vision:
-The *Decentralized Intelligence Network (DIN)* framework, on which *Doctelligence* is founded, is designed to address challenges in AI development, particularly focusing on data fragmentation and siloing issues. *DIN* facilitates effective AI training within sovereign networks by overcoming barriers to accessing diverse data sources. It leverages decentralized technologies to address key challenges in data fragmentation and siloing, enabling a more integrated and accessible AI ecosystem.
+*Decentralized Intelligence Network (DIN)* framework, on which *Doctelligence* is founded, is designed to address challenges in AI development, particularly focusing on data fragmentation and siloing issues. *DIN* facilitates effective AI training within sovereign networks by overcoming barriers to accessing diverse data sources. It leverages decentralized technologies to address key challenges in data fragmentation and siloing, enabling a more integrated and accessible AI ecosystem.
 
 ***DIN* was showcased at the Summit on Responsible Decentralized Intelligence - Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.** Explore our papers here:
 
