@@ -22,6 +22,7 @@
 - **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)** – This paper introduces the core *DIN* framework, laying the groundwork for decentralized intelligence across various sectors.
 
 Other future modular extensions may include, for example:
+
 - **[DHIN: Decentralized Health Intelligence Network](https://arxiv.org/abs/2408.06240)** – A modular extension of *DIN*, DHIN specifically focuses on decentralized health applications, providing a tailored approach to health data management and intelligence.
 - **DPIN** (Decentralized Physical Intelligence Network) for **DePIN**
 - **DGIN** (Decentralized Green Intelligence Network) for **AgriTech**, 
@@ -29,9 +30,7 @@ Other future modular extensions may include, for example:
 - **DEIN** (Decentralized Education Intelligence Network) for **EdTech**, 
 - **DCIN** (Decentralized City Intelligence Network) for **IoTCities**.
 
-These are theoretical modular extensions where the *DIN* toolkit can be deployed, expanding the network's capabilities.
-
-These extensions can potentially facilitate circular token economies, although stablecoins will serve as the primary reward mechanism. Stablecoins mitigate volatility and enable fair reward valuations for data contributions, ensuring consistency and reliability in participant compensation.
+As we expand the DIN network's capabilities, we explore various theoretical modular extensions where the DIN toolkit can be deployed, including circular token economies. For the Doctelligence community, ensuring fair rewards and stable data valuation is crucial. Guidance includes exploring stablecoins for reliable compensation and to mitigate volatility, while also considering other mechanisms to maintain data value across network extensions.
 
 ## Get Involved:
 Whether you're passionate about the future of decentralized technologies or eager to support a transformative cross-sector model, there's a place for you at *Doctelligence*.
