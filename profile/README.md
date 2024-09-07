@@ -18,17 +18,17 @@
 ## Origins and Vision:
 *Decentralized Intelligence Network (DIN)* framework, on which *Doctelligence* is founded, is designed to address challenges in AI development, particularly focusing on data fragmentation and siloing issues. *DIN* facilitates effective AI training within sovereign networks by overcoming barriers to accessing diverse data sources. It leverages decentralized technologies to address key challenges in data fragmentation and siloing, enabling a more integrated and accessible AI ecosystem.
 
-***DIN* was showcased at the Summit on Responsible Decentralized Intelligence - Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.** Explore our papers here:
+***DIN* was showcased at the Summit on Responsible Decentralized Intelligence - Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.** Explore our white paper here:
 
 - **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)** – This paper introduces the core *DIN* framework, laying the groundwork for decentralized intelligence across various sectors.
-- **[DHIN: Decentralized Health Intelligence Network](https://arxiv.org/abs/2408.06240)** – A modular extension of *DIN*, DHIN specifically focuses on decentralized health applications, providing a tailored approach to health data management and intelligence.
 
 Other future modular extensions may include, for example:
-- **DPIN** (Decentralized Physical Intelligence Network) for **DePIN** (decentralized physical infrastructure),
+- **[DHIN: Decentralized Health Intelligence Network](https://arxiv.org/abs/2408.06240)** – A modular extension of *DIN*, DHIN specifically focuses on decentralized health applications, providing a tailored approach to health data management and intelligence.
+- **DPIN** (Decentralized Physical Intelligence Network) for **DePIN**
 - **DGIN** (Decentralized Green Intelligence Network) for **agriculture**, 
-- **DFIN** for **DeFinance**, 
-- **DEIN** (Decentralized Education Intelligence Network) for **education**, 
-- **DCIN** (Decentralized City Intelligence Network) for **smart cities**.
+- **DFIN** (Decentralized Financial Intelligence Network) for **DeFinance**, 
+- **DEIN** (Decentralized Education Intelligence Network) for **EdTech**, 
+- **DCIN** (Decentralized City Intelligence Network) for **SmartCities**.
 
 These are theoretical modular extensions where the *DIN* toolkit can be deployed, expanding the network's capabilities.
 
