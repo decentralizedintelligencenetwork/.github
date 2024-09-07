@@ -11,8 +11,7 @@
 
 - **General Data Protection Regulation (GDPR)**: Ensuring data protection and privacy for individuals within the European Union.
 - **Personal Information Protection and Electronic Documents Act (PIPEDA)**: Governing the collection, use, and disclosure of personal data in Canada.
-- **California Consumer Privacy Act (CCPA)**: Providing data privacy rights to residents of California, USA.
-
+  
 ***Doctelligence* operates as a decentralized and open-source framework; no single entity owns or controls it.** This collaborative model ensures that it remains a truly community-driven initiative.
 
 ## Origins and Vision:
