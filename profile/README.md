@@ -8,10 +8,10 @@
 - 🌍 **Promote an ecosystem where participants are rewarded** for contributing data, fueling innovation and equity in various fields.
 
 *Doctelligence* is committed to decentralizing intelligence and enhancing outcomes across industries by aligning with global standards and frameworks. By ensuring that data never leaves its original store, *Doctelligence*'s approach naturally complies with regulations, preserving data sovereignty while facilitating scalable and innovative AI solutions. Our model aligns with key regulatory bodies, including:
+
 - **General Data Protection Regulation (GDPR)**: Ensuring data protection and privacy for individuals within the European Union.
-- **Health Insurance Portability and Accountability Act (HIPAA)**: Safeguarding sensitive patient information in the United States.
-- **California Consumer Privacy Act (CCPA)**: Providing data privacy rights to residents of California, USA.
 - **Personal Information Protection and Electronic Documents Act (PIPEDA)**: Governing the collection, use, and disclosure of personal data in Canada.
+- **California Consumer Privacy Act (CCPA)**: Providing data privacy rights to residents of California, USA.
 
 ***Doctelligence* operates as a decentralized and open-source framework; no single entity owns or controls it.** This collaborative model ensures that it remains a truly community-driven initiative.
 
