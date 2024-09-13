@@ -30,7 +30,7 @@ Other future modular extensions may include, for example:
 - **DEIN (Decentralized EdTech Intelligence Network):** Focused on transforming education through decentralized technologies.
 - **DAIN (Decentralized Agritech Intelligence Network):** Aimed at advancing agricultural practices through decentralized innovations.
 
-As we expand the DIN network's capabilities, we explore various theoretical modular extensions where the DIN toolkit can be deployed, **including non-speculative, stablecoin-based, circular token economies.** For the Doctelligence community, ensuring fair rewards and stable data valuation is crucial. Guidance includes exploring stablecoins for reliable compensation and to mitigate volatility, while also considering other mechanisms to maintain data value across network extensions.
+As we expand the DIN network's capabilities, we explore various theoretical modular extensions where the **DIN toolkit can be deployed, including non-speculative, stablecoin-based, circular token economies.** For the Doctelligence community, ensuring fair rewards and stable data valuation is crucial. Guidance includes exploring stablecoins for reliable compensation and to mitigate volatility, while also considering other mechanisms to maintain data value across network extensions.
 
 ## Get Involved:
 Whether you're passionate about the future of decentralized technologies or eager to support a transformative cross-sector model, there's a place for you at *Doctelligence*.
