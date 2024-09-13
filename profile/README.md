@@ -26,8 +26,6 @@
 Other future modular extensions may include, for example:
 
 - **[DHIN (Decentralized Health Intelligence Network)](https://arxiv.org/abs/2408.06240)** – A modular extension of *DIN*, DHIN specifically focuses on decentralized health applications, providing a tailored approach to health data management and intelligence.
-- **DSIN (Decentralized Smartcity Intelligence Network):** Geared towards smart city and IoT integrations.
-- **DEIN (Decentralized EdTech Intelligence Network):** Focused on transforming education through decentralized technologies.
 - **DFIN (Decentralized Financial Intelligence Network):** Designed for financial applications and DeFi.
 - **DPIN (Decentralized Physical Intelligence Network):** Tailored for decentralized physical and IoT applications.
 - **DAIN (Decentralized Agritech Intelligence Network):** Aimed at advancing agricultural practices through decentralized innovations.
