@@ -7,7 +7,7 @@
 - 📈 **Leverage blockchain and federated learning** to enable secure and privacy-preserving AI model training.
 - 🌍 **Promote an ecosystem where participants are rewarded** for contributing data, fueling innovation and equity in various fields.
 
-*Doctelligence* is committed to decentralizing intelligence and enhancing outcomes across industries by aligning with global standards and frameworks. By ensuring that data never leaves its original store, *Doctelligence*'s approach naturally complies with regulations, preserving data sovereignty while facilitating scalable and innovative AI solutions. Our model aligns with key regulatory bodies, including:
+*Doctelligence* is committed to decentralizing intelligence and enhancing outcomes across industries by aligning with global standards and frameworks. By ensuring that data never leaves its original store, *DIN*'s approach naturally complies with regulations, preserving data sovereignty while facilitating scalable and innovative AI solutions. Our model aligns with key regulatory bodies, including:
 
 - **General Data Protection Regulation (GDPR)**: Ensuring data protection and privacy for individuals within the European Union.
 - **Health Insurance Portability and Accountability Act (HIPAA)**: Safeguarding sensitive patient information in the United States.
