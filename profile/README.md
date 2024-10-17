@@ -3,7 +3,7 @@
 *Doctelligence* is an organization built on the foundations of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**. Dedicated to creating a self-sovereign ecosystem that transcends sectors, we empower individuals and organizations through data sovereignty, scalable AI, and decentralized technologies. Our mission drives innovation and accessibility across various industries, fueled by **a culture of openness, experimentation, and inclusivity.** 
 
 ## What We Do at *Doctelligence*:
-- 🛡️ **Create a self-sovereign, decentralized network** that fosters trust and autonomy across different sectors.
+- 🛡️ **Enable self-sovereign, decentralized networks** that fosters trust and autonomy across different sectors.
 - 📈 **Leverage blockchain and federated learning** to enable secure and privacy-preserving AI model training.
 - 🌍 **Promote an ecosystem where participants are rewarded** for contributing data, fueling innovation and equity in various fields.
 
