@@ -1,8 +1,11 @@
 # Welcome to Doctelligence 🚀
 
-*Doctelligence* is an organization built on the foundations of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**. Dedicated to creating a self-sovereign ecosystem that transcends sectors, we empower individuals and organizations through data sovereignty, scalable AI, and decentralized technologies. Our mission drives innovation and accessibility across various industries, fueled by **a culture of openness, experimentation, and inclusivity.** 
+*Doctelligence* is an organization built on the foundations of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**. Decentralized Intelligence Network (DIN) presents a novel framework addressing critical challenges in AI development while preserving data sovereignty. As AI advances rapidly, the paradox of abundant yet inaccessible data due to fragmentation and siloing limits both individual data sovereignty and AI development potential. DIN offers a solution through a decentralized architecture that enables scalable AI development while maintaining individual control over data.
 
 ## What We Do at *Doctelligence*:
+
+We believe the future lies in collaborative ecosystems where data can be decentralized, and every participant retains ownership while contributing to a collective intelligence. By integrating blockchain, federated learning, and decentralized incentives, we align individual empowerment with societal progress:
+
 - 🛡️ **Enable self-sovereign, decentralized networks** that fosters trust and autonomy across different sectors.
 - 📈 **Leverage blockchain and federated learning** to enable secure and privacy-preserving AI model training.
 - 🌍 **Promote an ecosystem where participants are rewarded** for contributing data, fueling innovation and equity in various fields.
@@ -33,7 +36,7 @@ Other future modular extensions may include, for example:
 As we expand the DIN network's capabilities, we explore various theoretical modular extensions where the **DIN toolkit can be deployed, including non-speculative, stablecoin-based, circular token economies.** For the Doctelligence community, ensuring fair rewards and stable data valuation is crucial. Guidance includes exploring stablecoins for reliable compensation and to mitigate volatility, while also considering other mechanisms to maintain data value across network extensions.
 
 ## Get Involved:
-Whether you're passionate about the future of decentralized technologies or eager to support a transformative cross-sector model, there's a place for you at *Doctelligence*.
+Whether you're passionate about the future of decentralized technologies or eager to support a transformative cross-sector model, there's a place for you at *Doctelligence*. Our mission drives innovation and accessibility across various industries, fueled by **a culture of openness, experimentation, and inclusivity.** 
 
 - **Contribute:** Join us in building the future of decentralized intelligence. Check our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
 - **Engage:** Discover how you can be part of this transformative journey on our [website](https://doctelligence.github.io) currently in development.
