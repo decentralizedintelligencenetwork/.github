@@ -1,6 +1,6 @@
 # Welcome to Doctelligence 🚀
 
-*Doctelligence* is an organization built on the foundations of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**. Decentralized Intelligence Network (DIN) presents a novel framework addressing critical challenges in AI development while preserving data sovereignty. As AI advances rapidly, the paradox of abundant yet inaccessible data due to fragmentation and siloing limits both individual data sovereignty and AI development potential. DIN offers a solution through a decentralized architecture that enables scalable AI development while maintaining individual control over data.
+*Doctelligence* is an organization built on the foundations of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**. **DIN** presents a novel framework addressing critical challenges in AI development while preserving data sovereignty. As AI advances rapidly, the paradox of abundant yet inaccessible data due to fragmentation and siloing limits both individual data sovereignty and AI development potential. DIN offers a solution through a decentralized architecture that enables scalable AI development while maintaining individual control over data.
 
 ## What We Do at *Doctelligence*:
 
