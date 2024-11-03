@@ -6,9 +6,12 @@
 
 We believe the future lies in collaborative ecosystems where data can be decentralized, and every participant retains ownership while contributing to a collective intelligence. By integrating blockchain, federated learning, and decentralized incentives, we align individual empowerment with societal progress:
 
-- 🛡️ **Enable self-sovereign, decentralized networks** that fosters trust and autonomy across different sectors.
-- 📈 **Leverage blockchain and federated learning** to enable secure and privacy-preserving AI model training.
-- 🌍 **Promote an ecosystem where participants are rewarded** for contributing data, fueling innovation and equity in various fields.
+-💻**Data Control**
+Utilize decentralized data to unlock new opportunities for AI development.
+-🤖**Blockchain & AI**
+Leverage blockchain technology to securely train AI by sharing model updates while protecting data and fostering innovation.
+-💰**Direct Rewards**
+Earn cryptographic rewards for AI training, without intermediaries.
 
 *Doctelligence* is committed to decentralizing intelligence and enhancing outcomes across industries by aligning with global standards and frameworks. By ensuring that data never leaves its original store, *DIN*'s approach naturally complies with regulations, preserving data sovereignty while facilitating scalable and innovative AI solutions. Our model aligns with key regulatory bodies, including:
 
