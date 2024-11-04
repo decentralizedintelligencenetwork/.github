@@ -6,10 +6,12 @@
 
 We believe the future lies in collaborative ecosystems where data can be decentralized, and every participant retains ownership while contributing to a collective intelligence. By integrating blockchain, federated learning, and decentralized incentives, we align individual empowerment with societal progress:
 
--💻**Data Control**
+-💻**Decentralized Data**
 Utilize decentralized data to unlock new opportunities for AI development.
+
 -🤖**Blockchain & AI**
 Leverage blockchain technology to securely train AI by sharing model updates while protecting data and fostering innovation.
+
 -💰**Direct Rewards**
 Earn cryptographic rewards for AI training, without intermediaries.
 
