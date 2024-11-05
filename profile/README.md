@@ -50,7 +50,7 @@ As *Doctelligence* expands, additional modular extensions are planned, including
 - **DPIN (Decentralized Physical Intelligence Network)** – Tailored for decentralized physical and IoT applications.
 - **DeFIN (Decentralized Financial Intelligence Network)** – Transforming financial learning by leveraging decentralized technologies to analyze and interpret financial data.
 
-We are also exploring **in-the-loop economies**, where decentralized systems and tokenized incentives create self-sustaining ecosystems. These models integrate AI development with economic outcomes, fostering growth and adaptability in a circular token economy.
+We are exploring **in-the-loop economies**, where decentralized systems and tokenized incentives create self-sustaining ecosystems. These models integrate AI development with economic outcomes, fostering growth and adaptability in a circular token economy.
 
 ## Get Involved:
 
