@@ -48,12 +48,9 @@ As *Doctelligence* expands, additional modular extensions are planned, including
 
 - **[DHIN (Decentralized Health Intelligence Network)](https://arxiv.org/abs/2408.06240)** – A modular extension of *DIN*, *DHIN* focuses specifically on decentralized health applications, providing a tailored approach to health data management and intelligence.
 - **DPIN (Decentralized Physical Intelligence Network)** – Tailored for decentralized physical and IoT applications.
-- **DEIN (Decentralized EdTech Intelligence Network)** – Focused on transforming education through decentralized technologies.
-- **DAIN (Decentralized Agritech Intelligence Network)** – Aimed at advancing agricultural practices through decentralized innovations.
+- **DeFIN (Decentralized Financial Intelligence Network)** – Transforming financial learning by leveraging decentralized technologies to analyze and interpret financial data.
 
-Additionally, we are exploring the possibility of **in-the-loop economies**, where decentralized systems, coupled with intelligent economic models, create self-sustaining ecosystems. These economies integrate tokenized incentives directly into AI development, fostering growth and sustainability within the loop. This could extend to circular token economies, where contributions to data and AI training directly influence economic outcomes, creating an ecosystem that continually adapts and evolves.
-
-As we expand the **DIN** network's capabilities, we explore various theoretical modular extensions, including the integration of non-speculative circular token economies that could redefine value and participation in decentralized ecosystems.
+We are also exploring **in-the-loop economies**, where decentralized systems and tokenized incentives create self-sustaining ecosystems. These models integrate AI development with economic outcomes, fostering growth and adaptability in a circular token economy.
 
 ## Get Involved:
 
