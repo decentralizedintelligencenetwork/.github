@@ -42,16 +42,6 @@ The **Decentralized Intelligence Network (DIN)**, the foundation of *Doctelligen
 
 - **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)** – This foundational paper outlines the *DIN* framework, which sets the stage for the decentralized intelligence revolution across industries.
 
-### Future Modular Extensions
-
-As *Doctelligence* expands, additional modular extensions are planned, including:
-
-- **[DHIN (Decentralized Health Intelligence Network)](https://arxiv.org/abs/2408.06240)** – A modular extension of *DIN*, *DHIN* focuses specifically on decentralized health applications, providing a tailored approach to health data management and intelligence.
-- **DPIN (Decentralized Physical Intelligence Network)** – Tailored for decentralized physical and IoT applications.
-- **DeFIN (Decentralized Financial Intelligence Network)** – Transforming financial learning by leveraging decentralized technologies to analyze and interpret financial data.
-
-We are exploring **in-the-loop economies**, where decentralized systems and tokenized incentives create self-sustaining ecosystems. These models integrate AI development with economic outcomes, fostering growth and adaptability in a circular token economy.
-
 ## Get Involved:
 
 Whether you're passionate about the future of decentralized technologies or eager to support a transformative cross-sector model, there's a place for you at *Doctelligence*. Our mission drives innovation and accessibility across various industries, fueled by **a culture of openness, experimentation, and inclusivity.** 
