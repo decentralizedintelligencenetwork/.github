@@ -19,15 +19,6 @@ At *Doctelligence*, we integrate decentralized data stores, blockchain, federate
 - 💰 **Direct Rewards**  
   Earn cryptographic rewards for AI training, eliminating intermediaries and ensuring fair compensation for contributions.
 
-### Data Sovereignty & Compliance
-
-**Doctelligence** is dedicated to maintaining data sovereignty while meeting key regulatory requirements:
-
-- **General Data Protection Regulation (GDPR)**: Protecting individual privacy within the European Union.
-- **Health Insurance Portability and Accountability Act (HIPAA)**: Safeguarding sensitive patient data in the U.S.
-- **California Consumer Privacy Act (CCPA)**: Upholding data privacy rights for California residents.
-- **Personal Information Protection and Electronic Documents Act (PIPEDA)**: Regulating the use of personal data in Canada.
-
 ## Vision
 
 **Doctelligence** is a decentralized, open-source framework with no single controlling entity, supported by the **Doctelligence Foundation**. Our commercial arm facilitates traditional funding for dedicated research into advanced technologies, benefiting the community and delivering industry-specific solutions.
@@ -41,6 +32,15 @@ The **Decentralized Intelligence Network (DIN)**, the foundation of *Doctelligen
 ### Explore Our White Paper
 
 - **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)** – This foundational paper outlines the *DIN* framework, which sets the stage for the decentralized intelligence revolution across industries.
+
+### Data Sovereignty & Compliance
+
+**Doctelligence** is dedicated to maintaining data sovereignty while meeting key regulatory requirements:
+
+- **General Data Protection Regulation (GDPR)**: Protecting individual privacy within the European Union.
+- **Health Insurance Portability and Accountability Act (HIPAA)**: Safeguarding sensitive patient data in the U.S.
+- **California Consumer Privacy Act (CCPA)**: Upholding data privacy rights for California residents.
+- **Personal Information Protection and Electronic Documents Act (PIPEDA)**: Regulating the use of personal data in Canada.
 
 ## Get Involved:
 
