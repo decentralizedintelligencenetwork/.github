@@ -33,15 +33,6 @@ The **Decentralized Intelligence Network (DIN)**, the foundation of *Doctelligen
 
 - **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)** – This foundational paper outlines the *DIN* framework, which sets the stage for the decentralized intelligence revolution across industries.
 
-### Data Sovereignty & Compliance
-
-**Doctelligence** is dedicated to maintaining data sovereignty while meeting key regulatory requirements:
-
-- **General Data Protection Regulation (GDPR)**: Protecting individual privacy within the European Union.
-- **Health Insurance Portability and Accountability Act (HIPAA)**: Safeguarding sensitive patient data in the U.S.
-- **California Consumer Privacy Act (CCPA)**: Upholding data privacy rights for California residents.
-- **Personal Information Protection and Electronic Documents Act (PIPEDA)**: Regulating the use of personal data in Canada.
-
 ## Get Involved:
 
 Whether you're passionate about the future of decentralized technologies or eager to support a transformative cross-sector model, there's a place for you at *Doctelligence*. Our mission drives innovation and accessibility across various industries, fueled by **a culture of openness, experimentation, and inclusivity.** 
