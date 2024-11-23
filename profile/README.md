@@ -31,7 +31,7 @@ The **Decentralized Intelligence Network (DIN)**, the foundation of *Doctelligen
 
 ### Explore Our White Paper
 
-- Updated Version Coming Soon* **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)** – This foundational paper outlines the *DIN* framework, which sets the stage for the decentralized intelligence revolution across industries.
+- Updated Version Online **[DIN: Decentralized Intelligence Network](https://github.com/Doctelligence/White-Paper)** – This foundational paper outlines the *DIN* framework, which sets the stage for the decentralized intelligence revolution across industries.
 
 ## Get Involved:
 
