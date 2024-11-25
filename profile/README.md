@@ -17,7 +17,7 @@ At *Doctelligence*, we integrate decentralized data stores, blockchain, federate
   Securely train AI models using blockchain to share model updates while protecting data and encouraging innovation.
 
 - 💰 **Direct Rewards**  
-  Earn stablecoin rewards for AI training, eliminating intermediaries and ensuring fair compensation for contributions.
+  Earn cryptographic rewards for AI training, eliminating intermediaries and ensuring fair compensation for contributions.
 
 ## Vision
 
