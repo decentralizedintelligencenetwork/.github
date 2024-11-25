@@ -27,12 +27,11 @@ At *Doctelligence*, we integrate decentralized data stores, blockchain, federate
 
 The **Decentralized Intelligence Network (DIN)**, the foundation of *Doctelligence*, is designed to facilitate decentralized AI training across decentralized data sources. By utilizing decentralized technologies, DIN creates an integrated, accessible AI ecosystem that enhances collaboration and data privacy.
 
-*DIN* was showcased at the **Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI**, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.
-
 ### Explore Our White Paper
 
 - **Updated Version Online**: [**DIN: Decentralized Intelligence Network**](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf) – This foundational paper outlines the *DIN* framework, laying the groundwork for the decentralized intelligence across sectors.
 
+*DIN* was showcased at the **Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI**, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.
 
 ## Get Involved:
 
