@@ -2,11 +2,11 @@
 
 *Doctelligence* is an organization built on the foundation of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**.
 
-The **Decentralized Intelligence Network (DIN)** enables a decentralized AI ecosystem where data stores can monetize their information directly, keeping it secure and localized. By participating in this ecosystem, users earn cryptographic rewards for contributing to on-device AI training, maintaining control over their data, and eliminating intermediaries. This approach fosters a more efficient, inclusive, and scalable data-driven environment.
+**Decentralized Intelligence Network (DIN)** enables data ownership by allowing users to monetize their data in a decentralized AI ecosystem, earning direct rewards for contributing to AI training while maintaining control over their information.
 
 ## What We Do at *Doctelligence*:
 
-At *Doctelligence*, we integrate decentralized data stores, blockchain, federated learning, and incentive mechanisms to empower individuals while enhancing the efficiency and scalability of AI development. We aim to align data control with better outcomes across industries, ensuring compliance with global data sovereignty regulations.
+At *Doctelligence*, we combine decentralized data stores, blockchain, federated learning, and privacy-preserving technologies to enhance AI development. DIN enables data owners, including individuals, SMEs, and enterprises, to retain ownership and monetize their data, unlocking its economic potential. By improving access to decentralized data, DIN overcomes siloed systems, supports AI innovation, and ensures compliance with global data regulations.
 
 ### Key Areas of Focus:
 
@@ -21,21 +21,21 @@ At *Doctelligence*, we integrate decentralized data stores, blockchain, federate
 
 ## Vision
 
-**Doctelligence** is a decentralized, open-source framework with no single controlling entity, supported by the **Doctelligence Foundation**. Our commercial arm facilitates traditional funding for dedicated research into advanced technologies, benefiting the community and delivering industry-specific solutions.
+**Doctelligence** is a decentralized, open-source framework supported by the **Doctelligence Foundation**, with no single controlling entity. **Doctelligence Labs** facilitates traditional funding for dedicated research into advanced technologies, delivering industry-specific solutions and benefiting the broader community.
 
 ### Decentralized Intelligence Network (DIN)
 
-The **Decentralized Intelligence Network (DIN)**, the foundation of *Doctelligence*, is designed to facilitate decentralized AI training across decentralized data sources. By utilizing decentralized technologies, DIN creates an integrated, accessible AI ecosystem that enhances collaboration and data privacy.
+**Decentralized Intelligence Network (DIN)**, the foundation of Doctelligence, is designed to enable decentralized AI training across previously under-utilized decentralized data sources. By leveraging decentralized technologies, _DIN_ creates an integrated and accessible AI ecosystem that addresses both data accessibility and privacy concerns.
 
 ### Explore Our White Paper
 
 - **Updated Version Online**: [**DIN: Decentralized Intelligence Network**](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf) – This foundational paper outlines the *DIN* framework, laying the groundwork for the decentralized intelligence across sectors.
 
-*DIN* was showcased at the **Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI**, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.
+*DIN* was showcased at the **Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.**
 
 ## Get Involved:
 
-Whether you're passionate about the future of decentralized technologies or eager to support a transformative cross-sector model, there's a place for you at *Doctelligence*. Our mission drives innovation and accessibility across various industries, fueled by **a culture of openness, experimentation, and inclusivity.** 
+Whether you're passionate about the future of decentralized technologies or focused on advancing AI, there's a place for you at Doctelligence. Our mission drives innovation and accessibility across industries, fueled by a commitment to openness, experimentation, and collaboration.
 
 - **Contribute:** Join us in building the future of decentralized intelligence. Check our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
 - **Engage:** Discover how you can be part of this transformative journey on our [website](https://doctelligence.github.io) (currently in development).
