@@ -19,9 +19,11 @@ At *Doctelligence*, we combine decentralized data stores, blockchain, federated 
 - 💰 **Direct Rewards**  
   Earn cryptographic rewards for AI training, eliminating intermediaries and ensuring fair compensation for contributions.
 
-## Vision
+## Our Vision
 
-**Doctelligence** is a decentralized, open-source framework supported by the **Doctelligence Foundation**, with no single controlling entity. **Doctelligence Labs** facilitates traditional funding for dedicated research into advanced technologies, delivering sector-specific solutions and benefiting the broader ecosystem.
+**Doctelligence** is an open-source framework driven by the principles of decentralization and community collaboration. Supported by the **Doctelligence Foundation**, our mission is to empower individuals, organizations, and various sectors through transparent, decentralized AI technologies. With no central authority, we enable innovation and growth driven by the community, ensuring a fair and functional ecosystem for all participants.
+
+**Doctelligence Labs** plays a key role in advancing research and developing sector-specific solutions, leveraging cutting-edge technologies to benefit the broader ecosystem and drive the next generation of AI.
 
 ### Decentralized Intelligence Network (DIN)
 
