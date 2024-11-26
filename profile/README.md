@@ -37,7 +37,7 @@ Whether you're passionate about the future of decentralized technologies or focu
 
 - **Contribute:** Join us in building the future of decentralized intelligence. Check our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
 - **Engage:** Discover how you can be part of this transformative journey on our [website](https://doctelligence.github.io) (currently in development).
-- **Connect:** Reach out to us at [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com) to learn more or discuss collaboration.
+- **Connect:** Reach out to us at [abraham.nash@cs.ox.ac.uk](mailto:abraham.nash@cs.ox.ac.uk) to learn more or discuss collaboration.
 
 ---
 
