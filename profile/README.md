@@ -2,7 +2,7 @@
 
 *Doctelligence* is an organization built on the foundation of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**.
 
-**Decentralized Intelligence Network (DIN)** enables data ownership by allowing users to monetize their data in a decentralized AI ecosystem, earning direct rewards for contributing to AI training while maintaining control over their information.
+**Decentralized Intelligence Network (DIN)**, the foundation of Doctelligence, enables decentralized AI training across previously underutilized data sources. By leveraging decentralized technologies, _DIN_ creates an integrated and accessible AI ecosystem that addresses both data accessibility and privacy concerns. It allows users to retain control over their information while providing the opportunity to monetize their data and earn direct rewards for contributing to AI training.
 
 ## What We Do at *Doctelligence*:
 
@@ -24,10 +24,6 @@ At *Doctelligence*, we combine decentralized data stores, blockchain, federated 
 - **Doctelligence** is an open-source framework driven by the principles of decentralization and community collaboration. Supported by the **Doctelligence Foundation**, our mission is to empower individuals, organizations, and various sectors through transparent, decentralized AI technologies. With no central authority, we enable innovation and growth driven by the community, ensuring a fair and functional ecosystem for all participants.
 
 - **Doctelligence Labs** plays a key role in advancing research and developing sector-specific solutions, leveraging cutting-edge technologies to benefit the broader ecosystem and drive the next generation of AI.
-
-### Decentralized Intelligence Network (DIN)
-
-**Decentralized Intelligence Network (DIN)**, the foundation of Doctelligence, is designed to enable decentralized AI training across previously under-utilized decentralized data sources. By leveraging decentralized technologies, _DIN_ creates an integrated and accessible AI ecosystem that addresses both data accessibility and privacy concerns.
 
 ### Explore Our White Paper
 
