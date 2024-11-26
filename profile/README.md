@@ -6,7 +6,7 @@
 
 ## What We Do at *Doctelligence*:
 
-At *Doctelligence*, we combine decentralized data stores, blockchain, federated learning, and privacy-preserving technologies to enhance AI development. DIN enables data owners, including individuals, SMEs, and enterprises, to retain ownership and monetize their data, unlocking its economic potential. By improving access to decentralized data, DIN overcomes siloed systems, supports AI innovation, and ensures compliance with global data regulations.
+At *Doctelligence*, we combine decentralized data stores, blockchain, federated learning, and privacy-preserving technologies to enhance AI development. _DIN_ enables data owners, including individuals, SMEs, and enterprises, to retain ownership and monetize their data, unlocking its economic potential. By improving access to decentralized data, _DIN_ overcomes siloed systems, supports AI innovation, and ensures compliance with global data regulations.
 
 ### Key Areas of Focus:
 
@@ -21,7 +21,7 @@ At *Doctelligence*, we combine decentralized data stores, blockchain, federated 
 
 ## Vision
 
-**Doctelligence** is a decentralized, open-source framework supported by the **Doctelligence Foundation**, with no single controlling entity. **Doctelligence Labs** facilitates traditional funding for dedicated research into advanced technologies, delivering industry-specific solutions and benefiting the broader community.
+**Doctelligence** is a decentralized, open-source framework supported by the **Doctelligence Foundation**, with no single controlling entity. **Doctelligence Labs** facilitates traditional funding for dedicated research into advanced technologies, delivering sector-specific solutions and benefiting the broader ecosystem.
 
 ### Decentralized Intelligence Network (DIN)
 
@@ -29,9 +29,9 @@ At *Doctelligence*, we combine decentralized data stores, blockchain, federated 
 
 ### Explore Our White Paper
 
-- **Updated Version Online**: [**DIN: Decentralized Intelligence Network**](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf) – This foundational paper outlines the *DIN* framework, laying the groundwork for the decentralized intelligence across sectors.
+- **Updated Version Online**: [**DIN: Decentralized Intelligence Network**](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf) – This foundational paper outlines the _DIN_ framework, laying the groundwork for the decentralized intelligence across sectors.
 
-*DIN* was showcased at the **Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.**
+_DIN_ was showcased at the **Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.**
 
 ## Get Involved:
 
