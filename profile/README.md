@@ -6,7 +6,7 @@
 
 ## What We Do at *Doctelligence*:
 
-At *Doctelligence*, we combine decentralized data stores, blockchain, federated learning, and privacy-preserving technologies to enhance AI development. _DIN_ enables data owners, including individuals, SMEs, and enterprises, to retain ownership and monetize their data, unlocking its economic potential. By improving access to decentralized data, _DIN_ overcomes siloed systems, supports AI innovation, and ensures compliance with global data regulations.
+At *Doctelligence*, we combine decentralized data stores, blockchain, federated learning, and privacy-preserving technologies to enhance AI development. _DIN_ enables data owners, including individuals, SMEs, and enterprises, and those using decentralized data storage solutions — to retain ownership and monetize their data, unlocking its economic potential. By improving access to decentralized data, _DIN_ overcomes siloed systems, supports AI innovation, and ensures compliance with global data regulations.
 
 ### Key Areas of Focus:
 
