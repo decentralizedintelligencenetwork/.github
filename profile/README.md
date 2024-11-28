@@ -34,7 +34,7 @@ _DIN_ was showcased at the **Summit on Responsible Decentralized Intelligence: T
 Whether you're passionate about the future of decentralized technologies or focused on advancing AI, there's a place for you at Doctelligence. Our mission drives innovation and accessibility across industries, fueled by a commitment to openness, experimentation, and collaboration.
 
 - **Contribute:** Join us in building the future of decentralized intelligence. Check our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
-- **Engage:** Discover how you can be part of this transformative journey on our [website](https://doctelligence.github.io) (currently in development).
+- **Engage:** Discover how you can be part of this transformative journey on our [website](https://doctelligence.github.io).
 - **Connect:** Reach out to us at [abraham.nash@cs.ox.ac.uk](mailto:abraham.nash@cs.ox.ac.uk) to learn more or discuss collaboration.
 
 ---
