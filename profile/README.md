@@ -14,7 +14,7 @@ At *Doctelligence*, we combine decentralized data stores, blockchain, federated 
   Unlock new opportunities for AI development by leveraging decentralized data stores.
 
 - 🤖 **Blockchain & AI**  
-  Securely train AI models sharing only model updates while protecting data locally.
+  Securely train AI models using blockchain to share model updates while protecting data and encouraging innovation.
 
 - 💰 **Direct Rewards**  
   Earn cryptographic rewards for AI training, eliminating intermediaries and ensuring fair compensation for contributions.
