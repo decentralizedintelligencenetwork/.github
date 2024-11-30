@@ -10,14 +10,14 @@ At *Doctelligence*, we combine decentralized data stores, blockchain, federated 
 
 ### Key Areas of Focus:
 
-- 💻 **Decentralized Data**  
-  Unlock new opportunities for AI development by leveraging decentralized data stores.
+- 💻 **Data Ownership**  
+  Utilize decentralized data to unlock new opportunities for AI development.
 
-- 🤖 **Blockchain & AI**  
-  Securely train AI models using blockchain to share model updates while protecting data and encouraging innovation.
+- 🤖 **Decentralized AI**  
+  Train AI by sharing model updates, protecting data and fostering innovation.
 
 - 💰 **Direct Rewards**  
-  Earn cryptographic rewards for AI training, eliminating intermediaries and ensuring fair compensation for contributions.
+  Earn cryptographic rewards for AI training, without intermediaries.
 
 ## Our Vision
 
