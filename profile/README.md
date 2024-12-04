@@ -21,7 +21,9 @@ At *Doctelligence*, we combine decentralized data stores, blockchain, federated 
 
 ## Our Vision
 
-- **Doctelligence** is an open-source framework driven by the principles of decentralization and community collaboration. ....**DIN labs** is the arm of Doctelligence that develops technologies for DecAI as a comerical arm which can also support insitutional side chains..... Supported by the **Doctelligence Foundation**, our mission is to empower individuals, organizations, and various sectors through transparent, decentralized AI technologies. With no central authority, we enable innovation and growth driven by the community, ensuring a fair and functional ecosystem for all participants.
+**Doctelligence** is an open-source framework driven by the principles of decentralization and community collaboration. The network itself operates without any central authority, ensuring that all processes and decisions are entirely peer-to-peer. **Doctelligence Labs** is the arm of Doctelligence that develops technologies for Decentralized AI (DecAI), serving as the commercial arm that also supports institutional side chains.
+
+Supported by the **Doctelligence Foundation**, our mission is to empower individuals, organizations, and various sectors through transparent, decentralized AI technologies. We facilitate a decentralized ecosystem where innovation and growth are driven by the community. This ensures a fair and functional system for all participants, with no single point of control. Doctelligence seeks to aid the ongoing development of this network, helping to fuel its expansion while maintaining its open, peer-driven nature.
 
 ### Explore Our White Paper
 
