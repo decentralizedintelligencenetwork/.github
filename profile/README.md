@@ -33,7 +33,7 @@ While these entities play critical roles in advancing and supporting the network
 
 ### Explore Our White Paper
 
-DIN was selected out of over 500 speaker applications to be showcased at the **Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.** This prestigious opportunity highlights the growing recognition of DIN as a leading force in the development of responsible, decentralized AI technologies.
+Decentralized Intelligence Network (DIN) was selected out of over 500 speaker applications to be showcased at the **Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.** This prestigious opportunity highlights the growing recognition of DIN as a leading force in the development of responsible, decentralized AI technologies.
 
 - **Updated Version Online**: [**DIN: Decentralized Intelligence Network**](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf) – This foundational paper outlines the _DIN_ framework, laying the groundwork for the decentralized intelligence across sectors.
   
