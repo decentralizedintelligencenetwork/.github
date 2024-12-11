@@ -21,9 +21,15 @@ At *Doctelligence*, we combine decentralized data stores, blockchain, federated 
 
 ## Our Vision
 
-**Doctelligence** is an open-source framework driven by the principles of decentralization and community collaboration. The network itself operates without any central authority, ensuring that all processes and decisions are entirely peer-to-peer. **Doctelligence Labs** is the arm of Doctelligence that develops technologies for Decentralized AI (DecAI), serving as the commercial arm that also supports institutional side chains.
+**Doctelligence** is an open-source framework built on the principles of decentralization and community collaboration. The network itself operates independently, without any central authority, ensuring that all processes and decisions are entirely peer-to-peer.
 
-Supported by the **Doctelligence Foundation**, our mission is to empower individuals, organizations, and various sectors through transparent, decentralized AI technologies. We facilitate a decentralized ecosystem where innovation and growth are driven by the community. This ensures a fair and functional system for all participants, with no single point of control. Doctelligence seeks to aid the ongoing development of this network, helping to fuel its expansion while maintaining its open, peer-driven nature.
+At the heart of **Doctelligence** are two entities created to derive value and support the network:
+
+**1. Doctelligence (Labs):** This entity is financed to develop decentralized AI (DecAI) technologies. Its focus is on creating innovative solutions that advance the field of AI in a decentralized, transparent, and open manner, driving technological progress within the network.
+
+**2. Doctelligence Foundation:** Supporting the broader mission, the Foundation empowers individuals, organizations, and sectors with decentralized AI technologies. It helps nurture a community-driven ecosystem where innovation, governance, and growth are decentralized, without a single point of control.
+
+While these entities play critical roles in advancing and supporting the network, the decentralized intelligence network (DIN) itself remains independent. The ecosystem thrives through community collaboration, ensuring that it remains open, transparent, and peer-driven at all levels.
 
 ### Explore Our White Paper
 
