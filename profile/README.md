@@ -27,7 +27,7 @@ Doctelligence is an open-source, peer-to-peer blockchain protocol that decentral
 
 At the heart of **Doctelligence** are two entities created to derive value and support the network:
 
-- **Doctelligence Labs🔬:** This entity is financed to develop decentralized AI (DecAI) technologies. Its focus is on creating innovative solutions that advance the field of AI in a decentralized, transparent, and open manner, driving technological progress within the network.
+- **Doctelligence Ltd. 🔬:** This entity is financed to develop decentralized AI (DecAI) technologies. Its focus is on creating innovative solutions that advance the field of AI in a decentralized, transparent, and open manner, driving technological progress within the network.
 
 - **Doctelligence Foundation 🌍:** Supporting the broader mission, the Foundation empowers individuals, organizations, and sectors with decentralized AI technologies. It helps nurture a community-driven ecosystem where innovation, governance, and growth are decentralized, without a single point of control.
 
