@@ -23,7 +23,7 @@ DIN empowers data owners—including individuals, SMEs, enterprises, and users o
 
 ## Our Vision
 
-**Doctelligence** is an open-source, peer-to-peer blockchain protocol designed to decentralize AI training. It empowers users to retain control over their data and identity, operating independently of central authorities, all within a secure and transparent network.
+Doctelligence is an open-source, peer-to-peer blockchain protocol that decentralizes AI training and transforms the web of data architecture. It enables users to retain control over their data and identity, rewards them financially, and fosters new economies, all while operating independently of central authorities within a secure and transparent network.
 
 At the heart of **Doctelligence** are two entities created to derive value and support the network:
 
