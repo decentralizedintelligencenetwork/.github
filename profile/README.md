@@ -2,18 +2,20 @@
 
 *Doctelligence* is an organization built on the foundation of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**.
 
-**Decentralized Intelligence Network (DIN)**, the core of Doctelligence, enables decentralized AI training using underutilized data sources. _DIN_ creates a peer-peer AI ecosystem that addresses data privacy and accessibility, allowing users to control and monetize their data while earning rewards for contributing to AI training.
+Decentralized Intelligence Network (DIN), at the core of Doctelligence, is a fully peer-to-peer blockchain network protocol that enables decentralized AI training on distributed, underutilized data sources at scale.
 
 ## What We Do at *Doctelligence*:
 
-At *Doctelligence*, we combine decentralized data stores, blockchain, federated learning, and privacy-preserving technologies to enhance AI development. _DIN_ enables data owners, including individuals, SMEs, and enterprises, and those using decentralized data storage solutions — to retain ownership and monetize their data, unlocking its economic potential. By improving access to decentralized data, _DIN_ overcomes siloed systems, supports AI innovation, and ensures compliance with global data regulations.
+At Doctelligence, we integrate blockchain, IPFS, federated learning, privacy-preserving technologies, and decentralized computation to advance AI development on distributed data stores—all within a truly peer-to-peer blockchain protocol network.
 
-### Key Areas of Focus:
+DIN empowers data owners—including individuals, SMEs, enterprises, and users of decentralized data storage solutions—to retain ownership of their data, monetize it, and unlock its economic potential. By improving access to decentralized data, DIN overcomes siloed systems, drives AI innovation, and ensures compliance with global data regulations.
 
-- 💻 **Decentralized Data**  
+### Key Features:
+
+- 💻 **Data Ownership**  
   Unlock new opportunities for AI development by leveraging decentralized data stores.
 
-- 🤖 **Blockchain & AI**  
+- 🤖 **Decentralized AI**  
   Securely train AI models using blockchain to share model updates while protecting data and encouraging innovation.
 
 - 💰 **Direct Rewards**  
@@ -21,7 +23,7 @@ At *Doctelligence*, we combine decentralized data stores, blockchain, federated 
 
 ## Our Vision
 
-**Doctelligence** is an open-source framework built on the principles of decentralization and community collaboration. The network itself operates independently, without any central authority, ensuring that all processes and decisions are entirely peer-to-peer.
+**Doctelligence** is an open-source peer-to-peer blockchain protocol network founded on the principles of web decentralization. It empowers users to maintain full control over their data and identity. Operating independently of any central authority, the network ensures that all processes and decisions are conducted entirely in a peer-to-peer manner.
 
 At the heart of **Doctelligence** are two entities created to derive value and support the network:
 
@@ -29,11 +31,11 @@ At the heart of **Doctelligence** are two entities created to derive value and s
 
 - **Doctelligence Foundation 🌍:** Supporting the broader mission, the Foundation empowers individuals, organizations, and sectors with decentralized AI technologies. It helps nurture a community-driven ecosystem where innovation, governance, and growth are decentralized, without a single point of control.
 
-While these entities play critical roles in advancing and supporting the network, the decentralized intelligence network (DIN) itself remains independent. The ecosystem thrives through community collaboration, ensuring that it remains open, transparent, and peer-driven at all levels.
+While these entities play critical roles in advancing and supporting the network, the Decentralized Intelligence Network (DIN) itself remains independent. It is operated and secured entirely by decentralized entities, with participation driven by peer-to-peer interactions on a public, immutable blockchain ledger. This ensures the network remains open, transparent, and peer-driven at all levels.
 
 ## Explore Our White Paper
 
-**Decentralized Intelligence Network (DIN)** was selected from over **100+ speaker applications** to be showcased at the **[Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC. This prestigious event featured contributions from some of the most influential organizations and leaders in the fields of AI and decentralization
+**Decentralized Intelligence Network (DIN)** was selected from over **100+ speaker applications** to be showcased at the **[Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC. This prestigious event featured contributions from some of the most influential organizations and leaders in the fields of AI and decentralization.
 
 For further recognition, check out the **[post by the Department of Computer Science at the University of Oxford](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** highlighting this achievement.
 
