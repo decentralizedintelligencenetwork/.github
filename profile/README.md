@@ -37,9 +37,9 @@ The Decentralized Intelligence Network (DIN) remains independent and is operated
 
 **Decentralized Intelligence Network (DIN)** was selected from over **100+ speaker applications** to be showcased at the **[Summit on Responsible Decentralized Intelligence: The Future of Decentralization and AI](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC. This prestigious event featured contributions from some of the most influential organizations and leaders in the fields of AI and decentralization. **We were the only network to be showcased**, highlighting the uniqueness and significance of our work in advancing decentralized AI and data sovereignty.
 
-For further recognition, check out the **[post by the Department of Computer Science at the University of Oxford](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** highlighting this achievement.
+Check out the **[post by the Department of Computer Science at the University of Oxford](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** highlighting this achievement.
 
-- **Updated Version Online**: [**DIN: Decentralized Intelligence Network**](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf) – This foundational paper outlines the **DIN** framework, laying the groundwork for decentralized intelligence across sectors.
+- **Updated Version Online**: [**DIN: Decentralized Intelligence Network**](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf). This foundational paper outlines the **DIN** framework, laying the groundwork for decentralized intelligence across sectors.
 
 ## Get Involved:
 
