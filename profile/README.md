@@ -29,7 +29,7 @@ At the heart of **Doctelligence** are two entities created to derive value and s
 
 - **Doctelligence Ltd. 🔬:** This entity is financed to develop decentralized AI (DecAI) technologies. Its focus is on creating innovative solutions that advance the field of AI in a decentralized, transparent, and open manner, driving technological progress within the network.
 
-- **Doctelligence Foundation 🌍:** Supporting the broader mission, the Foundation empowers individuals, organizations, and sectors with decentralized AI technologies. It helps nurture a community-driven ecosystem where innovation, governance, and growth are decentralized, without a single point of control.
+- **Doctelligence Foundation 🌐:** Supporting the broader mission, the Foundation empowers individuals, organizations, and sectors with decentralized AI technologies. It helps nurture a community-driven ecosystem where innovation, governance, and growth are decentralized, without a single point of control.
 
 While these entities play critical roles in advancing and supporting the network, the Decentralized Intelligence Network (DIN) itself remains independent. It is operated and secured entirely by decentralized entities, with participation driven by peer-to-peer interactions on a public, immutable blockchain ledger. This ensures the network remains open, transparent, and peer-driven at all levels.
 
