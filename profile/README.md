@@ -2,7 +2,7 @@
 
 *Doctelligence* is an organization built on the foundation of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**.
 
-Decentralized Intelligence Network (DIN), at the core of Doctelligence, is a fully peer-to-peer blockchain network protocol that enables decentralized AI training on distributed data sources at scale.
+Decentralized Intelligence Network (DIN), at the core of Doctelligence, is a fully peer-to-peer blockchain network protocol that enables AI training on decentralized data sources at scale.
 
 ## What We Do at *Doctelligence*:
 
