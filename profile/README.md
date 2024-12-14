@@ -6,7 +6,7 @@ Decentralized Intelligence Network (DIN), at the core of Doctelligence, is a ful
 
 ## What We Do at *Doctelligence*:
 
-At Doctelligence, we integrate blockchain, federated learning, privacy-preserving, and decentralized technologies to advance AI development on distributed data stores—all within a truly peer-to-peer blockchain protocol network.
+At Doctelligence, we integrate blockchain, federated learning, privacy-preserving, and decentralized technologies to advance AI development on decentralized data stores—all within a fully peer-to-peer blockchain protocol network.
 
 DIN empowers data owners—including individuals, SMEs, enterprises, and users of decentralized data storage solutions—to retain ownership of their data, monetize it, and unlock its economic potential. By improving access to decentralized data, DIN overcomes siloed systems, drives AI innovation, and ensures compliance with global data regulations.
 
@@ -23,7 +23,7 @@ DIN empowers data owners—including individuals, SMEs, enterprises, and users o
 
 ## Our Vision
 
-Doctelligence is an open-source, peer-to-peer blockchain protocol that decentralizes AI training and transforms the web of data architecture. It enables users to retain control over their data and identity, rewards them financially, and fosters new economies, all while operating independently of central authorities within a secure and transparent network.
+Doctelligence is an open-source, peer-to-peer blockchain protocol designed to restructure and decentralize the current internet, specifically for AI training on a decentralized web of data architecture. It enables the creation, transfer, and distribution of economic value on a peer-to-peer basis, allowing users to maintain control over their data, identity, and future. Operating independently of central authorities, Doctelligence fosters a secure and transparent network where individuals can own and profit from their data. Our investment strategy is focused on fundamental technologies that form the backbone of Web 3.0, alongside infrastructure projects that leverage this decentralized framework for AI development and beyond.
 
 At the heart of **Doctelligence** are two entities created to derive value and support the network:
 
