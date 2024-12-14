@@ -6,7 +6,7 @@ Decentralized Intelligence Network (DIN), at the core of Doctelligence, is a ful
 
 ## What We Do at *Doctelligence*:
 
-At Doctelligence, we integrate blockchain, federated learning, privacy-preserving technologies, and decentralized technologies to advance AI development on distributed data stores—all within a truly peer-to-peer blockchain protocol network.
+At Doctelligence, we integrate blockchain, federated learning, privacy-preserving, and decentralized technologies to advance AI development on distributed data stores—all within a truly peer-to-peer blockchain protocol network.
 
 DIN empowers data owners—including individuals, SMEs, enterprises, and users of decentralized data storage solutions—to retain ownership of their data, monetize it, and unlock its economic potential. By improving access to decentralized data, DIN overcomes siloed systems, drives AI innovation, and ensures compliance with global data regulations.
 
