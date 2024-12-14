@@ -1,14 +1,12 @@
 # Welcome to Doctelligence 🚀
 
-*Doctelligence* is an organization built on the foundation of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**.
+*Doctelligence* is an organization built on the foundation of **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**. 
 
-Decentralized Intelligence Network (DIN), at the core of Doctelligence, is a fully peer-to-peer blockchain network protocol that enables AI training on decentralized data at scale.
+At the core of Doctelligence is the **Decentralized Intelligence Network (DIN)**, a fully peer-to-peer blockchain network protocol that enables AI training on decentralized data at scale. DIN integrates blockchain, federated learning, privacy-preserving technologies, decentralized identities, and solutions like IPFS into a secure ecosystem that ensures data ownership and drives the future of AI.
 
 ## What We Do at *Doctelligence*:
 
-At Doctelligence, we combine blockchain, federated learning, privacy-preserving, and decentralized technologies to propel AI development on decentralized data stores. The Decentralized Intelligence Network (DIN) integrates these technologies—along with decentralized identities and solutions like IPFS—into a cohesive, secure ecosystem that ensures data ownership and drives the future of AI.
-
-DIN empowers data owners—including individuals, SMEs, enterprises, and users of decentralized data storage solutions—to retain ownership of their data, monetize it, and unlock its economic potential. By improving access to decentralized data, DIN overcomes siloed systems, drives AI innovation, and ensures compliance with global data regulations.
+At Doctelligence, we combine blockchain, federated learning, privacy-preserving, and decentralized technologies to advance AI development on decentralized data stores. We empower AI developers by providing them with secure, decentralized access to diverse datasets, enabling innovation and model training at scale. Simultaneously, we empower data owners—including individuals, SMEs, enterprises, and users of decentralized data storage solutions—by allowing them to retain ownership of their data, monetize it, and unlock its economic potential. By improving access to decentralized data, DIN overcomes siloed systems, drives AI innovation, and ensures compliance with global data regulations.
 
 ### Key Features:
 
@@ -25,13 +23,15 @@ DIN empowers data owners—including individuals, SMEs, enterprises, and users o
 
 Doctelligence is an open-source, peer-to-peer blockchain protocol designed to restructure and decentralize the current internet, specifically for AI training on a decentralized web of data architecture. It enables the creation, transfer, and distribution of economic value on a peer-to-peer basis, allowing users to maintain control over their data, identity, and future. Operating independently of central authorities, Doctelligence fosters a secure and transparent network where individuals can own and profit from their data. Our investment strategy is focused on fundamental technologies that form the backbone of Web 3.0, alongside infrastructure projects that leverage this decentralized framework for AI development and beyond.
 
-At the heart of **Doctelligence** are two entities created to derive value and support the network:
+## The Entities Behind Doctelligence
 
-- **Doctelligence Ltd. 🔬:** This entity is financed to develop decentralized AI (DecAI) technologies. Its focus is on creating innovative solutions that advance the field of AI in a decentralized, transparent, and open manner, driving technological progress within the network.
+At the heart of **Doctelligence** are two key entities designed to derive value and support the network:
 
-- **Doctelligence Foundation 🌐:** Supporting the broader mission, the Foundation empowers individuals, organizations, and sectors with decentralized AI technologies. It helps nurture a community-driven ecosystem where innovation, governance, and growth are decentralized, without a single point of control.
+- **Doctelligence Ltd. 🔬:** Focused on developing decentralized AI (DecAI) technologies, this entity drives innovative solutions in AI that are decentralized, transparent, and open, pushing the technological progress of the network.
 
-While these entities play critical roles in advancing and supporting the network, the Decentralized Intelligence Network (DIN) itself remains independent. It is operated and secured entirely by decentralized entities, with participation driven by peer-to-peer interactions on a public, immutable blockchain ledger. This ensures the network remains open, transparent, and peer-driven at all levels.
+- **Doctelligence Foundation 🌐:** Empowering individuals, organizations, and sectors with decentralized AI technologies, the Foundation nurtures a community-driven ecosystem where innovation, governance, and growth are decentralized, with no single point of control.
+
+The Decentralized Intelligence Network (DIN) remains independent and is operated and secured by decentralized entities. Participation is driven by peer-to-peer interactions on a public, immutable blockchain ledger, ensuring the network is open, transparent, and peer-driven at all levels.
 
 ## Explore Our White Paper
 
@@ -43,7 +43,7 @@ For further recognition, check out the **[post by the Department of Computer Sci
 
 ## Get Involved:
 
-Whether you're passionate about the future of decentralized technologies or focused on advancing AI, there's a place for you at Doctelligence. Our mission drives innovation and accessibility across industries, fueled by a commitment to openness, experimentation, and collaboration.
+Whether you're passionate about the future of decentralized technologies or advancing AI, there's a place for you at Doctelligence. Our mission drives innovation and accessibility across industries, fueled by a commitment to openness, experimentation, and collaboration.
 
 - **Contribute:** Join us in building the future of decentralized intelligence. Check our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
 - **Engage:** Discover how you can be part of this transformative journey on our [website](https://doctelligence.github.io).
