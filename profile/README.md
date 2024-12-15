@@ -11,6 +11,7 @@ At *Doctelligence*, we combine cutting-edge technologies to drive the future of 
 **DIN** (Decentralized Intelligence Network) empowers both AI developers and data owners:
 
 - **For AI Developers**: DIN provides secure, decentralized access to diverse datasets, enabling scalable model training and fostering innovation without the constraints of centralized data silos.
+  
 - **For Data Owners**: DIN enables individuals, SMEs, enterprises, and users of decentralized storage solutions to retain full ownership of their data, monetize it, and unlock its economic potential. By improving data availability and access, DIN overcomes traditional data silos and drives AI innovation, all while ensuring compliance with global data regulations.
 
 ### Key Features of *Doctelligence*
