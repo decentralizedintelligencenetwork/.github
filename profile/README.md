@@ -21,7 +21,7 @@ At Doctelligence, we empower AI developers by providing them with secure, decent
 
 ## Our Vision
 
-Doctelligence is an open-source, peer-to-peer blockchain protocol designed to restructure and decentralize the current internet, specifically for AI training on a decentralized web of data architecture. It enables the creation, transfer, and distribution of economic value on a peer-to-peer basis, allowing users to maintain control over their data, identity, and future. Operating independently of central authorities, Doctelligence fosters a secure and transparent network where individuals can own and profit from their data. Our investment strategy is focused on fundamental technologies that form the backbone of Web 3.0, alongside infrastructure projects that leverage this decentralized framework for AI development and beyond.
+Doctelligence is designed to decentralize the current internet, specifically for AI training on a decentralized web of data architecture. 
 
 ## The Entities Behind Doctelligence
 
@@ -31,7 +31,7 @@ At the heart of **Doctelligence** are two key entities designed to derive value 
 
 - **Doctelligence Foundation 🌐:** Empowering individuals, organizations, and sectors with decentralized AI technologies, the Foundation nurtures a community-driven ecosystem where innovation, governance, and growth are decentralized, with no single point of control.
 
-The Decentralized Intelligence Network (DIN) remains independent and is operated and secured by decentralized entities. Participation is driven by peer-to-peer interactions on a public, immutable blockchain ledger, ensuring the network is open, transparent, and peer-driven at all levels.
+Decentralized Intelligence Network (DIN) remains independent and is operated and secured by decentralized entities. Participation is driven by peer-to-peer interactions on a public, immutable blockchain ledger, ensuring the network is open, transparent, and peer-driven at all levels.
 
 ## Explore Our White Paper
 
