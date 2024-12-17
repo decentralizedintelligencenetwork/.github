@@ -43,7 +43,7 @@ The **Decentralized Intelligence Network (DIN)** has been selected from over **1
 
 For more details, check out the **[White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)**, which outlines the foundational principles and technologies behind **DIN**.
 
-Additionally, for further recognition, check out the **[post by the Department of Computer Science at the University of Oxford](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** highlighting this achievement.
+Additionally, for further recognition, check out the **[post by the Department of Computer Science at the University of Oxford](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** highlighting this milestone.
 
 
 ## Get Involved
