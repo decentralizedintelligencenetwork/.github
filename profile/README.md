@@ -6,7 +6,7 @@ At the core of *Doctelligence* is **DIN**, a fully decentralized, peer-to-peer b
 
 ## What We Do at *Doctelligence*
 
-At Doctelligence, we combine cutting-edge technologies to drive the future of **artificial intelligence (AI)**. By integrating **blockchain**, ZKPs, federated learning, privacy-preserving technologies, and solutions like IPFS into a cohesive ecosystem, we prioritize data ownership, privacy, and accessibility. This innovative ecosystem enables the secure, decentralized training of AI models at scale, fostering breakthroughs while ensuring data sovereignty.
+At Doctelligence, we combine cutting-edge technologies to drive the future of **artificial intelligence (AI)**. By integrating **blockchain**, ZKPs, federated learning (FL), privacy-preserving technologies, and solutions like IPFS into a cohesive ecosystem, we prioritize data ownership, privacy, and accessibility. This innovative ecosystem enables the secure, decentralized training of AI models at scale, fostering breakthroughs while ensuring data sovereignty.
 
 **DIN** (Decentralized Intelligence Network) empowers both AI developers and data owners:
 
