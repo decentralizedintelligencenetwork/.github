@@ -56,4 +56,4 @@ Whether you're passionate about decentralized technologies or advancing AI, ther
 
 ---
 
-© 2025 Doctelligence | Empowering data sovereignty, driving scalable AI, and fostering decentralized innovation. Join us in building the future of a self-sovereign, decentralized ecosystem.
+© 2024 Doctelligence | Empowering data sovereignty, driving scalable AI, and fostering decentralized innovation. Join us in building the future of a self-sovereign, decentralized ecosystem.
