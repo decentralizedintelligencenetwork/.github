@@ -12,18 +12,18 @@ At Doctelligence, we combine cutting-edge technologies to drive the future of **
 
 - **For AI Developers**: DIN provides secure, decentralized access to diverse datasets, enabling scalable model training and fostering innovation without the constraints of centralized data silos.
   
-- **For Data Owners**: DIN enables individuals, SMEs, enterprises, and users of decentralized storage solutions to retain full ownership of their data, monetize it, and unlock its economic potential. By improving data availability and access, DIN overcomes traditional data silos and drives AI innovation, all while ensuring compliance with global data regulations.
+- **For Data Owners**: DIN enables you to monetize your data while maintaining complete control - whether stored locally or in cost-effective decentralized storage solutions. Only trained model updates are exchanged, never the raw data itself. This approach lets you unlock your data's economic value and fuel AI innovation while ensuring regulatory compliance and eliminating data transfer risks.
 
 ### Key Features of *Doctelligence*
 
 - 💻 **Data Ownership**  
-  Empower AI development by leveraging decentralized data stores, ensuring full control and ownership over personal and organizational data.
+  Store your data locally or in decentralized storage while unlocking its full value.
 
 - 🤖 **Decentralized AI**  
-  Securely train AI models on a decentralized network, utilizing blockchain to facilitate model updates while maintaining data privacy and encouraging open collaboration.
+  Train AI models across a network where only model updates are shared, ensuring data privacy.
 
 - 💰 **Direct Rewards**  
-  Earn cryptographic rewards for participating in AI training processes, eliminating intermediaries and ensuring fair compensation for contributors.
+  Earn rewards (i.e., stablecoin) for participating in AI training processes, without intermediaries.
 
 ## The Entities Behind *Doctelligence*
 
