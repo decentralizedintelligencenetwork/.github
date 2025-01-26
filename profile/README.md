@@ -17,7 +17,7 @@ At Doctelligence, we combine cutting-edge technologies to drive the future of **
 ### Key Features of *Doctelligence*
 
 - 💻 **Data Ownership**  
-  Store your data locally or in decentralized storage while unlocking its full value.
+  Store data locally or in decentralized storage while unlocking its full value.
 
 - 🤖 **Decentralized AI**  
   Train AI models securely across the network while the data stays at source.
