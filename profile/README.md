@@ -20,7 +20,7 @@ At Doctelligence, we combine cutting-edge technologies to drive the future of **
   Store your data locally or in decentralized storage while unlocking its full value.
 
 - 🤖 **Decentralized AI**  
-  Train AI models across a network where only model updates are shared, ensuring data privacy.
+  Train AI models securely across the network while the data stays at source.
 
 - 💰 **Direct Rewards**  
   Earn rewards (i.e., stablecoin) for participating in AI training processes, without intermediaries.
