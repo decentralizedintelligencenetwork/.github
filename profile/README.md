@@ -27,11 +27,6 @@ At Doctelligence, we combine cutting-edge technologies to drive the future of **
 
 ## The Entities Behind *Doctelligence*
 
-*Doctelligence* consists of two key entities that support and advance the **DIN** network:
-
-- **DIN Labs 🔬**  
-  This entity focuses on developing decentralized AI (DecAI) technologies, advancing innovative, open, and transparent solutions that push the boundaries of decentralized AI.
-
 - **Doctelligence Foundation 🌐**  
   The Foundation fosters a community-driven ecosystem where decentralized AI technologies are accessible to all. It supports innovation, governance, and growth within the network, ensuring that development is decentralized and no single entity has control.
 
