@@ -2,7 +2,7 @@
 
 **Doctelligence** is a **peer-to-peer blockchain protocol** that enables secure AI model training while ensuring **data sovereignty**. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we enable scalable AI development without relying on centralized intermediaries.
 
-### Empowering Data Owners & AI Developers
+## Empowering Data Owners & AI Developers
 
 - **For Data Owners**: Retain full control over data while monetizing it through model updates—not raw data.
 - **For AI Developers**: Access diverse **decentralized** data for training AI models without the constraints of centralized silos.
@@ -13,7 +13,7 @@
 
 *Doctelligence* enables federated learning to scale organically without centralized compute nodes. As more participants join, the ecosystem grows, making it adaptive and resilient. **Data owners** are rewarded in **stablecoins**, ensuring predictable and stable value exchanges.
 
-### Key Features of *Doctelligence*
+## Key Features of *Doctelligence*
 
 - 💻 **Data Sovereignty**  
   Data owners retain full control over their data. Whether stored locally or through decentralized storage solutions, only model updates are shared—raw data never leaves the owner's control, ensuring privacy.
@@ -25,6 +25,7 @@
   Data owners are rewarded directly in stablecoins for their participation in training AI models. By eliminating intermediaries, rewards are efficiently distributed in a transparent and trustless manner.
 
 ## Doctelligence Foundation 🌐 
+
 The *Doctelligence Foundation* is the steward of the protocol, ensuring the long-term sustainability and evolution of the ecosystem. With a focus on decentralization, the Foundation supports community-driven governance, ensuring that the protocol remains open and community-focused.
 
 ## Explore the White Paper
