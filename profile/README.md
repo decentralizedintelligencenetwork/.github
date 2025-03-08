@@ -17,21 +17,6 @@ At the core of **Doctelligence** is a **peer-to-peer blockchain protocol** that 
 
 *Doctelligence* enables federated learning to scale organically without centralized compute nodes. As more participants join, the ecosystem grows, making it adaptive and resilient. **Data owners** are rewarded in **stablecoins**, ensuring predictable and stable value exchanges.
 
-### Key Features
-
-- **Data Sovereignty**: Data remains under the owner's control, with only model updates exchanged.
-- **Decentralized AI**: Models are trained on a **decentralized** network, ensuring privacy and scalability.
-- **Direct Rewards**: Data owners are compensated directly in stablecoins.
-
-## Learn More
-
-*Doctelligence* was recognized at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**. Read the **[White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)** for more details.
-
-## Get Involved
-
-- **Contribute**: Explore [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
-- **Contact**: Reach us at [abraham.nash@cs.ox.ac.uk](mailto:abraham.nash@cs.ox.ac.uk).
-
 ### Key Features of *Doctelligence*
 
 - 💻 **Data Sovereignty**  
