@@ -4,17 +4,17 @@
 
 At its core, *Doctelligence* is a decentralized network, underpinned by blockchain technology. Every interaction is recorded immutably, ensuring transparency, security, and accountability at every step. The network is not controlled by any single entity but rather by a distributed set of validators, reinforcing the fundamental principles of decentralization.
 
-## What *Doctelligence* Offers
+## The *Doctelligence* Network
 
-*Doctelligence* envisions a world where **data owners** and **AI developers** can collaborate directly in the training of AI models, without the need for centralized entities or middlemen. This vision is realized through a **decentralized ecosystem** that maintains full sovereignty over data and model updates. With federated learning, models are trained **on-site**—data never leaves the control of the owner. Instead, only model updates are exchanged, preserving both privacy and sovereignty.
+*Doctelligence* envisions a future where **data owners** and **AI developers** can collaborate directly on the training of AI models, without relying on centralized entities or middlemen. This vision is brought to life through a **decentralized ecosystem** that upholds full sovereignty over both data and model updates. With federated learning, models are trained **on-site**, ensuring that data stays under the owner’s control. Only model updates are exchanged, preserving both privacy and sovereignty.
 
-The unique contribution of *Doctelligence* is the **restructuring of federated learning dynamics**. It transforms the roles of data owners and AI developers into **peer-to-peer market participants**, where data owners can directly contribute their data for AI training, and developers can access decentralized data pools at scale. This **marketplace** facilitates direct, trustless exchanges between participants, empowering both parties to transact value without the need for intermediaries. This structure embodies the **ethos of decentralization**, where collaboration and value exchange are not mediated by centralized power but enabled through transparent, trustless protocols.
+The unique contribution of *Doctelligence* is the **restructuring of federated learning dynamics**, turning data owners and AI developers into **peer-to-peer participants**. Data owners directly contribute their data for AI training, and developers tap into decentralized data pools at scale. This **marketplace** facilitates trustless, direct exchanges, empowering both parties to transact value without intermediaries. This reflects the **ethos of decentralization**, where collaboration and value exchange are not governed by centralized power but enabled by transparent, trustless protocols.
 
-In a world dominated by centralized AI systems, *Doctelligence* offers a clear alternative: decentralization, scalability, and privacy. The core benefit lies in **enabling small-scale, decentralized agents** to work together in a way that scales organically and horizontally, rather than relying on large, centralized systems. This network isn’t about replacing centralized systems with a new, centralized entity—it’s about giving control back to individual participants, enabling them to contribute to the collective intelligence of the network.
+In a world dominated by centralized AI systems, *Doctelligence* offers a clear alternative: decentralization, scalability, and privacy. Its innovation lies in **restructuring federated learning** to allow peer-to-peer collaboration. By keeping data under the control of its owner while enabling developers to access decentralized data pools, *Doctelligence* removes the access barriers that have kept data siloed by third-party entities. This marketplace enables trustless exchanges, where value flows through decentralized protocols, not intermediaries. This is decentralization in practice—where access, collaboration, and value exchange are liberated from centralized control.
 
-*Doctelligence* facilitates decentralized **federated learning ecosystems**, where models are small, decentralized, and adaptable, scaling across independent compute nodes. The idea is simple yet profound: decentralization doesn’t just work in theory—it can deliver tangible, scalable AI in practice. By allowing the network to grow naturally through individual participation, we unlock an adaptive, resilient system for training AI models.
+*Doctelligence* powers decentralized **federated learning ecosystems**, where models are small, adaptable, and scalable across independent compute nodes. This isn’t just theoretical—**decentralization works in practice**. Through organic growth driven by individual participation, we create an adaptive and resilient system for training AI models.
 
-**Data owners are compensated in stablecoins**, providing a reliable and stable means of exchange, as opposed to volatile or speculative token assets. This reflects the underlying principles of decentralized marketplaces. The blockchain protocol operates seamlessly in the background, enabling both AI model training and data monetization in a manner that is secure, transparent, private, and of real utility. It facilitates the creation of intuitive applications that empower participants to engage in familiar exchanges and training environments. In this model, fair rewards for participation are ensured, free from the extraction of value by intermediaries.
+**Data owners are compensated in stablecoins**, ensuring a reliable, stable means of exchange, in contrast to volatile token assets. This reflects the principles of decentralized marketplaces. The blockchain protocol operates seamlessly in the background, enabling secure, transparent, and private AI model training and data monetization. It enables intuitive applications that allow participants to engage in familiar exchanges, ensuring fair rewards for participation—without intermediaries extracting value.
 
 ### Key Features of *Doctelligence*
 
@@ -27,12 +27,10 @@ In a world dominated by centralized AI systems, *Doctelligence* offers a clear a
 - 💰 **Direct Rewards**  
   Data owners are rewarded directly in stablecoins for their participation in training AI models. By eliminating intermediaries, rewards are efficiently distributed in a transparent and trustless manner.
 
-## The Entities Behind *Doctelligence*
-
-**Doctelligence Foundation 🌐**  
+## Doctelligence Foundation 🌐 
 The *Doctelligence Foundation* is the steward of the protocol, ensuring the long-term sustainability and evolution of the ecosystem. With a focus on decentralization, the Foundation supports community-driven governance, ensuring that the protocol remains open and community-focused.
 
-## Dive Deeper: Explore the White Paper
+## Learn More: Explore the White Paper
 
 *Doctelligence* was selected as one of the top projects at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI. This event highlighted *Doctelligence* as the only network capable of scaling decentralized AI through data sovereignty and privacy-preserving methods.
 
