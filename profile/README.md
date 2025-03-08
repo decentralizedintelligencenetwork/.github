@@ -1,10 +1,6 @@
 # Doctelligence Network 🚀
 
-At the core of **Doctelligence** is a **peer-to-peer blockchain protocol** that enables secure AI model training while ensuring **data sovereignty**. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we enable scalable AI development without relying on centralized intermediaries.
-
-## What We Do
-
-**Doctelligence** enables secure, scalable AI training while respecting data privacy. By combining **blockchain**, **IPFS**, **federated learning**, and **privacy technologies**, we empower data owners and AI developers to collaborate in a **decentralized** and trustless ecosystem.
+**Doctelligence** is a **peer-to-peer blockchain protocol** that enables secure AI model training while ensuring **data sovereignty**. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we enable scalable AI development without relying on centralized intermediaries.
 
 ### Empowering Data Owners & AI Developers
 
