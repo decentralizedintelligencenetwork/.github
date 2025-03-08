@@ -30,9 +30,7 @@ At Doctelligence, we combine cutting-edge technologies to drive the future of **
 **Doctelligence Foundation 🌐**  
   The Foundation fosters a community-driven ecosystem where decentralized AI technologies are accessible to all. It supports innovation, governance, and growth within the network, ensuring that development is decentralized and no single entity has control.
 
-**DIN**, the network itself, operates independently and is secured by a decentralized network of participants. It is not owned or controlled by any single party, and all interactions within the network are transparently recorded on an immutable public blockchain. This decentralized architecture promotes openness, transparency, and collective participation, ensuring that **DIN** remains a truly community-driven network.
-
-Validators enable the decentralization of the network, ensuring it is not owned by any single entity. They play a crucial role in securing the network by ensuring the integrity of transactions and validating model updates in a decentralized manner, effectively running the network and securing its protocol.
+**DIN**, the network itself, operates independently and is secured by a decentralized network of validators. It is not owned or controlled by any single party, and all interactions within the network are transparently recorded on an immutable public blockchain. This decentralized architecture promotes openness, transparency, and collective participation, ensuring that **DIN** remains a truly community-driven network.
 
 ## Explore Our White Paper
 
