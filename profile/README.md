@@ -25,6 +25,10 @@ At Doctelligence, we combine cutting-edge technologies to drive the future of **
 - 💰 **Direct Rewards**  
   Earn rewards (i.e., stablecoin) for participating in AI training processes, without intermediaries.
 
+### Validators Securing the Network
+
+Validators enable the decentralization of the network, ensuring it is not owned by any single entity. They play a crucial role in securing the network by ensuring the integrity of transactions and validating model updates in a decentralized manner, effectively running the network and securing its protocol.
+
 ## The Entities Behind *Doctelligence*
 
 **Doctelligence Foundation 🌐**  
@@ -40,7 +44,6 @@ For more details, check out the **[White Paper](https://github.com/Doctelligence
 
 Additionally, for further recognition, check out the **[post by the Department of Computer Science at the University of Oxford](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** highlighting this milestone.
 
-
 ## Get Involved
 
 Whether you're passionate about decentralized technologies or advancing AI, there's a place for you at *Doctelligence*. Join us in shaping the future of decentralized intelligence.
@@ -51,4 +54,4 @@ Whether you're passionate about decentralized technologies or advancing AI, ther
 
 ---
 
-© 2024 Doctelligence | Empowering data sovereignty, driving scalable AI, and fostering decentralized innovation. Join us in building the future of a self-sovereign, decentralized ecosystem.
+© 2025 Doctelligence | Empowering data sovereignty, driving scalable AI, and fostering decentralized innovation. Join us in building the future of a self-sovereign, decentralized ecosystem.
