@@ -31,7 +31,7 @@ At the core of **Doctelligence** is a **peer-to-peer blockchain protocol** that 
 ## Doctelligence Foundation 🌐 
 The *Doctelligence Foundation* is the steward of the protocol, ensuring the long-term sustainability and evolution of the ecosystem. With a focus on decentralization, the Foundation supports community-driven governance, ensuring that the protocol remains open and community-focused.
 
-## Learn More: Explore the White Paper
+## Explore the White Paper
 
 *Doctelligence* was selected as one of the top projects at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI. This event highlighted *Doctelligence* as the only network capable of scaling decentralized AI through data sovereignty and privacy-preserving methods.
 
