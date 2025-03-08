@@ -1,6 +1,6 @@
 # Doctelligence Network 🚀
 
-**Doctelligence** is a **peer-to-peer blockchain protocol** that enables secure AI model training while ensuring **data sovereignty**. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we enable scalable AI development without relying on centralized intermediaries.
+**Doctelligence** is a **peer-to-peer blockchain protocol** that enables secure AI model training while ensuring **data ownership**. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we enable scalable AI development without relying on centralized intermediaries.
 
 ## Empowering Data Owners & AI Developers
 
@@ -9,13 +9,13 @@
 
 ## Doctelligence Network
 
-*Doctelligence* facilitates **direct collaboration** between **data owners** and **AI developers** in a **decentralized** ecosystem. Data stays under the owner's control, and only model updates are exchanged, ensuring privacy and sovereignty.
+*Doctelligence* facilitates **direct collaboration** between **data owners** and **AI developers** in a **decentralized** ecosystem. Data stays under the owner's control, and only model updates are exchanged, ensuring privacy and ownership.
 
 *Doctelligence* enables federated learning to scale organically without centralized compute nodes. As more participants join, the ecosystem grows, making it adaptive and resilient. **Data owners** are rewarded in **stablecoins**, ensuring predictable and stable value exchanges.
 
 ## Key Features of *Doctelligence*
 
-- 💻 **Data Sovereignty**  
+- 💻 **Data Ownership**  
   Data owners retain full control over their data. Whether stored locally or through decentralized storage solutions, only model updates are shared—raw data never leaves the owner's control, ensuring privacy.
 
 - 🤖 **Decentralized AI**  
@@ -30,7 +30,7 @@ The *Doctelligence Foundation* is the steward of the protocol, ensuring the long
 
 ## Explore the White Paper
 
-*Doctelligence* was selected as one of the top projects at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI. This event highlighted *Doctelligence* as the only network capable of scaling decentralized AI through data sovereignty and privacy-preserving methods.
+*Doctelligence* was selected as one of the top projects at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI. This event highlighted *Doctelligence* as the only network capable of scaling decentralized AI through data ownership and privacy-preserving methods.
 
 To understand the technical and philosophical foundations of *Doctelligence*, explore our **[White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)**.
 
@@ -38,7 +38,7 @@ For further insights, check out the **[post from the Department of Computer Scie
 
 ## Get Involved
 
-*Doctelligence* is part of a growing movement dedicated to decentralizing AI and empowering data sovereignty. There’s a place for everyone in this journey, whether you're a developer, researcher, or advocate for decentralized technologies.
+*Doctelligence* is part of a growing movement dedicated to decentralizing AI and empowering data ownership. There’s a place for everyone in this journey, whether you're a developer, researcher, or advocate for decentralized technologies.
 
 - **Contribute**: Join us in shaping the future of decentralized AI. Explore our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
 - **Engage**: Learn more about participating in the ecosystem on our [website](https://doctelligence.github.io).
@@ -46,4 +46,4 @@ For further insights, check out the **[post from the Department of Computer Scie
 
 ---
 
-© 2025 Doctelligence | Decentralizing AI, ensuring data sovereignty, and fostering trustless innovation for a decentralized future.
+© 2025 Doctelligence | Decentralizing AI, ensuring data ownership, and fostering trustless innovation for a decentralized future.
