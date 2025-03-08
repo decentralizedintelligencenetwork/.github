@@ -1,32 +1,36 @@
-# Welcome to *Doctelligence* 🚀
+# Doctelligence Network 🚀
 
-At the core of **Doctelligence** is a **peer-to-peer blockchain protocol** that enables secure and scalable AI model training while ensuring **data sovereignty**. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we offer a framework that allows AI to be developed at scale, without relying on centralized intermediaries.
+At the core of **Doctelligence** is a **peer-to-peer blockchain protocol** that enables secure AI model training while ensuring **data sovereignty**. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we enable scalable AI development without relying on centralized intermediaries.
 
-## What We Do at *Doctelligence*
+## What We Do
 
-**Doctelligence** combines cutting-edge technologies to transform how AI models are trained. Through blockchain, IPFS, federated learning, and privacy-focused methods, we enable AI development that respects the autonomy of individuals and protects data privacy. This ecosystem allows for scalable, secure AI model training while preserving the integrity and control of the data.
+**Doctelligence** enables secure, scalable AI training while respecting data privacy. By combining **blockchain**, **IPFS**, **federated learning**, and **privacy technologies**, we empower data owners and AI developers to collaborate in a **decentralized** and trustless ecosystem.
 
-### Empowering AI Developers and Data Owners
+### Empowering Data Owners & AI Developers
 
-At **Doctelligence**, we empower **both AI developers** and **data owners**:
+- **For Data Owners**: Retain full control over data while monetizing it through model updates—not raw data.
+- **For AI Developers**: Access diverse **decentralized** data for training AI models without the constraints of centralized silos.
 
-- **For AI Developers**: *Doctelligence* provides developers secure, decentralized access to diverse datasets, enabling scalable model training without the constraints of centralized data silos. This approach fosters innovation by giving developers access to a global, distributed network of data, rather than relying on centralized control.
+## Doctelligence Network
 
-- **For Data Owners**: *Doctelligence* allows data owners to directly participate in the AI ecosystem. They can monetize their data while retaining full control over it, whether it’s stored locally or in a cost-effective decentralized storage solution. Only **model updates** are exchanged—never the raw data—preserving privacy and sovereignty. This model unlocks the economic potential of data without sacrificing control, and ensures compliance with regulatory standards while eliminating the risks of transferring raw data.
+*Doctelligence* facilitates **direct collaboration** between **data owners** and **AI developers** in a **decentralized** ecosystem. Data stays under the owner's control, and only model updates are exchanged, ensuring privacy and sovereignty.
 
-## A New Era of Collaboration
+*Doctelligence* enables federated learning to scale organically without centralized compute nodes. As more participants join, the ecosystem grows, making it adaptive and resilient. **Data owners** are rewarded in **stablecoins**, ensuring predictable and stable value exchanges.
 
-**Doctelligence** envisions a future where **data owners** and **AI developers** collaborate directly, without relying on intermediaries. In this ecosystem, **data stays under the control of its owner**, with only model updates being exchanged. This approach ensures privacy and sovereignty, while encouraging innovation and collaboration in a transparent, trustless environment.
+### Key Features
 
-The real innovation of *Doctelligence* lies in its restructuring of federated learning. By turning **data owners** and **AI developers** into **peer-to-peer participants**, both sides can interact directly. This **marketplace** facilitates trustless exchanges, ensuring that data owners maintain control over their information while developers have access to distributed data pools, driving better, more inclusive AI models.
+- **Data Sovereignty**: Data remains under the owner's control, with only model updates exchanged.
+- **Decentralized AI**: Models are trained on a **decentralized** network, ensuring privacy and scalability.
+- **Direct Rewards**: Data owners are compensated directly in stablecoins.
 
-In a world dominated by centralized systems, *Doctelligence* offers an alternative. By keeping data within the control of its owner and removing the barriers to access, *Doctelligence* enables AI development at scale while ensuring privacy and sovereignty. This vision empowers the future of AI, where collaboration and value exchange are governed by transparent protocols, free from centralized control.
+## Learn More
 
-## Scalable Federated Learning
+*Doctelligence* was recognized at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**. Read the **[White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)** for more details.
 
-*Doctelligence* enables federated learning ecosystems that scale without the need for centralized compute nodes. This isn't just theoretical; it works in practice. By allowing data to remain under the control of its owners and exchanging only model updates, the system grows organically through individual participation. As more participants join, the ecosystem becomes increasingly adaptive and resilient, evolving to meet the demands of a rapidly changing landscape.
+## Get Involved
 
-**Data owners** are compensated in **stablecoins**, ensuring that value exchanges are predictable and stable, without the risks associated with volatile tokens. The blockchain protocol ensures **secure**, **private**, and **transparent** AI model training and data monetization, enabling fair rewards for participation without intermediaries extracting value.
+- **Contribute**: Explore [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
+- **Contact**: Reach us at [abraham.nash@cs.ox.ac.uk](mailto:abraham.nash@cs.ox.ac.uk).
 
 ### Key Features of *Doctelligence*
 
