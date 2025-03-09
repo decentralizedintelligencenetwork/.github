@@ -11,7 +11,8 @@
 
 *Doctelligence* facilitates a **peer-to-peer marketplace** for **AI training** and **data** in a decentralized ecosystem. Tailored for small models on-device, it scales for an open AI economy by eliminating third-party intermediaries, keeping data under the owner’s control while only exchanging model updates.
 
-Decentralized validators empower the network, enabling peer-to-peer exchanges between AI trainers and data owners without the need for any single entity to control the process. This structure enables federated learning (FL) to scale organically, without relying on centralized compute nodes, third-party hardware, or intermediaries. The network and protocol are designed to serve as backend infrastructure, supporting AI training ecosystems and data markets for exchanges, with stablecoin transactions facilitating the frontend.
+**Decentralized validators** empower the network, enabling **peer-to-peer exchanges** between **AI trainers** and **data owners** without the need for any single entity to control the process. This structure enables **federated learning (FL)** to scale organically, without relying on **centralized compute nodes**, third-party hardware, or intermediaries. The **network** and **protocol** are designed to serve as **backend infrastructure**, supporting applications for **AI training ecosystems** and **data markets** for exchanges, with clean **transactions** facilitating the frontend. In essence, the **blockchain** serves entirely as the **backend for real utility**.
+
 
 ## Key Features of *Doctelligence*
 
