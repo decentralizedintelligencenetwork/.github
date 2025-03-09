@@ -7,8 +7,6 @@
 - **For Data Owners**: Retain full control over data while monetizing it through model updates—not raw data.
 - **For AI Developers**: Access diverse **decentralized** data for training AI models without the constraints of centralized silos.
 
-## Doctelligence Network
-
 *Doctelligence* facilitates a **peer-to-peer marketplace** for **AI training** and **data** in a decentralized ecosystem. Tailored for small models on-device, it scales for an open AI economy by eliminating third-party intermediaries, keeping data under the owner’s control while only exchanging model updates.
 
 **Decentralized validators** empower the network, enabling **peer-to-peer exchanges** between **AI trainers** and **data owners**, ensuring no single entity controls the process. It operates without relying on **centralized compute nodes**, third-party hardware, or intermediaries. The **network** and **protocol** are designed to serve as **backend infrastructure**, supporting applications for **AI training ecosystems** and **data markets** for exchanges, with clean **transactions** facilitating the frontend. In essence, the **blockchain** functions entirely as the **backend for real utility**.
