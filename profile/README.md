@@ -1,18 +1,19 @@
-# Welcome to Doctelligence 🚀
+# Doctelligence Network 🚀
 
-Doctelligence is an organization built on the foundation of the Decentralized Intelligence Network (DIN), a pioneering initiative in the development of decentralized AI and data systems.
+**Doctelligence** is a **peer-to-peer blockchain protocol** that enables secure AI model training while ensuring **data ownership**. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we enable scalable AI development without relying on centralized intermediaries.
 
-At the core of Doctelligence is DIN, a fully decentralized, peer-to-peer blockchain protocol that enables secure and scalable AI training using decentralized data.
+## Empowering Data Owners & AI Developers
 
-## What We Do at Doctelligence
+- **For Data Owners**: Retain full control over data while monetizing it through model updates—not raw data.
+- **For AI Developers**: Access diverse **decentralized** data for training AI models without the constraints of centralized silos.
 
-At Doctelligence, we combine cutting-edge technologies to drive the future of decentralized artificial intelligence (DeAI). By integrating blockchain, IPFS, federated learning (FL), & privacy-preserving technologies into a simple yet elegant protocol, we empower organizations to fully unlock the potential of AI. This innovative ecosystem enables the secure, decentralized training of AI models at scale, fostering breakthroughs while ensuring data sovereignty.
+## Doctelligence Network
 
-### DIN (Decentralized Intelligence Network) empowers both AI developers and data owners:
+*Doctelligence* facilitates a **peer-to-peer marketplace** for **AI training** and **data** in a decentralized ecosystem. Tailored for small models on-device, it scales for an open AI economy by eliminating third-party intermediaries, keeping data under the owner’s control while only exchanging model updates.
 
-- **For AI Developers:** DIN provides secure, decentralized access to diverse datasets, enabling scalable model training and fostering innovation without the constraints of centralized data silos.
+The protocol enables **federated learning (FL)** to scale organically without centralized compute nodes or third party hardware and intermediaries. Decentralized validators secure the network, ensuring no single entity controls the flow of AI and data.
 
-- **For Data Owners:** DIN enables you to monetize your data while maintaining complete control - whether stored locally or in cost-effective decentralized storage solutions. Only trained model updates are exchanged, never the raw data itself. This approach lets you unlock your data's economic value and fuel AI innovation while ensuring regulatory compliance and eliminating data transfer risks.
+As more participants join, the ecosystem becomes adaptive and resilient. **Data owners** are rewarded in **stablecoins**, ensuring predictable value exchanges.
 
 ## Key Features of *Doctelligence*
 
@@ -39,7 +40,7 @@ For further insights, check out the **[post from the Department of Computer Scie
 
 ## Get Involved
 
-*Doctelligence* is part of a growing movement dedicated to decentralizing AI and empowering data ownership. There’s a place for everyone in this journey, whether you're a developer, researcher, or advocate for decentralized technologies.
+*Doctelligence* is part of a growing movement dedicated to decentralizing the AI and data economy empowering data ownership. There’s a place for everyone in this journey, whether you're a developer, researcher, or advocate for decentralized technologies.
 
 - **Contribute**: Join us in shaping the future of decentralized AI. Explore our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
 - **Engage**: Learn more about participating in the ecosystem on our [website](https://doctelligence.github.io).
