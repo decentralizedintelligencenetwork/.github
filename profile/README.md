@@ -16,15 +16,15 @@ In essence, the **blockchain** serves entirely as the **backend for real utility
 ## Key Features of *Doctelligence*
 
 - 💻 **Data Ownership**  
-  Data owners retain full control over their data. Whether stored locally or through decentralized storage solutions, only model updates are shared—raw data never leaves the owner's control, ensuring privacy.
+  Maintain **full ownership** of your data while enabling AI training within a secure, **decentralized infrastructure**. Your data remains under your control, ensuring privacy and security, without the need for data transfers.
 
-- 🤖 **Decentralized AI**  
-  Models are trained on a decentralized network, eliminating the need for centralized servers. This approach ensures scalability and security, while preserving the privacy of the participants.
+- 🤖 **Decentralized AI Infrastructure**  
+  Leverage a **peer-to-peer network** to securely update models, enhancing both **privacy** and **scalability** for AI development. This decentralized approach ensures efficient collaboration between AI trainers and data owners.
 
 - 💰 **Direct Rewards**  
-  Data owners are rewarded directly in stablecoins for their participation in training AI models. By eliminating intermediaries, rewards are efficiently distributed in a transparent and trustless manner.
+  Earn **stablecoin rewards** directly within the ecosystem for your participation. By eliminating intermediaries, rewards are distributed transparently, promoting fair and efficient compensation for all contributors.
 
-## Doctelligence Foundation 🌐 
+## Foundation 🌐 
 
 The *Doctelligence Foundation* is the steward of the protocol, ensuring the long-term sustainability and evolution of the ecosystem. With a focus on decentralization, the Foundation supports community-driven governance, ensuring that the protocol remains open and community-focused.
 
