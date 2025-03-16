@@ -1,15 +1,17 @@
 # Doctelligence Network 🚀
 
-**Doctelligence** is a **peer-to-peer blockchain protocol** that enables secure AI model training while ensuring **data ownership**. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we enable scalable AI development without relying on centralized intermediaries.
+**Doctelligence** is a decentralized infrastructure for AI and data marketplaces, enabling secure, peer-to-peer collaboration without data movement.
 
 ## Empowering Data Owners & AI Developers
 
 - **For Data Owners**: Retain full control over data while monetizing it through model updates—not raw data.
 - **For AI Developers**: Access diverse **decentralized** data for training AI models without the constraints of centralized silos.
 
-*Doctelligence* facilitates a **peer-to-peer marketplace** for **AI training** and **data** in a decentralized ecosystem. Tailored for small models on-device, it scales for an open AI economy by eliminating third-party intermediaries, keeping data under the owner’s control while only exchanging model updates.
+**Decentralized validators** power the network, enabling **peer-to-peer interactions** between **AI trainers** and **data owners**, ensuring that no single entity controls the process. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we enable scalable AI development without relying on centralized intermediaries. 
 
-**Decentralized validators** empower the network, enabling **peer-to-peer exchanges** between **AI trainers** and **data owners**, ensuring no single entity controls the process. It operates without relying on **centralized compute nodes**, third-party hardware, or intermediaries. The **network** and **protocol** are designed to serve as **backend infrastructure**, supporting applications for **AI training ecosystems** and **data markets** for exchanges, with clean **transactions** facilitating the frontend. In essence, the **blockchain** functions entirely as the **backend for real utility**.
+The network operates independently of **centralized compute nodes**, third-party hardware, or intermediaries. The **network** and **protocol** are designed to serve as **backend infrastructure**, supporting applications for **AI training ecosystems** and **data marketplaces** for exchanges. **Clean transactions** facilitate the **frontend** interactions.
+
+In essence, the **blockchain** serves entirely as the **backend for real utility**, providing the infrastructure that supports **secure, scalable, and privacy-preserving AI** solutions without the need for centralized control.
 
 ## Key Features of *Doctelligence*
 
