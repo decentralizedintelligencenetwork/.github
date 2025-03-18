@@ -27,7 +27,7 @@ In essence, the **blockchain** acts as the **backend infrastructure**, driving *
 
 ## Foundation 🌐 
 
-The *Doctelligence Foundation* is the steward of the protocol, ensuring the long-term sustainability and evolution of the ecosystem. With a focus on decentralization, the Foundation supports community-driven governance, ensuring that the protocol remains open and community-focused.
+*Doctelligence Foundation* is the steward of the protocol, ensuring the long-term sustainability and evolution of the ecosystem. With a focus on decentralization, the Foundation supports community-driven governance, ensuring that the protocol remains open and community-focused.
 
 ## Explore the White Paper
 
