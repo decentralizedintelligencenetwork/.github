@@ -4,13 +4,11 @@
 
 ## Empowering Data Owners & AI Developers
 
-The **decentralized validators** power the network, enabling **peer-to-peer interactions** within **decentralized applications (dApps)**, ensuring that no single entity controls the process. By integrating **blockchain**, **IPFS**, **federated learning (FL)**, and **privacy-preserving technologies**, we enable scalable AI development without relying on centralized intermediaries, all while ensuring data privacy and security.
-
 Our infrastructure empowers decentralized applications to facilitate both **AI training** and **data monetization** opportunities:
 
 - **For Data Owners & AI Developers**: Leverage decentralized infrastructure to **monetize data stores** and establish **AI training opportunities**. Through the secure sharing of **model updates** instead of raw data, both parties can collaborate effectively and scale AI solutions while preserving privacy.
 
-The network operates independently of **centralized compute nodes**, third-party hardware, or intermediaries. Designed as **backend infrastructure**, it supports decentralized applications for **AI training ecosystems** and **data marketplaces**, ensuring secure and seamless exchanges. 
+The network is secured by decentralized validators and operates independently of **centralized compute nodes**, third-party hardware, or intermediaries. Designed as **backend infrastructure**, it supports decentralized applications for **AI training ecosystems** and **data marketplaces**, ensuring secure and seamless exchanges. 
 
 In essence, the **blockchain** acts as the **backend infrastructure**, driving **secure**, **scalable**, and **privacy-preserving AI** solutions within **decentralized applications** — all without centralized control.
 
