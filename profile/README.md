@@ -21,7 +21,7 @@ In essence, the **blockchain** acts as the **backend infrastructure**, driving *
   Leverage a **peer-to-peer network** to securely update models, enhancing both **privacy** and **scalability** for AI development. This decentralized approach ensures efficient collaboration between AI trainers and data owners.
 
 - 💰 **Direct Rewards**  
-  Earn **stablecoin rewards** directly within the ecosystem for your participation. By eliminating intermediaries, rewards are distributed transparently, promoting fair and efficient compensation for all contributors.
+  Earn **stablecoin (e.g. RAI) rewards** directly within the ecosystem for your participation. By eliminating intermediaries, rewards are distributed transparently, promoting fair and efficient compensation for all contributors.
 
 ## Foundation 🌐 
 
