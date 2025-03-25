@@ -1,10 +1,12 @@
-# Doctelligence Network 🚀  
+# Doctelligence Network 🚀
 
-**Doctelligence** is a **decentralized, scalable, and open-source network of Personal Health Records (PHRs)**, where individuals **own and monetize their health data while maintaining full privacy**. Using **scalable federated learning (FL)**, AI models are trained on **encrypted data** **without moving or exposing personal records**, enabling secure and **privacy-preserving AI development** across a growing network.  
+**Doctelligence** is a **decentralized, open-source network** for **personal health records (PHRs)** that lets individuals **own, monetize, and protect** their health data. It creates a **peer-to-peer health AI network**, enabling **secure, privacy-preserving AI development** through **federated learning (FL)**. AI models are trained on **encrypted data** without exposing personal records, ensuring confidentiality.
 
-This empowers **private data monetization**, **high-frequency stablecoin rewards**, and contributions to **decentralized health insurance**—a system where individuals can **monetize their health data while contributing to collective risk pools** for community-driven health coverage. All of this operates within a **scalable, permissionless ecosystem**, ensuring fair compensation and access to decentralized healthcare solutions.  
+For clinicians, it simplifies access to health data in one unified location, overcoming the limitations of siloed systems. This model scales beyond traditional infrastructures, unlocking **greater potential for data scalability** in **AI** and **analytics**.
 
-As an **open-source protocol**, *Doctelligence* fosters **transparency, community-driven innovation, and global accessibility**.  
+The network also enables **private data monetization**, **stablecoin rewards**, and contributions to **decentralized health insurance**, where individuals help fund **health coverage**. Operating within a **scalable, permissionless ecosystem**, it ensures **fair compensation** and **access** to decentralized healthcare.
+
+As an **open-source protocol**, *Doctelligence* fosters **transparency**, **innovation**, and **global accessibility**.
 
 ## Key Features of *Doctelligence*  
 
