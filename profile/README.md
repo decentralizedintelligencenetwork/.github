@@ -1,10 +1,10 @@
 # Doctelligence Network 🚀
 
-**Doctelligence** is a **decentralized, open-source network** for **personal health records (PHRs)** that lets individuals **own, monetize, and protect** their health data. It creates a **peer-to-peer health AI network**, enabling **secure, privacy-preserving AI development** through **federated learning (FL)**. AI models are trained on **encrypted data** without exposing personal records, ensuring confidentiality.
+**Doctelligence** is a **decentralized health AI network**, where individuals have full control over their **personal health records (PHRs)**. The network uses a **peer-to-peer protocol** that allows people to **securely monetize** their data. With **federated learning (FL)**, AI models are trained on **encrypted data** without exposing personal records.
 
-For clinicians, it simplifies access to health data in one unified location, overcoming the limitations of siloed systems. This model scales beyond traditional infrastructures, unlocking **greater potential for data scalability** in **AI** and **analytics**.
+The platform enables **data monetization with high-frequency stablecoin rewards** and offers **decentralized health insurance**.
 
-The network also enables **private data monetization**, **stablecoin rewards**, and contributions to **decentralized health insurance**, where individuals help fund **health coverage**. Operating within a **scalable, permissionless ecosystem**, it ensures **fair compensation** and **access** to decentralized healthcare.
+As an **open-source protocol**, *Doctelligence* focuses on **transparency**, **innovation**, and **making healthcare more accessible** for everyone.
 
 As an **open-source protocol**, *Doctelligence* fosters **transparency**, **innovation**, and **global accessibility**.
 
@@ -19,15 +19,13 @@ As an **open-source protocol**, *Doctelligence* fosters **transparency**, **inno
 - 💰 **High-Frequency Stablecoin Rewards**  
   Earn **direct stablecoin rewards (e.g., USDT)** for securely contributing to AI models. No intermediaries—just transparent, trustless compensation.  
 
-## Foundation 🌐  
+## Doctelligence Foundation 🌐  
 
-*Doctelligence Foundation* ensures the **long-term sustainability and evolution** of the ecosystem. **No single entity owns or controls the Doctelligence network**—it is an **open and permissionless infrastructure**, governed by the community. With a focus on **decentralization**, the Foundation supports **community-driven governance**, keeping the protocol **open, transparent, and adaptable**.  
+**No single entity owns or controls the Doctelligence network**—it operates as an **open, permissionless infrastructure**, governed by the community. With an emphasis on **decentralization**, the Foundation supports **community-driven governance**, keeping the protocol **open**, **transparent**, and **adaptable**.
 
 ## Explore the White Paper  
 
-Doctelligence's AI solution was selected as one of the top projects at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI. This event highlighted *Doctelligence* as the only network capable of **scaling decentralized AI** through **data ownership and privacy-preserving methods**.  
-
-To dive into the technical and philosophical foundations, explore our **[White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)**.  
+Doctelligence's AI peer-peer protocol was selected as one of the top projects at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI. 
 
 For further insights, check out the **[post from the Department of Computer Science at the University of Oxford](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)**, where *Doctelligence* is discussed in the context of **emerging decentralized AI technologies**.  
 
