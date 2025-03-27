@@ -2,7 +2,8 @@
 
 **Doctelligence** is a decentralized, peer-to-peer health network that gives patients full control over their open-source personal health records—securely stored and private. With just an internet connection, anyone can tap into the network, connecting with healthcare professionals, services, and systems, and contributing to a new era of healthcare.
 
-- **With just an internet connection, anyone can:**
+- **With just an internet connection, communities can:**
+  
   - Build **local healthcare solutions** using digital infrastructure and personal health records, ready to go.
   - Enable **AI model training** on your data while keeping it **local**, ensuring security, privacy, and advancing healthcare systems.
   - Earn **stablecoin rewards** (e.g., **RAI**, **USDT**) for participation, contributing to a **self-funded health system**.
