@@ -1,23 +1,23 @@
-# Doctelligence Network 🚀
 
-**Doctelligence** empowers individuals with control over their **open-source personal health record**, securely storing data for life.
 
-- With just an internet connection, anyone can:
-  - Access the network and set up infrastructure to create **local healthcare solutions**.
-  - Enable **AI model training** on this data while keeping it **local**, ensuring it remains secure and never exposed or transferred, helping to advance healthcare systems.
-  - Be rewarded with **stablecoins** (e.g., **RAI**, **USDT**) for their participation, contributing to a **self-funded health system**.
+**Doctelligence** is a decentralized, peer-to-peer health network that gives patients full control over their open-source personal health records—securely stored and private. With just an internet connection, anyone can tap into the network, connecting with healthcare professionals, services, and systems, and contributing to a new era of healthcare.
 
-## Key Features of *Doctelligence*  
+- **With just an internet connection, anyone can:**
+  - Build **local healthcare solutions** using digital infrastructure and personal health records, ready to go.
+  - Enable **AI model training** on your data while keeping it **local**, ensuring security, privacy, and advancing healthcare systems.
+  - Earn **stablecoin rewards** (e.g., **RAI**, **USDT**) for participation, contributing to a **self-funded health system**.
+
+## Key Features of *Doctelligence*
 
 - 💻 **True Data Ownership**  
-  Maintain **full control** of your health records while benefiting from AI model training. Your data never leaves your device, ensuring both **privacy** and **security**.  
+  Maintain **full control** of your health records while benefiting from AI model training. Your data stays secure on your device, ensuring **privacy** and **security** in healthcare management.  
 
 - 🤖 **Scalable Federated Learning (FL)**  
-  A decentralized AI infrastructure where models are trained across an expanding network of personal data stores—without centralizing or exposing raw data.  
+  A decentralized AI infrastructure that trains models across an expanding network of personal health data stores, empowering **healthcare innovation** without compromising patient confidentiality.
 
-- 💰 **High-Frequency Stablecoin Rewards**  
-  Earn **direct stablecoin rewards (e.g., USDT)** for securely contributing to AI models. No intermediaries—just transparent, trustless compensation.  
-
+- 💰 **Stablecoin Rewards for Healthcare Contributions**  
+  Earn **stablecoin rewards (e.g., RAI, USDT)** in patients' local currency for securely opt-in to health data to AI models. With **high-frequency rewards**, patients can use their contributions to **fund their healthcare**.
+  
 ## Doctelligence Foundation 🌐  
 
 **No single entity owns or controls the Doctelligence network**—it operates as an **open, permissionless infrastructure**, governed by the community. With an emphasis on **decentralization**, the Foundation supports **community-driven governance**, keeping the protocol **open**, **transparent**, and **adaptable**.
