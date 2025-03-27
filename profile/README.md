@@ -1,6 +1,6 @@
 # Doctelligence Network 🚀
 
-**Doctelligence** puts individuals in control of their **health records**, securely stored for life. It enables **private AI training** on data without exposure and rewards users with **stablecoins** (e.g., RAI, USDT) for participation. With just an internet connection, anyone can access the network, create local healthcare solutions, and contribute to a **self-funded health system**. As an **open-source** platform, *Doctelligence* is built for **transparency, innovation, and access**.  
+**Doctelligence** empowers individuals with control over an **open-source personal health record**, securely storing their data for life. It facilitates **AI model training** on this data while keeping it **local**, ensuring it remains secure and never exposed or transferred. Users are rewarded with **stablecoins** (e.g., **RAI**, **USDT**) for their participation. With just an internet connection, anyone can access the network and set up infrastructure to create **local healthcare solutions**, while contributing to a **self-funded health system**.
 
 ## Key Features of *Doctelligence*  
 
