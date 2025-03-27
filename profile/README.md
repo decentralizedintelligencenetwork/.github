@@ -1,10 +1,6 @@
 # Doctelligence Network 🚀
 
-**Doctelligence** is a **decentralized health AI network** that gives individuals full control over their **personal health records (PHRs)**, securely stored for their lifetime in one place. It uses a **peer-to-peer protocol** to enable secure **data monetization** through **federated learning (FL)**. AI models are trained on **encrypted data** without exposing personal health information.
-
-All that's needed is an internet connection to **use Doctelligence**. This allows individuals to access the network, set up healthcare solutions in their local communities, and opt in to **federated learning (FL)** for AI training. In return, they earn **high-frequency stablecoin rewards**, which can contribute to **decentralized health insurance**.
-
-As an **open-source protocol**, *Doctelligence* promotes **transparency**, **innovation**, and **accessibility**.
+**Doctelligence** puts individuals in control of their **health records**, securely stored for life. It enables **private AI training** on data without exposure and rewards users with **stablecoins** (e.g., RAI, USDT) for participation. With just an internet connection, anyone can access the network, create local healthcare solutions, and contribute to a **self-funded health system**. As an **open-source** platform, *Doctelligence* is built for **transparency, innovation, and access**.  
 
 ## Key Features of *Doctelligence*  
 
