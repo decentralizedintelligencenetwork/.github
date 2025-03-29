@@ -29,11 +29,11 @@ The *Doctelligence Foundation* oversees protocol evolution, fostering **open gov
 
 ## **Explore the White Paper**  
 
-*Doctelligence* was recognized at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI, as a pioneering infrastructure for **self-sovereign AI and data ownership**.  
+*Doctelligence* was recognized at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI, as a groundbreaking infrastructure for **self-sovereign AI and data ownership**.  
 
-For in-depth insights, read our **[White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)**.  
+For more detailed insights, read our **[White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)**.  
 
-For further perspectives, see the **[Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** on the role of *Doctelligence* in decentralized AI.  
+*Doctelligence* and the **Decentralized Intelligence Network (DIN)** were also featured in the **[Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** on the future role of decentralized AI.   
 
 ## **Get Involved**  
 
