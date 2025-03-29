@@ -1,42 +1,48 @@
-# Doctelligence Network 🚀
+# Doctelligence Network 🚀  
 
-**Doctelligence** is a decentralized, peer-to-peer health network that gives patients full control over their open-source personal health records—securely stored and private. With just an internet connection, anyone can tap into the network, connecting with healthcare professionals, services, and systems, and contributing to a new era of healthcare.
+**Doctelligence** is a decentralized infrastructure for self-sovereign networks, enabling secure, peer-to-peer AI collaboration and data monetization without relinquishing ownership.  
 
-- **With just an internet connection, people can:**
-  
-  - Build **local healthcare solutions** using digital infrastructure and personal health records, ready to go.
-  - Enable **AI model training** on your data while keeping it **local**, ensuring security, privacy, and advancing healthcare systems.
-  - Earn **stablecoin rewards** (e.g., **RAI**, **USDT**) for participation, contributing to a **self-funded health system**.
+## 🔄 **Circular Data Economies**  
+Traditional data economies concentrated wealth at the top, while data contributors remained uncompensated. **Doctelligence** enables a **circular economy**, where **data owners receive continuous rewards**, and AI-driven insights **feed back into goods and services** that return value across industries—creating **cross-sector self-sustaining innovation**.  
 
-## Key Features of *Doctelligence*
+## **Empowering Self-Sovereign Data & AI Development**  
 
-- 💻 **True Data Ownership**  
-  Maintain **full control** of your health records while benefiting from AI model training. Your data stays secure on your device, ensuring **privacy** and **security** in healthcare management.  
+Our infrastructure supports **AI training** and **decentralized data marketplaces**, enabling trustless interactions between data owners and AI developers:  
 
-- 🤖 **Scalable Federated Learning (FL)**  
-  A decentralized AI infrastructure that trains models across an expanding network of personal health data stores, empowering **healthcare innovation** without compromising patient confidentiality.
+- **For Data Owners & AI Developers**: Securely **monetize data** while preserving privacy. Instead of sharing raw data, contributors exchange **model updates**, ensuring sovereignty and compliance.  
+- **Decentralized Infrastructure**: The network is secured by **validators**, eliminating reliance on **centralized compute nodes** or third-party intermediaries.  
 
-- 💰 **Stablecoin Rewards for Healthcare Contributions**  
-  Earn **stablecoin rewards (e.g., RAI, USDT)** in patients' local currency for securely opt-in to health data to AI models. With **high-frequency rewards**, patients can use their contributions to **fund their healthcare**.
-  
-## Doctelligence Foundation 🌐  
+## **Key Features of Doctelligence**  
 
-**No single entity owns or controls the Doctelligence network**—it operates as an **open, permissionless infrastructure**, governed by the community. With an emphasis on **decentralization**, the Foundation supports **community-driven governance**, keeping the protocol **open**, **transparent**, and **adaptable**.
+- 💻 **Self-Sovereign Data Ownership**  
+  Retain **full control** over your data while enabling AI training in a secure, **decentralized infrastructure**—no centralized oversight or data movement.  
 
-## Explore the White Paper  
+- 🤖 **Decentralized AI Training with Federated Learning**  
+  Utilize **Federated Learning (FL)** and a **peer-to-peer network** to enable **privacy-preserving AI model updates**. Data never leaves local storage—only encrypted model improvements are shared, ensuring **secure collaboration** between data providers and AI developers.  
 
-Doctelligence's AI peer-peer protocol was selected as one of the top projects at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI. 
+- 💰 **High-Frequency Trustless Incentives**  
+  Earn high-frequency **stablecoin (e.g., RAI) rewards** transparently, eliminating intermediaries and ensuring **fair, direct compensation** for all network participants.  
 
-For further insights, check out the **[post from the Department of Computer Science at the University of Oxford](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)**, where *Doctelligence* is discussed in the context of **emerging decentralized AI technologies**.  
+## **Foundation & Governance** 🌐  
 
-## Get Involved  
+The *Doctelligence Foundation* oversees protocol evolution, fostering **open governance** and **self-sovereign AI ecosystems**. Decentralization is core to ensuring **long-term sustainability** without centralized gatekeepers.  
 
-*Doctelligence* is part of a growing movement to **decentralize the AI and healthcare economy** while ensuring **data sovereignty**. Whether you're a **developer, researcher, or advocate for decentralized technologies**, there’s a place for you in this journey.  
+## **Explore the White Paper**  
 
-- **Contribute**: Help shape the future of decentralized AI. Explore our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).  
-- **Engage**: Learn more about participating in the ecosystem on our [website](https://doctelligence.github.io).  
-- **Contact**: Reach out to us at [abraham.nash@cs.ox.ac.uk](mailto:abraham.nash@cs.ox.ac.uk) for collaboration opportunities.  
+*Doctelligence* was recognized at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI, as a pioneering infrastructure for **self-sovereign AI and data ownership**.  
+
+For in-depth insights, read our **[White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)**.  
+
+For further perspectives, see the **[Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** on the role of *Doctelligence* in decentralized AI.  
+
+## **Get Involved**  
+
+Join us in building the future of **self-sovereign AI and decentralized data economies**:  
+
+- **Contribute**: Shape the protocol—see our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).  
+- **Engage**: Learn more on our [website](https://doctelligence.github.io).  
+- **Collaborate**: Contact us at [abraham.nash@cs.ox.ac.uk](mailto:abraham.nash@cs.ox.ac.uk).  
 
 ---
 
-© 2025 Doctelligence | **Decentralizing AI, ensuring data ownership, and fostering trustless innovation for a decentralized future.**  
+© 2025 Doctelligence | *Decentralizing AI, enabling self-sovereign data, and fostering trustless innovation.*
