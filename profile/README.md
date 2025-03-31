@@ -2,7 +2,7 @@
 
 **Doctelligence** is a decentralized infrastructure for self-sovereign networks, enabling secure, peer-to-peer AI collaboration and data monetization without relinquishing ownership.  
 
-## 🔄 **Circular Data Economies**  
+## **Circular Data Economies** 🔄 
 Traditional data economies concentrated wealth at the top, while data contributors remained uncompensated. **Doctelligence** enables a **circular economy**, where **data owners receive continuous rewards**, and AI-driven insights **feed back into goods and services** that return value across industries—creating **cross-sector self-sustaining innovation**.  
 
 ## **Empowering Self-Sovereign Data & AI Development**  
