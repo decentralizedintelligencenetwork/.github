@@ -27,12 +27,13 @@ Our infrastructure supports **AI training** and **decentralized data marketplace
 
 The *Doctelligence Foundation* oversees protocol evolution, fostering **open governance** and **self-sovereign AI ecosystems**. Decentralization is core to ensuring **long-term sustainability** without centralized gatekeepers.  
 
+We are recipient of **Cosmos Institute** Grant: https://cosmos-institute.org/RetryClaude can make mistakes. Please double-check responses.
+
 ## **Explore the White Paper**  
 
 *Doctelligence* was recognized at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI, as a groundbreaking infrastructure for **self-sovereign AI and data ownership**.  
 
 For more detailed insights, read our **[White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)**.  
-
 *Doctelligence* and the **Decentralized Intelligence Network (DIN)** were also featured in the **[Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** on the future role of decentralized AI.   
 
 ## **Get Involved**  
