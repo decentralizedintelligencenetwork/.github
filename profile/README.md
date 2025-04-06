@@ -25,7 +25,7 @@ Our infrastructure supports **AI training** and **decentralized data marketplace
 
 ## **Foundation & Governance** 🌐   
 
-The *Doctelligence Foundation* oversees protocol evolution, fostering **open governance** and **self-sovereign AI ecosystems**. Decentralization is core to ensuring **long-term sustainability** without centralized gatekeepers.  
+The *Doctelligence Foundation* is a non-profit organisation that supports protocol evolution, fostering **open governance** and **self-sovereign AI ecosystems**. Decentralization is core to ensuring **long-term sustainability** without centralized gatekeepers.  
 
 We are recipient of **Cosmos Institute** Grant: https://cosmos-institute.org/ based in Austin, Texas and University of Oxford.
 
