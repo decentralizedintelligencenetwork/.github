@@ -1,18 +1,28 @@
 # Doctelligence Network 🚀  
+*Decentralizing AI, enabling self-sovereign data, and fostering trustless innovation*
 
-**Doctelligence** is a decentralized infrastructure for self-sovereign networks, enabling secure, peer-to-peer AI collaboration and data monetization without relinquishing ownership.  
+**Doctelligence** is a fully peer-to-peer decentralized Federated Learning (FL) protocol infrastructure for EVM-compatible blockchains, enabling secure AI collaboration and monetization—without relinquishing data ownership.
 
-## 🔄 **Circular Data Economies** 
-Traditional data economies concentrated wealth at the top, while data contributors remained uncompensated. **Doctelligence** enables a **circular economy**, where **data owners receive continuous rewards**, and AI-driven insights **feed back into goods and services** that return value across industries—creating **cross-sector self-sustaining innovation**.  
+---
 
-## **Empowering Self-Sovereign Data & AI Development**  
+## 🔄 Circular Data Economies  
 
-Our infrastructure supports **AI training** and **decentralized data marketplaces**, enabling trustless interactions between data owners and AI developers:  
+Data economies have historically concentrated wealth at the top, often leaving contributors uncompensated. **Doctelligence** enables a **circular economy**, where **data owners receive continuous rewards**, and AI-driven insights **feed back into goods and services** that return value across industries—driving **cross-sector, self-sustaining innovation**.
+
+Blockchain technology opened the door to reconstructing our social and economic configurations—bypassing middle-persons to enable more inclusive, cooperative systems. It was as much a **social technology** as a technical one: Bitcoin didn’t seek approval from banks, and Ethereum didn’t try to list applications in the app store. These networks reshaped the rules of participation, laying the groundwork for systems like **Doctelligence** to empower individuals within data ecosystems, rather than extract from them.
+
+---
+
+## 🧠 Empowering Self-Sovereign Data & AI Development  
+
+Our infrastructure is ideal for **self-sovereign identity networks** and **decentralized data ecosystems**, and supports FL training for **decentralized data marketplaces**, enabling trustless interactions between data owners and AI developers:
 
 - **For Data Owners & AI Developers**: Securely **monetize data** while preserving privacy. Instead of sharing raw data, contributors exchange **model updates**, ensuring sovereignty and compliance.  
 - **Decentralized Infrastructure**: The network is secured by **validators**, eliminating reliance on **centralized compute nodes** or third-party intermediaries.  
 
-## **Key Features of Doctelligence**  
+---
+
+## 🔐 Key Features of Doctelligence  
 
 - 💻 **Self-Sovereign Data Ownership**  
   Retain **full control** over your data while enabling AI training in a secure, **decentralized infrastructure**—no centralized oversight or data movement.  
@@ -23,27 +33,33 @@ Our infrastructure supports **AI training** and **decentralized data marketplace
 - 💰 **High-Frequency Trustless Incentives**  
   Earn high-frequency **stablecoin (e.g., RAI) rewards** transparently, eliminating intermediaries and ensuring **fair, direct compensation** for all network participants.  
 
-## **Foundation & Governance** 🌐   
+---
+
+## 🌐 Foundation & Governance  
 
 The *Doctelligence Foundation* is a non-profit organisation that supports protocol evolution, fostering **open governance** and **self-sovereign AI ecosystems**. Decentralization is core to ensuring **long-term sustainability** without centralized gatekeepers.  
 
-We are recipient of **Cosmos Institute** Grant: https://cosmos-institute.org/ based in Austin, Texas and University of Oxford.
+We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https://cosmos-institute.org/), based in Austin, Texas and the University of Oxford.  
 
-## **Explore the White Paper**  
+---
 
-*Doctelligence* was recognized at the **[Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)**, hosted by Berkeley RDI, as a groundbreaking infrastructure for **self-sovereign AI and data ownership**.  
+## 📄 Explore the White Paper  
 
-For more detailed insights, read our **[White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)**.  
+**Doctelligence** was recognized at the [Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24), hosted by Berkeley RDI, as a groundbreaking infrastructure for **self-sovereign AI and data ownership**.
 
-*Doctelligence* and the **Decentralized Intelligence Network (DIN)** were also featured in the **[Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)** on the future role of decentralized AI.   
+Read our full white paper here: [Doctelligence White Paper (DIN)](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)  
 
-## **Get Involved**  
+**Doctelligence** and the **Decentralized Intelligence Network (DIN)** were also featured in the [Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/) on the future role of decentralized AI.
+
+---
+
+## 🤝 Get Involved  
 
 Join us in building the future of **self-sovereign AI and decentralized data economies**:  
 
-- **Contribute**: Shape the protocol—see our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).  
-- **Engage**: Learn more on our [website](https://doctelligence.github.io).  
-- **Collaborate**: Contact us at [abraham.nash@cs.ox.ac.uk](mailto:abraham.nash@cs.ox.ac.uk).  
+- **Contribute**: Shape the protocol—see our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP)  
+- **Engage**: Learn more on our [website](https://doctelligence.github.io)  
+- **Collaborate**: Contact us at [abraham.nash@cs.ox.ac.uk](mailto:abraham.nash@cs.ox.ac.uk)  
 
 ---
 
