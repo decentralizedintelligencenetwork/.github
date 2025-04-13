@@ -1,5 +1,4 @@
 # Doctelligence Network 🚀  
-*Decentralizing AI, enabling self-sovereign data, and fostering trustless innovation*
 
 **Doctelligence** is a fully peer-to-peer decentralized Federated Learning (FL) protocol infrastructure for EVM-compatible blockchains, enabling secure AI collaboration and monetization—without relinquishing data ownership.
 
