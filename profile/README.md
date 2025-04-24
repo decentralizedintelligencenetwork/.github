@@ -12,7 +12,7 @@ Blockchain technology opened the door to reconstructing our social and economic 
 
 ---
 
-## 🧠 Empowering Self-Sovereign Data & AI Development  
+## 🌍 Empowering Sovereign Data & AI Development  
 
 Our infrastructure is ideal for **self-sovereign identity networks** and **decentralized data ecosystems**, and supports FL training for **decentralized data marketplaces**, enabling trustless interactions between data owners and AI developers:
 
