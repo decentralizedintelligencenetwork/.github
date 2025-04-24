@@ -36,7 +36,7 @@ Our infrastructure is ideal for **self-sovereign identity networks** and **decen
 
 ## 🌐 Foundation & Governance  
 
-The *Doctelligence Foundation* is a non-profit organisation that supports protocol evolution, fostering **open governance** and **self-sovereign AI ecosystems**. Decentralization is core to ensuring **long-term sustainability** without centralized gatekeepers.  
+*Doctelligence Foundation* is a non-profit organisation dedicated to supporting the evolution of the protocol through **open governance** and the advancement of **self-sovereign AI ecosystems**. Much like Ethereum, **no single entity owns the network**—it is sustained by a global community and secured through **decentralized validators** rather than centralized gatekeepers. This decentralized foundation ensures the **long-term sustainability** and resilience of the ecosystem.  
 
 We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https://cosmos-institute.org/), based in Austin, Texas and the University of Oxford.  
 
