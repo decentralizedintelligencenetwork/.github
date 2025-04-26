@@ -1,4 +1,4 @@
-#  Decentralized Intelligence Network 🌱💡
+#  Doctelligence 🌱💡
 
 **Doctelligence** is a fully peer-to-peer decentralized Federated Learning (FL) protocol for EVM-compatible blockchains, enabling secure AI collaboration and data monetization. It powers **open AI and data marketplaces**, where models can be trained **without reliance on centralized Web2.0 data silos or third-party gatekeepers**, supporting individually owned, data-driven economies.
 
