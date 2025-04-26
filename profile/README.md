@@ -21,7 +21,7 @@ Our infrastructure is ideal for **self-sovereign identity networks** and **decen
 
 ---
 
-## 🔐 Key Features of DIN  
+## 🔐 Key Features of Doctelligence  
 
 - 💻 **Self-Sovereign Data Ownership**  
   Retain **full control** over your data while enabling AI training in a secure, **decentralized infrastructure**—no centralized oversight or data movement.  
