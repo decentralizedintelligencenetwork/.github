@@ -1,14 +1,14 @@
-#  Doctelligence 💡🌱
+#  Decentralized Intelligence Network (DIN) 💡🌱
 
-**Doctelligence** is a fully peer-to-peer decentralized Federated Learning (FL) protocol for EVM-compatible blockchains, enabling secure AI collaboration and data monetization. It powers **open AI and data marketplaces**, where models can be trained **without reliance on centralized Web2.0 data silos or third-party gatekeepers**, supporting individually owned, data-driven economies.
+**Decentralized Intelligence Network (DIN)** is a fully peer-to-peer decentralized Federated Learning (FL) protocol for EVM-compatible blockchains, enabling secure AI collaboration and data monetization. It powers **open AI and data marketplaces**, where models can be trained **without reliance on centralized Web2.0 data silos or third-party gatekeepers**, supporting individually owned, data-driven economies.
 
 ---
 
 ## 🔄 Circular Data Economies  
 
-Data economies have historically concentrated wealth at the top, often leaving contributors uncompensated. **Doctelligence** enables a **circular economy**, where **data owners receive continuous rewards**, and AI-driven insights **feed back into goods and services** that return value across industries—driving **cross-sector, self-sustaining innovation**.
+Data economies have historically concentrated wealth at the top, often leaving contributors uncompensated. **Decentralized Intelligence Network (DIN)** enables a **circular economy**, where **data owners receive continuous rewards**, and AI-driven insights **feed back into goods and services** that return value across industries—driving **cross-sector, self-sustaining innovation**.
 
-Blockchain technology opened the door to reconstructing our social and economic configurations—bypassing middle-persons to enable more inclusive, cooperative systems. It was as much a **social technology** as a technical one: Bitcoin didn’t seek approval from banks, and Ethereum didn’t try to list applications in the app store. These networks reshaped the rules of participation, laying the groundwork for systems like **Doctelligence** to empower individuals within data ecosystems, rather than extract from them.
+Blockchain technology opened the door to reconstructing our social and economic configurations—bypassing middle-persons to enable more inclusive, cooperative systems. It was as much a **social technology** as a technical one: Bitcoin didn’t seek approval from banks, and Ethereum didn’t try to list applications in the app store. These networks reshaped the rules of participation, laying the groundwork for systems like **Decentralized Intelligence Network (DIN)** to empower individuals within data ecosystems, rather than extract from them.
 
 ---
 
@@ -21,7 +21,7 @@ Our infrastructure is ideal for **self-sovereign identity networks** and **decen
 
 ---
 
-## 🔐 Key Features of Doctelligence  
+## 🔐 Key Features of Decentralized Intelligence Network (DIN)  
 
 - 💻 **Self-Sovereign Data Ownership**  
   Retain **full control** over your data while enabling AI training in a secure, **decentralized infrastructure**—no centralized oversight or data movement.  
@@ -36,7 +36,7 @@ Our infrastructure is ideal for **self-sovereign identity networks** and **decen
 
 ## 🌐 Foundation & Governance  
 
-*Doctelligence Foundation* is a non-profit organisation dedicated to supporting the evolution of the protocol through **open governance** and the advancement of **self-sovereign AI ecosystems**. Much like Ethereum, **no single entity owns the network**—it is sustained by a global community and secured through **decentralized validators** rather than centralized gatekeepers. This decentralized foundation ensures the **long-term sustainability** and resilience of the ecosystem.  
+*Decentralized Intelligence Network (DIN) Foundation* is a non-profit organisation dedicated to supporting the evolution of the protocol through **open governance** and the advancement of **self-sovereign AI ecosystems**. Much like Ethereum, **no single entity owns the network**—it is sustained by a global community and secured through **decentralized validators** rather than centralized gatekeepers. This decentralized foundation ensures the **long-term sustainability** and resilience of the ecosystem.  
 
 We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https://cosmos-institute.org/), based in Austin, Texas and the University of Oxford.  
 
@@ -44,11 +44,11 @@ We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https:
 
 ## 📄 Explore the White Paper  
 
-**Doctelligence** was recognized at the [Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24), hosted by Berkeley RDI, as a groundbreaking infrastructure for **self-sovereign AI and data ownership**.
+**Decentralized Intelligence Network (DIN)** was recognized at the [Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24), hosted by Berkeley RDI, as a groundbreaking infrastructure for **self-sovereign AI and data ownership**.
 
-Read our full white paper here: [Doctelligence White Paper (DIN)](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)  
+Read our full white paper here: [Decentralized Intelligence Network (DIN) White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)  
 
-**Doctelligence** and the **Decentralized Intelligence Network (DIN)** were also featured in the [Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/) on the future role of decentralized AI.
+**Decentralized Intelligence Network (DIN)** was also featured in the [Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/) on the future role of decentralized AI.
 
 ---
 
@@ -62,4 +62,4 @@ Join us in building the future of **self-sovereign AI and decentralized data eco
 
 ---
 
-© 2025 Doctelligence | *Decentralizing AI, enabling self-sovereign data, and fostering trustless innovation.*
+© 2025 Decentralized Intelligence Network (DIN) | *Decentralizing AI, enabling self-sovereign data, and fostering trustless innovation.*
