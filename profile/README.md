@@ -2,6 +2,8 @@
 
 **Decentralized Intelligence Network (DIN)** is a fully peer-to-peer decentralized Federated Learning (FL) protocol for EVM-compatible blockchains, enabling secure AI collaboration and data monetization. It powers **open AI and data marketplaces**, where models can be trained **without reliance on centralized Web2.0 data silos or third-party gatekeepers**, supporting individually owned, data-driven economies.
 
+We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https://cosmos-institute.org/), based in Austin, Texas and the University of Oxford.  
+
 ---
 
 ## 🔄 Circular Data Economies  
@@ -47,8 +49,6 @@ Our infrastructure is ideal for **self-sovereign identity networks** and **decen
 Read our full white paper here: [Decentralized Intelligence Network (DIN) White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)  
 
 **Decentralized Intelligence Network (DIN)** was also featured in the [Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/) on the future role of decentralized AI.
-
-We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https://cosmos-institute.org/), based in Austin, Texas and the University of Oxford.  
 
 ---
 
