@@ -38,8 +38,6 @@ Our infrastructure is ideal for **self-sovereign identity networks** and **decen
 
 *Decentralized Intelligence Network (DIN) Foundation* is a non-profit organisation dedicated to supporting the evolution of the protocol through **open governance** and the advancement of **self-sovereign AI ecosystems**. Much like Ethereum, **no single entity owns the network**—it is sustained by a global community and secured through **decentralized validators** rather than centralized gatekeepers. This decentralized foundation ensures the **long-term sustainability** and resilience of the ecosystem.  
 
-We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https://cosmos-institute.org/), based in Austin, Texas and the University of Oxford.  
-
 ---
 
 ## 📄 Explore the White Paper  
@@ -49,6 +47,8 @@ We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https:
 Read our full white paper here: [Decentralized Intelligence Network (DIN) White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)  
 
 **Decentralized Intelligence Network (DIN)** was also featured in the [Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/) on the future role of decentralized AI.
+
+We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https://cosmos-institute.org/), based in Austin, Texas and the University of Oxford.  
 
 ---
 
