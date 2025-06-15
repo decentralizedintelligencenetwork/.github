@@ -6,7 +6,7 @@ We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https:
 
 ---
 
-## 🔄 Circular Data Economies  
+## 🔄 Circular Economies  
 
 Data economies have historically concentrated wealth at the top, often leaving contributors uncompensated. **Decentralized Intelligence Network (DIN)** enables a **circular economy**, where applications neable **data owners to receive stablecoins**, and AI-driven insights **feed back into goods and services** that return value across ecosystems—driving **cross-sector, self-sustaining innovation**.
 
