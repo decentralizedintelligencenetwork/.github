@@ -1,4 +1,4 @@
-#  Decentralized Intelligence Network (DIN) 
+# Decentralized Intelligence Network (DIN)
 
 **Decentralized Intelligence Network (DIN)** is a fully peer-to-peer decentralized Federated Learning (FL) protocol for EVM-compatible blockchains, enabling secure AI collaboration and data monetization. It powers **open AI and data marketplaces**, where models can be trained **without reliance on centralized Web2.0 data silos or third-party gatekeepers**, supporting individually owned, data-driven economies.
 
@@ -8,9 +8,9 @@ We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https:
 
 ## 🔄 Circular Data Economies  
 
-Data economies have historically concentrated wealth at the top, often leaving contributors uncompensated. **Decentralized Intelligence Network (DIN)** enables a **circular economy**, where **data owners receive continuous rewards**, and AI-driven insights **feed back into goods and services** that return value across industries—driving **cross-sector, self-sustaining innovation**.
+Data economies have historically concentrated wealth at the top, often leaving contributors uncompensated. **Decentralized Intelligence Network (DIN)** enables a **circular economy**, where applications neable **data owners to receive stablecoins**, and AI-driven insights **feed back into goods and services** that return value across ecosystems—driving **cross-sector, self-sustaining innovation**.
 
-Blockchain technology opened the door to reconstructing our social and economic configurations—bypassing middle-persons to enable more inclusive, cooperative systems. It was as much a **social technology** as a technical one: Bitcoin didn’t seek approval from banks, and Ethereum didn’t try to list applications in the app store. These networks reshaped the rules of participation, laying the groundwork for systems like **Decentralized Intelligence Network (DIN)** to empower individuals within data ecosystems, rather than extract from them.
+Blockchain technology opened the door to reconstructing our social and economic configurations—bypassing middle-persons to enable more inclusive, cooperative systems. It was as much a posibility for **social technology** as a technical one. These networks reshaped the rules of participation, laying the groundwork for systems like **Decentralized Intelligence Network (DIN)** to empower individuals within data ecosystems, rather than extract from them.
 
 ---
 
@@ -20,6 +20,16 @@ Our infrastructure is ideal for **self-sovereign identity networks** and **decen
 
 - **For Data Owners & AI Developers**: Securely **monetize data** while preserving privacy. Instead of sharing raw data, contributors exchange **model updates**, ensuring sovereignty and compliance.  
 - **Decentralized Infrastructure**: The network is secured by **validators**, eliminating reliance on **centralized compute nodes** or third-party intermediaries.  
+
+---
+
+## 🔑 A Unique Approach: Stable Infrastructure, Stablecoin Transactions  
+
+One key differentiator of our approach lies in the **decentralized network of validators** securing the ecosystem via **Proof of Stake**. This decentralized structure ensures that our native token serves as the **backbone for secure infrastructure**, rather than as a speculative asset. In practical terms, this means our infrastructure can be leveraged by front-end applications and UIs that engage in **stablecoin transactions**, giving developers the freedom to use stablecoins without the volatility associated with traditional cryptocurrencies.  
+
+Much like how traditional fiat currencies are used in today’s financial systems, our stablecoin approach ensures **stable valuation**, **market exchanges**, and **price stability**—all while avoiding speculative risks. This creates a stable and secure environment for developers, which can be leveraged for both **existing pegged stablecoins** or even **experimental stablecoins** pegged to more sustainable value measures over time.  
+
+This system ultimately combines the benefits of decentralized security, stable valuations, and flexible use cases, making it a more reliable infrastructure for the future of decentralized finance and AI ecosystems.
 
 ---
 
