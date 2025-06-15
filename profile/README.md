@@ -58,7 +58,7 @@ Join us in building the future of **self-sovereign AI and decentralized data eco
 
 - **Contribute**: Shape the protocol—see our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP)  
 - **Engage**: Learn more on our [website](https://doctelligence.github.io)  
-- **Collaborate**: Contact us at [abraham.nash@cs.ox.ac.uk](mailto:abraham.nash@cs.ox.ac.uk)  
+- **Collaborate**: Contact us at [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)  
 
 ---
 
