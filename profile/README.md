@@ -17,17 +17,25 @@ Our infrastructure is ideal for applications that enable the monetization of use
 
 ## 🔑 A Unique Approach: Stable Infrastructure, Stablecoin Transactions
 
-One key differentiator of our approach lies in the **decentralized network of validators** securing the ecosystem via **Proof of Stake**. This decentralized structure ensures that our native token serves as the **backbone for secure infrastructure**, rather than as a speculative asset.
+A core differentiator of DIN is our use of a **decentralized validator network**, secured via **Proof of Stake** and enhanced by our integration with **Eigenlayer’s Actively Validated Services (AVS) stack**. This allows us to **bootstrap validator participation** using Ethereum’s existing restaking infrastructure—bringing robust security and economic alignment from day one.
 
-In practical terms, our infrastructure supports front-end applications and UIs that engage in **stablecoin transactions**, giving developers the freedom to use stablecoins without the volatility of traditional cryptocurrencies.
+> **As a result of Eigenlayer integration, our infrastructure is chain-agnostic within the Ethereum ecosystem**, meaning DIN can be seamlessly deployed across a wide array of Ethereum L2s, rollups, and sidechains. This enhances interoperability and ensures DIN can serve any blockchain solution within the Ethereum family.
 
-Much like traditional fiat currencies, our stablecoin approach ensures:
+Rather than acting as a speculative asset, our native token serves as the **backbone for decentralized infrastructure**, while applications can transact using **stablecoins**.
 
-- **Stable valuation**
-- **Market exchange compatibility**
-- **Price predictability**
+This model supports:
 
-This removes speculative risks and creates a more reliable environment for developers. The system supports both **existing pegged stablecoins** and **experimental stablecoins** pegged to more sustainable value measures over time.
+- **Stablecoin-based transactions** for developers and users  
+- **Predictable costs** for AI training and data operations  
+- **Interoperability with Ethereum-based DeFi systems**  
+
+Much like traditional financial systems, this design promotes:
+
+- **Stable valuation**  
+- **Market exchange compatibility**  
+- **Price predictability**  
+
+Whether using established stablecoins or experimenting with new value-pegged tokens, this architecture provides a reliable, non-volatile foundation for decentralized AI and data monetization.
 
 ---
 
@@ -42,13 +50,16 @@ This removes speculative risks and creates a more reliable environment for devel
 - 💰 **High-Frequency Trustless Incentives**  
   Earn high-frequency **stablecoin (e.g., RAI) rewards** transparently, eliminating intermediaries and ensuring **fair, direct compensation** for all network participants.
 
+- 🔗 **Eigenlayer Integration for Validator Bootstrapping**  
+  Our validator network leverages **Eigenlayer's AVS stack**, allowing us to inherit Ethereum’s security model while remaining **chain-agnostic across Ethereum ecosystem chains**—accelerating decentralization, compatibility, and trust from the outset.
+
 ---
 
 ## 🌐 Foundation & Governance
 
 The *Decentralized Intelligence Network (DIN) Foundation* is a non-profit organization dedicated to supporting the protocol’s evolution through **open governance** and the promotion of **self-sovereign AI ecosystems**.
 
-Like Ethereum, **no single entity owns the network**. It is sustained by a global community and secured by **decentralized validators**—not centralized gatekeepers. This model ensures long-term sustainability and resilience.
+Like Ethereum, **no single entity owns the network**. It is sustained by a global community and secured by **decentralized validators**, now further enhanced via **Eigenlayer integration**, ensuring long-term resilience and autonomy.
 
 ---
 
@@ -57,7 +68,7 @@ Like Ethereum, **no single entity owns the network**. It is sustained by a globa
 **DIN** was recognized at the [Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24), hosted by Berkeley RDI, as a groundbreaking infrastructure for **self-sovereign AI and data ownership**.
 
 📘 Read the full white paper:  
-[Decentralized Intelligence Network (DIN) White Paper](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
+[Decentralized Intelligence Network (DIN) White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
 
 DIN was also featured in the [Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/) on the future role of decentralized AI.
 
@@ -67,5 +78,11 @@ DIN was also featured in the [Oxford CS Department’s discussion](https://www.l
 
 Join us in building the future of **self-sovereign AI and decentralized data economies**:
 
-- 📥 **Contribute**: Shape the protocol — [Contribution Guidelines](https://github.com/decentralizedintelligencenetwork/DIN-Protocol-Proposals-DPP)
-- 🌐 **Engage**: Learn more on our [website](https://decentralizedintelligencenetwork.git)
+- 📥 **Contribute**: Shape the protocol — [Contribution Guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP)  
+- 🌐 **Engage**: Learn more on our [website](https://doctelligence.github.io)  
+- 📧 **Collaborate**: Contact us at [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)  
+
+---
+
+© 2025 Decentralized Intelligence Network (DIN)  
+*Decentralizing AI, enabling self-sovereign data, and fostering trustless innovation.*
