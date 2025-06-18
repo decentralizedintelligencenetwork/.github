@@ -19,7 +19,7 @@ Our infrastructure is ideal for applications that enable the monetization of use
 
 A core differentiator of DIN is our use of a **decentralized validator network**, secured via **Proof of Stake** and enhanced by our integration with **Eigenlayer’s Actively Validated Services (AVS) stack**. This allows us to **bootstrap validator participation** using Ethereum’s existing restaking infrastructure—bringing robust security and economic alignment from day one.
 
-> **As a result of Eigenlayer integration, our infrastructure is chain-agnostic within the Ethereum ecosystem**, meaning DIN can be seamlessly deployed across a wide array of Ethereum L2s, rollups, and sidechains. This enhances interoperability and ensures DIN can serve any blockchain solution within the Ethereum family.
+> **Our infrastructure is chain-agnostic within the Ethereum ecosystem**, meaning DIN can be seamlessly deployed across a wide array of Ethereum L2s, rollups, and sidechains. This enhances interoperability and ensures DIN can serve any blockchain solution within the Ethereum family.
 
 Rather than acting as a speculative asset, our native token serves as the **backbone for decentralized infrastructure**, while applications can transact using **stablecoins**.
 
