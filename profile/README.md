@@ -55,11 +55,11 @@ Whether using established stablecoins or experimenting with new value-pegged tok
 
 ---
 
-## 🌐 Foundation & Governance
-
-The *Decentralized Intelligence Network (DIN) Foundation* is a non-profit organization dedicated to supporting the protocol’s evolution through **open governance** and the promotion of **self-sovereign AI ecosystems**.
+## 🌐 Governance & Foundation
 
 Like Ethereum, **no single entity owns the network**. It is sustained by a global community and secured by **decentralized validators**, now further enhanced via **Eigenlayer integration**, ensuring long-term resilience and autonomy.
+
+*Decentralized Intelligence Network (DIN) Foundation* is a non-profit organization dedicated to supporting the protocol’s evolution through **open governance** and the promotion of **self-sovereign AI ecosystems**.
 
 ---
 
