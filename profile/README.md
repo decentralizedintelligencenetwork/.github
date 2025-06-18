@@ -57,7 +57,7 @@ Like Ethereum, **no single entity owns the network**. It is sustained by a globa
 **DIN** was recognized at the [Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24), hosted by Berkeley RDI, as a groundbreaking infrastructure for **self-sovereign AI and data ownership**.
 
 📘 Read the full white paper:  
-[Decentralized Intelligence Network (DIN) White Paper](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
+[Decentralized Intelligence Network (DIN) White Paper](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
 
 DIN was also featured in the [Oxford CS Department’s discussion](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/) on the future role of decentralized AI.
 
