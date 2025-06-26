@@ -1,17 +1,18 @@
 # Decentralized Intelligence Network (DIN)
 
-**Decentralized Intelligence Network (DIN)** is a fully peer-to-peer decentralized Federated Learning (FL) protocol for EVM-compatible blockchains, enabling secure AI collaboration and data monetization. It powers **open AI and data marketplaces**, where models can be trained **without reliance on centralized Web2.0 data silos or third-party gatekeepers**, supporting individually owned, data-driven economies.
+**Decentralized Intelligence Network (DIN)** is a fully peer-to-peer decentralized Federated Learning (FL) protocol for EVM-compatible blockchains, enabling secure AI collaboration, privacy-first AI agent training, and data monetization. DIN powers **open AI and data marketplaces**, where models are trained **without reliance on centralized Web2.0 data silos or third-party gatekeepers**, supporting **individually owned, data-driven economies** for a **self-sovereign and agentic AI future**.
 
-We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https://cosmos-institute.org/), based in Austin, Texas and the University of Oxford.
+We are recipients of a **Cosmos Institute** Grant: [cosmos-institute.org](https://cosmos-institute.org/), based in Austin, Texas, and the University of Oxford.
 
 ---
 
-## 🌍 Empowering Sovereign Data & AI Development
+## 🌍 Empowering Sovereign Data & Open Agentic AI Development
 
-Our infrastructure is ideal for applications that enable the monetization of user-owned data, while providing AI model trainers with a platform that supports FL training for **decentralized data marketplaces**, enabling trustless interactions between data owners and AI developers:
+Our infrastructure is designed to support the development and training of **open agentic AI systems**, where **AI agents** are empowered to operate with **autonomy**, **privacy**, and **sovereignty**. This is made possible through **decentralized Federated Learning (FL)**, which allows **agents** to evolve and learn without relying on centralized servers or exposing sensitive data.
 
-- **For Data Owners & AI Developers**: Securely **monetize data** while preserving privacy. Instead of sharing raw data, contributors exchange **model updates**, ensuring sovereignty and compliance.
-- **Decentralized Infrastructure**: The network is secured by **validators**, eliminating reliance on **centralized compute nodes** or third-party intermediaries.
+- **For Data Owners & AI Developers**: Securely **monetize data** while preserving privacy. Instead of sharing raw data, contributors exchange **model updates**, ensuring **data sovereignty** and compliance with privacy standards.
+- **Decentralized Infrastructure**: The network is secured by **validators**, eliminating reliance on **centralized compute nodes** or third-party intermediaries, creating a truly **decentralized AI environment** for open **AI agents** to thrive.
+- **Open Agentic Economy**: Users earn high-frequency **stablecoin rewards** for their contributions to the network. These rewards can then be used to access **premium AI agent services** or reinvested into the ecosystem to enable the next generation of **autonomous agents**.
 
 ---
 
@@ -21,13 +22,14 @@ A core differentiator of DIN is our use of a **decentralized validator network**
 
 > **Our infrastructure is chain-agnostic within the Ethereum ecosystem**, meaning DIN can be seamlessly deployed across a wide array of Ethereum L2s, rollups, and sidechains. This enhances interoperability and ensures DIN can serve any blockchain solution within the Ethereum family.
 
-Rather than acting as a speculative asset, our native token serves as the **backbone for decentralized infrastructure**, while applications can transact using **stablecoins**.
+Rather than acting as a speculative asset, our native token serves as the **backbone for decentralized infrastructure**, while transactions within the ecosystem are facilitated using **stablecoins**.
 
 This model supports:
 
-- **Stablecoin-based transactions** for developers and users  
-- **Predictable costs** for AI training and data operations  
+- **Stablecoin-based transactions** for developers, users, and **AI agents**  
+- **Predictable costs** for AI training, data operations, and premium agent services  
 - **Interoperability with Ethereum-based DeFi systems**  
+- **Access to premium open agent services** through stablecoin subscriptions
 
 Much like traditional financial systems, this design promotes:
 
@@ -35,23 +37,32 @@ Much like traditional financial systems, this design promotes:
 - **Market exchange compatibility**  
 - **Price predictability**  
 
-Whether using established stablecoins or experimenting with new value-pegged tokens, this architecture provides a reliable, non-volatile foundation for decentralized AI and data monetization.
+Whether using established stablecoins or experimenting with new value-pegged tokens, this architecture provides a reliable, non-volatile foundation for decentralized AI, **open agentic AI systems**, and data monetization.
 
 ---
 
 ## 🔐 Key Features of Decentralized Intelligence Network (DIN)
 
 - 💻 **Self-Sovereign Data Ownership**  
-  Retain **full control** over your data while enabling AI training in a secure, **decentralized infrastructure**—no centralized oversight or data movement.
+  Retain **full control** over your data while enabling **AI agent training** in a secure, **decentralized infrastructure**—no centralized oversight or data movement.
 
-- 🤖 **Decentralized AI Training with Federated Learning**  
-  Utilize **Federated Learning (FL)** in a **peer-to-peer network** for **privacy-preserving AI model updates**. Data never leaves local storage—only encrypted model updates are shared, enabling **secure collaboration** between data providers and AI developers.
+- 🤖 **Open Agentic AI Training with Federated Learning**  
+  Utilize **Federated Learning (FL)** in a **peer-to-peer network** for **privacy-preserving AI model updates**. Data never leaves local storage—only encrypted model updates are shared, enabling **secure collaboration** between data owners, **open AI agents**, and developers.
 
 - 💰 **High-Frequency Trustless Incentives**  
-  Earn high-frequency **stablecoin (e.g., RAI) rewards** transparently, eliminating intermediaries and ensuring **fair, direct compensation** for all network participants.
+  Earn **stablecoin (e.g., RAI) rewards** transparently and at high frequency, eliminating intermediaries and ensuring **fair, direct compensation** for all network participants, including **AI agents**.
 
-- 🔗 **Eigenlayer Integration for Validator Bootstrapping**  
-  Our validator network leverages **Eigenlayer's AVS stack**, allowing us to inherit Ethereum’s security model while remaining **chain-agnostic across Ethereum ecosystem chains**—accelerating decentralization, compatibility, and trust from the outset.
+---
+
+## 🌱 Additional Features
+
+### 🔗 **Eigenlayer Integration for Validator Bootstrapping**
+
+Our validator network leverages **Eigenlayer's AVS stack**, inheriting Ethereum’s security model while remaining **chain-agnostic** across Ethereum ecosystem chains. This accelerates decentralization, compatibility, and trust from the outset.
+
+### 🌍 **Circular Economy for Open Agentic AI**
+
+Users and developers engage in a **circular economy**: contributors earn rewards in **stablecoins** for their data and compute contributions, which can then be used to access **premium open AI agent services**, fostering a self-sustaining ecosystem that enables autonomous, **open AI agents** to thrive.
 
 ---
 
@@ -76,7 +87,7 @@ DIN was also featured in the [Oxford CS Department’s discussion](https://www.l
 
 ## 🤝 Get Involved
 
-Join us in building the future of **self-sovereign AI and decentralized data economies**:
+Join us in building the future of **self-sovereign AI, open agentic AI, and decentralized data economies**:
 
 - 📥 **Contribute**: Shape the protocol — [Contribution Guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP)  
 - 🌐 **Engage**: Learn more on our [website](https://doctelligence.github.io)  
@@ -85,4 +96,4 @@ Join us in building the future of **self-sovereign AI and decentralized data eco
 ---
 
 © 2025 Decentralized Intelligence Network (DIN)  
-*Decentralizing AI, enabling self-sovereign data, and fostering trustless innovation.*
+*Decentralizing AI, enabling self-sovereign data, and fostering trustless innovation through open, autonomous agents.*
