@@ -67,9 +67,9 @@ Traditional AI relies on centralized data, creating privacy risks and data monop
 
 ## 🏛️ Governance & Foundation
 
-DIN operates as a **truly decentralized protocol**—no single entity owns the network. Like Ethereum, it's sustained by a global community and secured by decentralized validators.
+DIN operates as a **truly decentralized protocol** — no single entity controls the network. Like **Ethereum** and **EigenLayer**, DIN maintains **credible neutrality**, sustained by a global community and secured by decentralized validators.
 
-The **DIN Foundation** is a non-profit organization supporting protocol evolution through open governance and promoting self-sovereign AI ecosystems.
+The **DIN Foundation**, a non-profit entity, supports the protocol’s long-term evolution through open governance, funding public goods, and promoting self-sovereign AI ecosystems.
 
 ---
 
