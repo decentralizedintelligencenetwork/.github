@@ -81,7 +81,6 @@ The **DIN Foundation**, a non-profit entity, supports the protocol’s long-term
 
 ### Documentation
 - 📘 **White Paper**: [Read the full technical specification](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
-- 🌐 **Website**: [doctelligence.github.io](https://doctelligence.github.io)
 - 📋 **Protocol Proposals**: [DIN-Protocol-Proposals-DPP](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP)
 
 ---
