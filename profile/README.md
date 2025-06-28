@@ -80,8 +80,8 @@ The **DIN Foundation**, a non-profit entity, supports the protocol’s long-term
 - 🎓 **Discussed**: [Oxford CS Department - Future of Decentralized AI](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)
 
 ### Documentation
-- 📘 **White Paper**: [Read the full technical specification](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
-- 📋 **Protocol Proposals**: [DIN-Protocol-Proposals-DPP](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP)
+- 📘 **White Paper**: [Read the full technical specification](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
+- 📋 **Protocol Proposals**: [DIN-Protocol-Proposals-DPP](https://github.com/decentralizedintelligencenetwork/DIN-Protocol-Proposals-DPP)
 
 ---
 
@@ -109,8 +109,8 @@ Ready to help build the future of decentralized AI?
 ## 📞 Connect With Us
 
 - 📧 **Email**: [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
-- 🌐 **Website**: [doctelligence.github.io](https://doctelligence.github.io)
-- 📋 **Contribute**: [Contribution Guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP)
+- 🌐 **Website**: [decentralizedintelligencenetwork.github.io](https://decentralizedintelligencenetwork.github.io)
+- 📋 **Contribute**: [Contribution Guidelines](https://github.com/decentralizedintelligencenetwork/DIN-Protocol-Proposals-DPP)
 
 ---
 
