@@ -1,139 +1,74 @@
 # Decentralized Intelligence Network (DIN)
 
-> **Building the future of AI: decentralized, efficient, and privacy-first**
+The **Decentralized Intelligence Network (DIN)** is a fully decentralized protocol built for EVM-compatible blockchains. It enables secure collaboration in AI development and monetization of data through Federated Learning (FL), creating an open, transparent ecosystem for AI and data-driven markets. DIN allows AI models to be trained without relying on centralized Web2.0 data silos or third-party gatekeepers, empowering data owners and fostering self-sovereign economies.
 
-**DIN** is a fully peer-to-peer Federated Learning protocol for EVM-compatible blockchains. We enable secure AI collaboration, decentralized model training, and privacy-preserving data monetization—all without centralized gatekeepers or data silos.
-
-🏆 **Grant Recipient**: [Cosmos Institute](https://cosmos-institute.org/) | Austin, Texas & University of Oxford
+We are proud recipients of the [Cosmos Institute Grant](https://cosmos-institute.org), with contributions from the University of Oxford and based in Austin, Texas.
 
 ---
 
-## 🚀 Why DIN Matters
+## Empowering Sovereign Data & AI Development
 
-Today’s AI is dominated by centralized infrastructure and massive compute monopolies. DIN offers a new paradigm:
+DIN supports decentralized data ecosystems and self-sovereign identity networks, making it easier for data owners and AI developers to engage in trustless collaboration. It enables:
 
-- 🔐 **On-Device Learning** – Your data never leaves your device  
-- 🧠 **Efficient AI Foundations** – Lightweight, utility-driven models optimized for edge computing  
-- 🌐 **Distributed Compute** – Fully decentralized compute network—no cloud dependency  
-- 💰 **Fair Data Monetization** – Stablecoin rewards for private, secure participation  
+- **For Data Owners & AI Developers:** Secure data monetization while maintaining privacy. Rather than sharing raw data, participants exchange encrypted model updates, ensuring that both data sovereignty and privacy are preserved.
+- **Decentralized Infrastructure:** The network is protected by a decentralized validator system, meaning no reliance on centralized servers or third-party intermediaries. This ensures trust and security across the ecosystem.
 
-**When we say *decentralized*, we mean enabling individuals and organizations to fully own and control their data—preserving privacy while contributing to global AI development.**
+**Prior to recent trends that emphasize large-scale GPU-based models, it has always made both economic and research sense to prioritize smaller, more efficient models. Moore’s Law and basic economics suggest that doing more with less—at greater scale and lower cost—yields better outcomes. DIN is designed with this in mind, supporting a future where scalable, efficient AI infrastructure thrives without dependence on centralized compute.**
 
 ---
 
-## ⚡ How It Works
+## Inclusive and Circular Data Economies
 
-### For Data Contributors
-1. **Keep Your Data Local** – Raw data stays entirely on your device  
-2. **Send Model Updates Only** – Share secure, encrypted learning updates  
-3. **Earn Stablecoins** – Be fairly compensated for your data’s contribution  
-4. **Access Decentralized AI Services** – Use rewards to access tools and insights without ever giving up your privacy
+In traditional data economies, wealth tends to be concentrated, often leaving contributors without fair compensation. DIN changes this by enabling **circular economies**, where data owners are rewarded with stablecoins, and AI-driven insights are reinvested into goods and services—generating value across the ecosystem.
 
-### For AI Developers
-1. **Deploy Federated Learning Models** – Across millions of local devices and nodes  
-2. **Build for Small Compute** – AI that runs efficiently on IoT devices, robotics, and smartphones  
-3. **Integrate with Ethereum** – Easily deploy across L2s, rollups, and AVS frameworks  
-4. **Scale Responsibly** – Access large, diverse datasets without centralized aggregation
+Blockchain technology has opened new possibilities for restructuring social and economic systems. By removing intermediaries, it has enabled more inclusive, collaborative models. DIN leverages these innovations to empower individuals within data ecosystems, ensuring that value is returned to contributors, rather than extracted by centralized entities.
 
 ---
 
-## 🛠️ Technical Architecture
+## Stable Infrastructure, Stablecoin Transactions
 
-### Decentralized Infrastructure
-- **Validator Network** – Secured by Proof of Stake consensus  
-- **Eigenlayer Integration** – Security bootstrapped from Ethereum restaking  
-- **Chain-Agnostic Design** – Compatible across Ethereum L2s, rollups, and sidechains
-- **IPFS Integration** – Decentralized off-chain communication for efficient model update sharing  
+Our decentralized network is secured by **Proof of Stake validators**, ensuring stability and reliability. Our native token is not designed as a speculative asset but as a secure foundation for the infrastructure. This design enables **stablecoin transactions**—allowing developers to use stable digital currencies without facing the volatility typical of traditional cryptocurrencies.
 
-### Economic Model
-- **Stablecoin-Based Rewards** – Predictable, speculation-free compensation  
-- **Micro-Incentives** – Real-time, usage-based earnings  
-- **Circular Data Economy** – Earn by contributing, spend on advanced decentralized services
-
-### Privacy & Security
-- **Federated Learning** – Model training without data exposure  
-- **Cryptographic Proofs** – Contributions verified without revealing private information  
-- **Self-Sovereign Data Architecture** – No single party has control over your data
+This model offers the same stability as fiat currencies but within a decentralized framework—ensuring reliable infrastructure for both AI ecosystems and decentralized finance (DeFi) applications. With stable valuation and flexible use cases, DIN offers a **future-proof foundation** for the evolving decentralized economy.
 
 ---
 
-## 🌟 Core Features
+## Key Features of DIN
 
-| Feature                     | Benefit                                                   |
-|----------------------------|------------------------------------------------------------|
-| Self-Sovereign Data        | Full user control over sensitive data                      |
-| Small-Model Optimization   | Efficient training on edge devices and limited hardware    |
-| Trustless Incentives       | Transparent, stablecoin-based economic model              |
-| Ethereum Compatibility     | Works across Ethereum L2s, sidechains, and AVSs           |
-| Validator Bootstrapping    | Ethereum-level security from day one (via EigenLayer AVS)  |
+- **Self-Sovereign Data Ownership**  
+  Control and own your data, enabling secure AI training within a decentralized infrastructure. No central authority oversees or controls your data.
 
----
+- **Decentralized AI Training with Federated Learning**  
+  Train AI models using Federated Learning (FL), where only encrypted updates (not raw data) are shared. This ensures privacy while facilitating collaboration among decentralized participants.
 
-## 🌍 Use Cases
-
-DIN is designed to power a wide spectrum of privacy-first, decentralized AI applications:
-
-- 🤖 **Decentralized Robotics** – Swarm intelligence across manufacturing, agriculture, and logistics  
-- 📡 **IoT & Smart Cities** – Local processing for traffic, utilities, and public services  
-- 🏥 **Decentralized Healthcare** – AI models trained directly on personal health data  
-- 🎓 **Decentralized Education** – Personalized learning without exposing student information  
-- 💸 **DeFi Risk Modeling** – Privacy-preserving predictive analytics for decentralized finance  
-- 🏭 **Industrial Monitoring** – Edge intelligence for secure, real-time decision making
-
-All of these are enabled without centralizing user data—empowering data ownership, privacy, and sovereignty.
+- **High-Frequency Trustless Incentives**  
+  Earn stablecoin rewards directly for your participation in the network, with no intermediaries taking a cut. Trustless transactions ensure fair compensation for all contributors.
 
 ---
 
-## 🏛️ Governance & Foundation
+## Foundation & Governance
 
-DIN operates as a **fully decentralized protocol**, inspired by Ethereum and EigenLayer's **credible neutrality**.
-
-The **DIN Foundation**, a non-profit entity, supports long-term development through:
-
-- 🧑‍⚖️ **Open Governance** – Community-led protocol direction  
-- 🌍 **Public Goods Funding** – Investment in decentralized AI infrastructure  
-- 🔐 **Neutral Stewardship** – No centralized actors or privileged access
+The **DIN Foundation** is a non-profit organization dedicated to the growth and evolution of the protocol. Like Ethereum, the network is ownerless, with no central authority controlling it. The protocol is sustained by a global community and secured by a decentralized validator network. This ensures that the ecosystem is resilient and self-sustaining, both now and in the future.
 
 ---
 
-## 📚 Recognition & Resources
+## Explore the White Paper
 
-### Academic & Community Involvement
-- 🎓 **Featured**: [Berkeley RDI Summit on Responsible Decentralized Intelligence](https://rdi.berkeley.edu/events/decentralizationaisummit24)  
-- 🎓 **Discussed**: [Oxford CS – Future of Decentralized AI](https://www.linkedin.com/feed/update/urn:li:activity:7229826012803395584/)
+DIN was recognized at the **Summit on Responsible Decentralized Intelligence**, hosted by **Berkeley RDI**, as a cutting-edge infrastructure for decentralized AI and self-sovereign data ownership. You can explore our full vision by reading the DIN White Paper.
 
-### Technical Docs
-- 📘 **White Paper**: [Read the full specification](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)  
-- 📋 **Protocol Proposals**: [DIN Protocol Proposals (DPP)](https://github.com/decentralizedintelligencenetwork/DIN-Protocol-Proposals-DPP)
+DIN has also been featured in the **University of Oxford’s Computer Science Department** discussions on the role of decentralized AI in the future.
 
 ---
 
-## 🤝 Get Involved
+## Get Involved
 
-### Developers
-- 🔧 **Contribute Code** – Shape the protocol’s technical foundations  
-- 💡 **Submit Proposals** – Help guide DIN's open governance  
-- 📱 **Build Decentralized Apps** – Leverage DIN's infrastructure for real-world AI tools
+Join us in shaping the future of decentralized AI and self-sovereign data economies. Whether you’re a developer, researcher, or enthusiast, your contribution can make a difference.
 
-### Data Contributors
-- 💾 **Contribute Privately** – Train AI without surrendering your data  
-- 🏆 **Earn for Participation** – Stablecoin-based, transparent rewards  
-- 🌱 **Drive Innovation** – Your data powers decentralized progress
+- **Contribute**: Help develop and improve the protocol – see contribution guidelines.  
+- **Engage**: Learn more about the project on our website.  
+- **Collaborate**: Contact us at [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com).  
 
 ---
 
-## 📞 Contact & Links
-
-- 📧 **Email**: [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)  
-- 🌐 **Website**: [decentralizedintelligencenetwork.github.io](https://decentralizedintelligencenetwork.github.io)  
-- 📋 **Contribute**: [Contribution Guidelines](https://github.com/decentralizedintelligencenetwork/DIN-Protocol-Proposals-DPP)
-
----
-
-<div align="center">
-
-**Decentralizing AI • Empowering Local Compute • Enabling Self-Sovereign Data**
-
-*Building tomorrow’s efficient, equitable AI infrastructure—today.*
-
-</div>
+© 2025 Decentralized Intelligence Network (DIN)  
+*Decentralizing AI, enabling self-sovereign data, and fostering trustless innovation.*
