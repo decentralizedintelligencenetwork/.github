@@ -1,7 +1,7 @@
 # Decentralized Intelligence Network (DIN)
 
 > [!IMPORTANT]
-> We are currently supported by a few small grants but are seeking additional funding. If you believe in our mission to build a future that fosters humanity and human flourishing, please contact **abrahamnash@protonmail.com** *(PhD CS student in Human-Centered Computing, University of Oxford — [profile](https://www.cs.ox.ac.uk/people/abraham.nash/))*
+> We are currently supported by a few small grants but are seeking additional funding. If you believe in our mission to build a future that fosters humanity and human flourishing, please contact **abrahamnash@protonmail.com** to learn more *(PhD CS student in Human-Centered Computing, University of Oxford — [profile](https://www.cs.ox.ac.uk/people/abraham.nash/))*
 >
 > Funds will support our global community of blockchain, federated learning, machine learning, differential privacy experts, and systems engineers—PhD students and researchers from France to Pakistan, Denmark to China.
 
