@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > We are currently supported by a few small grants but are seeking additional funding. If you believe in our mission to build a future that fosters humanity and human flourishing, please contact **abrahamnash@protonmail.com** to learn more *(PhD CS student in Human-Centered Computing, University of Oxford — [profile](https://www.cs.ox.ac.uk/people/abraham.nash/))*
 >
-> Funds will support our global community of blockchain, federated learning, machine learning, differential privacy experts, and systems engineers—PhD students and researchers from Toronto to UK, France to Pakistan, Denmark to China.
+> Funds will support our global community of blockchain, federated learning, machine learning, differential privacy experts, and systems engineers—PhD students and researchers from Canada to UK, France to Pakistan, Denmark to China.
 
 The **Decentralized Intelligence Network (DIN)** is a fully decentralized protocol built for EVM-compatible blockchains. It enables secure collaboration in AI development and monetization of data through Federated Learning (FL), creating an open, transparent ecosystem for AI and data-driven markets. DIN allows AI models to be trained without relying on centralized Web2.0 data silos or third-party gatekeepers, empowering data owners and fostering self-sovereign economies.
 
