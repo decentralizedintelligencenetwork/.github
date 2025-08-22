@@ -1,7 +1,7 @@
 # Decentralized Intelligence Network (DIN)
 
 > [!IMPORTANT]
-> We are currently supported by a few small grants but are actively seeking **$36,000** in additional funding to continue our work to fund the year **August 2025 – August 2026**.  
+> We are currently supported by a few small grants but are actively seeking additional funding to continue our work.  
 >  
 > If you believe in our mission to build a future that fosters humanity and human flourishing, please contact **abrahamnash@protonmail.com** to learn more. *(Abraham Nash, PhD student in Human-Centered Computing, University of Oxford — [profile](https://www.cs.ox.ac.uk/people/abraham.nash/))*
 
