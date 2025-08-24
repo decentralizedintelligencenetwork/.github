@@ -24,7 +24,7 @@ DIN supports decentralized data ecosystems and self-sovereign identity networks,
 
 ## Inclusive Data Economies
 
-In traditional data economies, wealth tends to be concentrated, often leaving contributors without fair compensation. DIN changes this by enabling **circular economies**, where data owners are rewarded with stablecoins, and AI-driven insights are reinvested into goods and services—generating value across the ecosystem.
+In traditional data economies, wealth tends to be concentrated, often leaving contributors without fair compensation. DIN changes this by enabling **inclusive and circular economies**, where data owners are rewarded with stablecoins, and AI-driven insights are reinvested into goods and services—generating value across the ecosystem.
 
 Blockchain technology has opened new possibilities for restructuring social and economic systems. By removing intermediaries, it has enabled more inclusive, collaborative models. DIN leverages these innovations to empower individuals within data ecosystems, ensuring that value is returned to contributors, rather than extracted by centralized entities.
 
