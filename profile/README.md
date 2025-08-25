@@ -5,7 +5,7 @@
 
 The **Decentralized Intelligence Network (DIN)** is a fully decentralized protocol built for EVM-compatible blockchains. It enables secure collaboration in AI development and monetization of data through Federated Learning (FL), creating an open, transparent ecosystem for AI and data-driven markets. DIN allows AI models to be trained without relying on centralized Web2.0 data silos or third-party gatekeepers, empowering data owners and fostering self-sovereign economies.
 
-We are recipients of the [Cosmos Institute Grant](https://cosmos-institute.org), with contributions from the University of Oxford.
+We are proud recipients of the [Cosmos Institute Grant](https://cosmos-institute.org), supported by the University of Oxford, which helped us establish our team and advance early development.
 
 ---
 
@@ -49,6 +49,21 @@ This model offers the same stability as fiat currencies but within a decentraliz
 
 ---
 
+## Our Progress and Recognition
+
+DIN has already made significant strides, reflecting the quality and potential of our work:
+
+- Our paper received a **distinction from an MIT-graduate supervisor** at the University of Oxford, underscoring the strong academic foundation of our research.
+- We were **selected for presentation at the Summit on Responsible Decentralized Intelligence (RDI) Berkeley**, standing out among over 100 applicants. Our presentation was further highlighted by Oxford University’s Computer Science Department in this LinkedIn post:  
+  [https://www.linkedin.com/posts/compscioxford_compscioxford-oxfordai-activity-7229806029096538113-Xxu8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg](https://www.linkedin.com/posts/compscioxford_compscioxford-oxfordai-activity-7229806029096538113-Xxu8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg)
+- Awarded a **$5,000 micro-grant by the Cosmos Institute** in Oxford, which provided essential support for our early development and team formation. Learn more about the Cosmos Institute here: [https://cosmos-institute.org/](https://cosmos-institute.org/).
+- Recognized by the **Decentralized Research Center (DRC)** — recently funded in Q1 2025 by the Ethereum Foundation — for our work on decentralization and AI. DRC featured our contributions in this LinkedIn post:  
+  [https://www.linkedin.com/posts/thedrcenter_techquitable-activity-7296138354109173760-II_B/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg](https://www.linkedin.com/posts/thedrcenter_techquitable-activity-7296138354109173760-II_B/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg)
+
+These milestones reinforce our commitment to building a decentralized AI ecosystem rooted in research excellence and community collaboration.
+
+---
+
 ## Foundation & Governance
 
 The **DIN Foundation** is a non-profit organization dedicated to the growth and evolution of the protocol. Like Ethereum, the network is ownerless, with no central authority controlling it. The protocol is sustained by a global community and secured by a decentralized validator network. This ensures that the ecosystem is resilient and self-sustaining, both now and in the future.
@@ -57,9 +72,9 @@ The **DIN Foundation** is a non-profit organization dedicated to the growth and 
 
 ## Explore the White Paper
 
-DIN was recognized at the **Summit on Responsible Decentralized Intelligence**, hosted by **Berkeley RDI**, as a cutting-edge infrastructure for decentralized AI and self-sovereign data ownership. You can explore our full vision by reading the DIN White Paper.
+You can explore our full vision and technical details in the DIN White Paper:
 
-DIN has also been featured in the **University of Oxford’s Computer Science Department** discussions on the role of decentralized AI in the future.
+[https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
 
 ---
 
@@ -67,9 +82,9 @@ DIN has also been featured in the **University of Oxford’s Computer Science De
 
 Join us in shaping the future of decentralized AI and self-sovereign data economies. Whether you’re a developer, researcher, or enthusiast, your contribution can make a difference.
 
-- **Contribute**: Help develop and improve the protocol – see contribution guidelines.  
-- **Engage**: Learn more about the project on our website.  
-- **Collaborate**: Contact us at [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com).  
+- **Contribute:** Help develop and improve the protocol – see contribution guidelines.  
+- **Engage:** Learn more about the project on our website.  
+- **Collaborate:** Contact us at [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com).  
 
 ---
 
