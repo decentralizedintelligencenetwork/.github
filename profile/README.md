@@ -28,11 +28,15 @@ Blockchain technology has opened new possibilities for restructuring social and 
 
 ---
 
-## Stable Infrastructure, Stablecoin Transactions
+## 🛠️ Stable Infrastructure, Stablecoin Transactions
 
-Our decentralized network is secured by **Proof of Stake validators**, ensuring stability and reliability. Our native token is not designed as a speculative asset but as a secure foundation for the infrastructure. This design enables **stablecoin transactions**—allowing developers to use stable digital currencies without facing the volatility typical of traditional cryptocurrencies.
+Our decentralized network is secured through a **Proof of Stake** mechanism, where validators stake a **native token** to maintain network reliability and integrity. This token is not designed as a speculative asset, but as a utility that supports the foundational operations of the infrastructure.
 
-This model offers the same stability as fiat currencies but within a decentralized framework—ensuring reliable infrastructure for both AI ecosystems and decentralized finance (DeFi) applications. With stable valuation and flexible use cases, DIN offers a **future-proof foundation** for the evolving decentralized economy.
+For **peer-to-peer (P2P) exchanges**—such as those between data owners and AI model trainers—the network supports the use of **stablecoins**. These currencies are **not native** to the ecosystem but are familiar, fiat-pegged digital assets that provide predictable value and reduce volatility for participants.
+
+This architecture enables developers to build applications that **monetize data directly**—without needing to manage Web3-native tokens or expose users to blockchain complexity. Application builders can generate revenue more easily by earning a share of the **network fees** generated through usage of their services. These fees are automatically returned to the application layer, creating a **win-win dynamic** that supports both ecosystem growth and sustainable incentive alignment.
+
+By separating infrastructure operations (secured by native token staking) from economic activity (driven by stablecoins), the network ensures **technical robustness, financial stability, and developer-friendly monetization**—all critical for powering real-world, AI-enabled decentralized applications.
 
 ---
 
