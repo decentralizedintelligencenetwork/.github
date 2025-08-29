@@ -57,7 +57,6 @@ By separating infrastructure operations (secured by native token staking) from e
 
 DIN has already made significant strides, reflecting the quality and potential of our work:
 
-- Our paper received a **distinction from an MIT-graduate supervisor** at the University of Oxford, underscoring the strong academic foundation of our research.
 - We were **selected for presentation at the Summit on Responsible Decentralized Intelligence (RDI) Berkeley**, standing out among over 100 applicants. Our presentation was further highlighted by Oxford University’s Computer Science Department in this LinkedIn post:  
   [https://www.linkedin.com/posts/compscioxford_compscioxford-oxfordai-activity-7229806029096538113-Xxu8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg](https://www.linkedin.com/posts/compscioxford_compscioxford-oxfordai-activity-7229806029096538113-Xxu8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg)
 - Awarded a **$5,000 micro-grant by the Cosmos Institute** in Oxford, which provided essential support for our early development and team formation. Learn more about the Cosmos Institute here: [https://cosmos-institute.org/](https://cosmos-institute.org/).
