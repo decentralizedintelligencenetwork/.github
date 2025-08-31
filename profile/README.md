@@ -5,7 +5,7 @@
 
 Decentralized Intelligence Network (DIN) is a privacy-preserving, decentralized infrastructure designed to give individuals full ownership and control over their personal data while enabling ethical and scalable AI development. Unlike centralized systems, DIN ensures that data never leaves the user’s device (phone, laptop, or tablet) and eliminates intermediaries that profit from personal information.
 
-DIN provides the foundational architecture for secure, sovereign data storage, interoperable AI pipelines, and decentralized incentives, allowing researchers, developers, and organizations to build AI tools without compromising privacy. Its modular design makes it applicable across domains, including healthcare, where it underpins the Decentralized Health Intelligence Network (DHIN) — a clinical AI stack integrating patient data, decision support tools, and workflow-aligned incentives.
+DIN provides the foundational architecture for secure, sovereign data storage, interoperable AI pipelines, and decentralized incentives, allowing researchers, developers, and organizations to build AI tools without compromising privacy. Its modular design makes it applicable across domains.
 
 In short, DIN bridges cutting-edge AI research and real-world applications while prioritizing data ownership, privacy, ethical AI, and public good infrastructure.
 
