@@ -3,7 +3,11 @@
 > [!IMPORTANT]
 > If you believe in our mission to build a future that fosters humanity and human flourishing, please contact **abrahamnash@protonmail.com** to learn more. *(Abraham Nash, PhD student in Human-Centered Computing, University of Oxford — [profile](https://www.cs.ox.ac.uk/people/abraham.nash/))*
 
-The **Decentralized Intelligence Network (DIN)** is a fully decentralized protocol built for EVM-compatible blockchains. It enables secure collaboration in AI development and monetization of data through Federated Learning (FL), creating an open, transparent ecosystem for AI and data-driven markets. DIN allows AI models to be trained without relying on centralized Web2.0 data silos or third-party gatekeepers, empowering data owners and fostering self-sovereign economies.
+Decentralized Intelligence Network (DIN) is a privacy-preserving, decentralized infrastructure designed to give individuals full ownership and control over their personal data while enabling ethical and scalable AI development. Unlike centralized systems, DIN ensures that data never leaves the user’s device (phone, laptop, or tablet) and eliminates intermediaries that profit from personal information.
+
+DIN provides the foundational architecture for secure, sovereign data storage, interoperable AI pipelines, and decentralized incentives, allowing researchers, developers, and organizations to build AI tools without compromising privacy. Its modular design makes it applicable across domains, including healthcare, where it underpins the Decentralized Health Intelligence Network (DHIN) — a clinical AI stack integrating patient data, decision support tools, and workflow-aligned incentives.
+
+In short, DIN bridges cutting-edge AI research and real-world applications while prioritizing data ownership, privacy, ethical AI, and public good infrastructure.
 
 We are proud recipients of the [Cosmos Institute Grant](https://cosmos-institute.org), supported by the University of Oxford, which helped us establish our team and advance early development.
 
