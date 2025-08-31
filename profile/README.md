@@ -9,8 +9,6 @@ DIN provides the **foundational architecture** for **secure, sovereign data stor
 
 In short, DIN **bridges cutting-edge AI research and real-world applications** while prioritizing **data ownership, privacy, ethical AI, and public good infrastructure**.
 
-We are proud recipients of the [**Cosmos Institute Grant**](https://cosmos-institute.org), supported by the University of Oxford, which helped us **establish our team and advance early development**.
-
 ---
 
 ## Empowering Sovereign Data & AI Development
