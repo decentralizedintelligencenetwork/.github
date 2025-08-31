@@ -3,8 +3,6 @@
 > [!IMPORTANT]
 > If you believe in our mission to build a future that fosters humanity and human flourishing, please contact **abrahamnash@protonmail.com** to learn more. *(Abraham Nash, PhD student in Human-Centered Computing, University of Oxford — [profile](https://www.cs.ox.ac.uk/people/abraham.nash/))*
 
-# Decentralized Intelligence Network (DIN)
-
 **Decentralized Intelligence Network (DIN)** is a **privacy-preserving, decentralized infrastructure** designed to give individuals **full ownership and control over their personal data** while enabling **ethical and scalable AI development**. Unlike centralized systems, DIN ensures that **data never leaves the user’s device** (phone, laptop, or tablet) and **eliminates intermediaries** that profit from personal information.
 
 DIN provides the **foundational architecture** for **secure, sovereign data storage**, **interoperable AI pipelines**, and **decentralized incentives**, allowing researchers, developers, and organizations to **build AI tools without compromising privacy**. Its **modular design** makes it **applicable across domains**.
