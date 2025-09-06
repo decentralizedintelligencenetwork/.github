@@ -28,6 +28,8 @@ Blockchain technology has opened new possibilities for restructuring social and 
 
 Crucially, this is made possible by the **decentralized network architecture**, which is secured by validators and protected against Sybil attacks. This structure ensures that no single entity can dominate or manipulate the system without controlling a majority (>50%) of the network—upholding **security, fairness, and trust**.
 
+DIN operates as a **public good**, aligned with **decentralized interests**. Its architecture is not designed to benefit a single party or corporation, but to serve the collective—providing infrastructure for value creation and distribution that is transparent, inclusive, and resistant to centralization.
+
 In traditional data economies, wealth tends to be concentrated, often leaving contributors without fair compensation. DIN changes this by enabling **inclusive and circular economies**, where data owners are rewarded with stablecoins, and AI-driven insights are reinvested into goods and services—generating value across the ecosystem.
 
 ---
