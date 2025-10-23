@@ -1,10 +1,10 @@
 # Decentralized Intelligence Network (DIN)
 
-Decentralized Intelligence Network (DIN) is a privacy-preserving, decentralized AI infrastructure and public goods protocol that runs in the background, enabling individuals to earn through everyday app use while contributing to an inclusive AI economy. Rooted in decentralized acceleration (d/acc) principles—defensive, democratic, and user-empowering—DIN inverts the centralized AI model.
+Decentralized Intelligence Network (**DIN**) is a **privacy-preserving, decentralized AI infrastructure and public goods protocol** that runs seamlessly in the background, empowering individuals to **earn through everyday app use** while contributing to an **inclusive AI economy**. Grounded in **decentralized acceleration (d/acc) principles**—defensive, democratic, and user-empowering—DIN inverts the centralized AI model.
 
-Instead of centralizing compute, data, and control, DIN operates as an ownerless, validator-secured protocol that shifts compute and data to the edge. Lightweight AI models run directly on user devices, reducing resource demands and latency while enabling scalable, privacy-focused training pipelines.
+Rather than concentrating **compute, data, and control** centrally, DIN functions as an **ownerless, validator-secured protocol** that shifts compute and data to the **edge**. **Lightweight AI models** run directly on user devices, significantly reducing resource demands and latency while enabling **scalable, privacy-focused AI training pipelines** close to where data originates.
 
-DIN is secured within Ethereum ecosystems while remaining chain-agnostic through its layered protocol design, leveraging decentralized validators and smart contracts to ensure trust, transparency, and resilience. Its architecture maximizes accessibility, fosters inclusive data availability, removes single points of control, and underpins secure, sovereign AI applications across healthcare, finance, smart cities, and beyond.
+Built within **Ethereum ecosystems** yet **chain-agnostic** through its layered design, DIN leverages **decentralized validators** and **smart contracts** to guarantee trust, transparency, and resilience. Its architecture maximizes accessibility, promotes inclusive data availability, eliminates **single points of control or failure**, and supports **secure, sovereign AI applications** spanning healthcare, finance, smart cities, and beyond.
 
 ---
 
