@@ -61,8 +61,8 @@ Separation of infrastructure (native staking) and economic activity (stablecoins
 
 - **Edge City 002 Developer Grant ($40,000 total)** via SHIFT Grants, supported by Vitalik Buterin, Ocean Protocol, and **matching from Nima Ashgari**. [https://edge.city](https://edge.city)  
 - **$5,000 Cosmos Institute Award** (Texas & Oxford) for early development. [https://cosmos-institute.org](https://cosmos-institute.org/)  
-- **Selected for Summit on Responsible Decentralized Intelligence (RDI) Berkeley**; highlighted by Oxford University Computer Science. [LinkedIn post](https://www.linkedin.com/posts/compscioxford_compscioxford-oxfordai-activity-7229806029096538113-Xxu8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg)  
 - Featured by the **Decentralized Research Center (DRC)** funded by the Ethereum Foundation. [LinkedIn post](https://www.linkedin.com/posts/thedrcenter_techquitable-activity-7296138354109173760-II_B/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg)
+- **Selected for Summit on Responsible Decentralized Intelligence (RDI) Berkeley**; highlighted by Oxford University Computer Science. [LinkedIn post](https://www.linkedin.com/posts/compscioxford_compscioxford-oxfordai-activity-7229806029096538113-Xxu8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg)  
 
 ---
 
