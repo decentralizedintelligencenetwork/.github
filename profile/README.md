@@ -1,12 +1,12 @@
 # Decentralized Intelligence Network (DIN)
 
-**Decentralized Intelligence Network (DIN)** is a **privacy-preserving, decentralized AI infrastructure and public goods network** designed to enable **everyday individuals to earn through their daily activities on applications** while contributing to an AI-powered economy. DIN offers a radically different approach compared to today's centralized AI systems. Instead of relying on massive compute resources, large models, and data scraping coordinated from a central point, DIN operates as an **ownerless, validator-secured network**, focusing on **building compute and data capabilities at the edge**, enabling the use of smaller, more efficient models.
+Decentralized Intelligence Network (DIN) is a privacy-preserving, decentralized AI infrastructure and public goods network that enables individuals to earn through everyday app use while contributing to an inclusive AI economy. Rooted in decentralized acceleration (d/acc) principles—emphasizing defensive, democratic, and user-empowering technology development—DIN represents an inverse approach to centralized AI.
 
-By running lightweight AI models directly on user devices and data, DIN reduces the need for intensive computational resources while enabling faster, scalable, and flexible training pipelines. This approach not only enhances efficiency but also brings AI closer to where data is generated. The decentralization of the system maximizes accessibility and unlocks new opportunities for inclusive and scalable data availability, crucial for AI training. With no central authority or single point of control, DIN reinforces systemic resilience and promotes an AI ecosystem that is both robust and accessible.
+Instead of centralizing compute, data, and control, DIN operates as an ownerless, validator-secured network that shifts compute and data capabilities to the edge. Lightweight AI models run directly on user devices, reducing resource demands and latency while enabling scalable, privacy-focused training pipelines close to where data is generated.
 
-DIN provides the **foundational architecture** for **secure, sovereign data storage**, **interoperable AI pipelines**, and **high-frequency stablecoin reward mechanisms**, allowing developers and organizations to **build AI-enabled applications without compromising privacy**. Its **modular design** makes it **applicable across domains**, including healthcare, finance, smart cities, and more.
+By running lightweight AI locally, DIN reduces resource intensity and latency, while enabling faster, scalable, and flexible AI training pipelines close to where data originates. This decentralized design maximizes accessibility, fosters inclusive data availability, and eliminates single points of control or failure—ensuring resilience and robust privacy.
 
-In short, DIN **bridges cutting-edge AI research and real-world applications** while prioritizing **privacy, scalable edge AI, and public goods network**. DIN is **inverse in direction** compared to centralized AI systems, moving compute and data to the edge rather than consolidating it centrally.
+DIN provides foundational architecture for secure, sovereign data storage, interoperable AI pipelines, and real-time stablecoin rewards, allowing developers and organizations to build privacy-preserving AI applications across diverse domains such as healthcare, finance, and smart cities, and more.
 
 ---
 
@@ -62,7 +62,7 @@ This separation of infrastructure operations (secured by native staking) and eco
   Earn rewards directly for participation in applications. Transparent network fees support developers and contributors without intermediaries.
 
 - **Scalable, Modular Architecture**  
-  Applicable across domains like healthcare, finance, smart cities, education, and social technology.
+  Applicable across domains like healthcare, finance, smart cities, education, and more.
 
 ---
 
@@ -70,12 +70,12 @@ This separation of infrastructure operations (secured by native staking) and eco
 
 DIN has already made significant strides, reflecting the quality and potential of our work:
 
+- Awarded **Edge City 002 Developer Grant ($40,000 total)** via the SHIFT Grants program for decentralized acceleration (d/acc) projects, supported by pioneers including Vitalik Buterin and the Ocean Protocol Foundation. Includes matching support from **Nima Ashgari**. Learn more: [https://edge.city](https://edge.city)
 - Awarded **$5,000 by the Cosmos Institute** (Texas & Oxford) to support early development and team formation. Learn more: [https://cosmos-institute.org/](https://cosmos-institute.org/)
 - **Selected for presentation at the Summit on Responsible Decentralized Intelligence (RDI) Berkeley**: [https://rdi.berkeley.edu/](https://rdi.berkeley.edu/). Highlighted by Oxford University Computer Science:  
   [LinkedIn post](https://www.linkedin.com/posts/compscioxford_compscioxford-oxfordai-activity-7229806029096538113-Xxu8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg)
 - Featured by the **Decentralized Research Center (DRC)** — funded by the Ethereum Foundation — for work on decentralization and AI:  
   [LinkedIn post](https://www.linkedin.com/posts/thedrcenter_techquitable-activity-7296138354109173760-II_B/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg)
-- Awarded **Edge City 002 Developer Grant ($40,000 total)** via the SHIFT Grants program for decentralized acceleration (d/acc) projects, supported by pioneers including Vitalik Buterin and the Ocean Protocol Foundation. Includes matching support from **Nima Ashgari**. Learn more: [https://edge.city](https://edge.city)
 
 These milestones reinforce our commitment to building a decentralized AI infrastructure rooted in research excellence and broad participation.
 
@@ -83,7 +83,7 @@ These milestones reinforce our commitment to building a decentralized AI infrast
 
 ## Foundation & Governance
 
-**DIN Foundation** is a non-profit organization dedicated to the growth and evolution of the protocol. Like Ethereum, the network is **ownerless**, with no central authority controlling it. Sustained by a decentralized validator network, the ecosystem is resilient, self-sustaining, and guided by collective stewardship.
+The **DIN Foundation** is a non-profit organization dedicated to the growth and evolution of the protocol. Like Ethereum, the network is **ownerless**, with no central authority controlling it. Sustained by a decentralized validator network, the ecosystem is resilient, self-sustaining, and guided by collective stewardship.
 
 ---
 
