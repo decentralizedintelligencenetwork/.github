@@ -8,6 +8,17 @@ Built within **Ethereum ecosystems** yet **chain-agnostic** through its layered 
 
 ---
 
+## Empowering Everyday Participation in an AI Economy
+
+DIN supports decentralized data ecosystems and self-sovereign identity networks, enabling **day-to-day individuals to earn automatically through normal app use**, contributing to a network-wide AI economy. Participation is seamless, **requiring no technical knowledge or extra effort**, making it as natural as browsing the web.  
+
+- **For Users:** Earn stablecoin rewards through app activity without sharing raw data. Encrypted updates feed the AI economy while maintaining privacy.  
+- **Decentralized Infrastructure:** Validator-secured network eliminates reliance on central servers or intermediaries, **ensuring trust, security, resilience, and 24/7 uptime**.
+
+By prioritizing smaller, efficient AI models, DIN enables scalable edge training, reducing computational costs and latency while keeping **data and compute at their origin**, maintaining user sovereignty and system efficiency.
+
+---
+
 ## Inclusive AI-Driven Economies
 
 DIN decentralizes three key domains in society—**money, information, and compute power**—creating an **ownerless AI systems network** and inclusive economy:
@@ -17,17 +28,6 @@ DIN decentralizes three key domains in society—**money, information, and compu
 - **Compute Power:** AI runs locally on user devices, reducing reliance on centralized infrastructure.
 
 This enables a **0-to-1 shift** in inclusive AI economies, where contributions and rewards occur naturally during everyday digital activity. AI is trained on enriched edge data without third-party bottlenecks, maintaining privacy, compliance, and greater scalability.
-
----
-
-## Empowering Everyday Participation in an AI Economy
-
-DIN supports decentralized data ecosystems and self-sovereign identity networks, enabling **day-to-day individuals to earn automatically through normal app use**, contributing to a network-wide AI economy. Participation is seamless, **requiring no technical knowledge or extra effort**, making it as natural as browsing the web.  
-
-- **For Users:** Earn stablecoin rewards through app activity without sharing raw data. Encrypted updates feed the AI economy while maintaining privacy.  
-- **Decentralized Infrastructure:** Validator-secured network eliminates reliance on central servers or intermediaries, **ensuring trust, security, resilience, and 24/7 uptime**.
-
-By prioritizing smaller, efficient AI models, DIN enables scalable edge training, reducing computational costs and latency while keeping **data and compute at their origin**, maintaining user sovereignty and system efficiency.
 
 ---
 
