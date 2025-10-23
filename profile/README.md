@@ -53,7 +53,7 @@ Separation of infrastructure (native staking) and economic activity (stablecoins
 - **Self-Sovereign Data & Edge Compute**: Data and compute remain where generated, empowering privacy and efficiency.  
 - **Federated Learning AI Pipeline**: Train AI through encrypted updates; raw data never leaves devices.  
 - **High-Frequency Stablecoin Rewards**: Earn rewards directly via apps; network fees transparently support developers.  
-- **Scalable, Modular Architecture**: Applicable across healthcare, finance, smart cities, education, and more.
+- **Scalable, Modular Architecture**: Applicable across healthcare, finance, smart cities, education, and beyond.
 
 ---
 
