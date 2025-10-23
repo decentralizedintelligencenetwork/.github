@@ -1,12 +1,12 @@
 # Decentralized Intelligence Network (DIN)
 
-Decentralized Intelligence Network (DIN) is a privacy-preserving, decentralized AI infrastructure and public goods network that enables individuals to earn through everyday app use while contributing to an inclusive AI economy. Rooted in decentralized acceleration (d/acc) principles—emphasizing defensive, democratic, and user-empowering technology development—DIN represents an inverse approach to centralized AI.
+Decentralized Intelligence Network (DIN) is a privacy-preserving, decentralized AI infrastructure and public goods network that runs seamlessly in the background, enabling individuals to earn through everyday app use while contributing to an inclusive AI economy. Rooted in decentralized acceleration (d/acc) principles—emphasizing defensive, democratic, and user-empowering technology—DIN represents an inverse approach to centralized AI.
 
-Instead of centralizing compute, data, and control, DIN operates as an ownerless, validator-secured network that shifts compute and data capabilities to the edge. Lightweight AI models run directly on user devices, reducing resource demands and latency while enabling scalable, privacy-focused training pipelines close to where data is generated.
+Instead of centralizing compute, data, and control, DIN operates as an ownerless, validator-secured protocol that shifts compute and data to the edge. Lightweight AI models run directly on user devices, reducing resource demands and latency while enabling scalable, privacy-focused training pipelines where data is generated.  
 
-By running lightweight AI locally, DIN reduces resource intensity and latency, while enabling faster, scalable, and flexible AI training pipelines close to where data originates. This decentralized design maximizes accessibility, fosters inclusive data availability, and eliminates single points of control or failure—ensuring resilience and robust privacy.
+DIN is **secured within Ethereum ecosystems** while remaining **chain-agnostic through its layered protocol design**, leveraging decentralized validators and smart contracts to ensure trust, transparency, and resilience. This decentralized design maximizes accessibility, fosters inclusive data availability, eliminates single points of control or failure, and ensures robust privacy.  
 
-DIN provides foundational architecture for secure, sovereign data storage, interoperable AI pipelines, and real-time stablecoin rewards, allowing developers and organizations to build privacy-preserving AI applications across diverse domains such as healthcare, finance, and smart cities, and more.
+DIN provides foundational architecture for secure, sovereign data storage, interoperable AI-data pipelines, and real-time stablecoin rewards, allowing developers and organizations to build privacy-preserving AI applications across healthcare, finance, smart cities, and beyond.
 
 ---
 
