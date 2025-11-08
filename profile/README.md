@@ -1,6 +1,6 @@
 # Decentralized Intelligence Network (DIN)
 
-Decentralized Intelligence Network (**DIN**) is a **privacy-preserving, decentralized AI infrastructure and public goods network** that runs seamlessly in the background, empowering individuals to **earn through everyday app use** while contributing to an **inclusive AI economy**. Grounded in **decentralized acceleration (d/acc) principles**—defensive, democratic, and user-empowering—DIN is the inverse of the centralized AI model.
+Decentralized Intelligence Network (**DIN**) is a **privacy-preserving, decentralized AI infrastructure and public goods network** that runs seamlessly in the background, empowering individuals to **earn through everyday app use** while contributing to an **inclusive AI economy**. Grounded in **defensive acceleration (d/acc) principles**—defensive, democratic, and user-empowering—DIN is the inverse of the centralized AI model.
 
 Rather than concentrating **compute, data, and control** centrally, DIN functions as an **ownerless, validator-secured protocol** that shifts compute and data to the **edge**. **Lightweight AI models** run directly on user devices, significantly reducing resource demands and latency while enabling **scalable, privacy-focused AI training pipelines** close to where data originates.
 
